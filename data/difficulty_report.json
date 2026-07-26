@@ -1,270 +1,324 @@
 {
   "surviving_keywords": [
-    "bulk gstin validation api",
-    "gst verification api for businesses",
-    "bulk gstin verification tool",
-    "gst verification api providers in india",
-    "gst verification api for erp integration",
-    "bulk gstin search and verification",
-    "gstin verification api for compliance",
-    "instant gst number validation api",
-    "bulk gst verification for businesses",
-    "gst verification api for accounting software",
-    "gstin validation and verification api",
-    "bulk gstin verification online",
-    "gst verification api for india",
-    "real time gstin verification",
-    "how to validate gstin online"
+    "e-way bill system for logistics",
+    "e-way bill for transportation businesses",
+    "reducing tax evasion with e-way bill",
+    "streamlining logistics with e-way bill",
+    "e-way bill and gst compliance",
+    "e-way bill for supply chain management",
+    "e-way bill system benefits for businesses",
+    "importance of e-way bill in logistics",
+    "e-way bill and transportation efficiency",
+    "e-way bill system for b2b transport",
+    "e-way bill and inventory tracking",
+    "e-way bill for faster transportation times",
+    "e-way bill system for gst standards",
+    "benefits of e-way bill generation",
+    "advantages of e-way bill software",
+    "how e-way bill works in india",
+    "e-way bill generation process in india"
   ],
   "passed": [
-    "bulk gstin validation api",
-    "gst verification api for businesses",
-    "bulk gstin verification tool",
-    "gst verification api providers in india",
-    "gst verification api for erp integration",
-    "bulk gstin search and verification",
-    "gstin verification api for compliance",
-    "instant gst number validation api",
-    "bulk gst verification for businesses",
-    "gst verification api for accounting software",
-    "gstin validation and verification api",
-    "bulk gstin verification online",
-    "gst verification api for india"
+    "e-way bill system for logistics",
+    "e-way bill for transportation businesses",
+    "reducing tax evasion with e-way bill",
+    "streamlining logistics with e-way bill",
+    "e-way bill and gst compliance",
+    "e-way bill for supply chain management",
+    "e-way bill system benefits for businesses",
+    "importance of e-way bill in logistics",
+    "e-way bill and transportation efficiency",
+    "e-way bill system for b2b transport",
+    "e-way bill and inventory tracking",
+    "e-way bill for faster transportation times",
+    "e-way bill system for gst standards"
   ],
   "maybe": [
-    "real time gstin verification",
-    "how to validate gstin online"
+    "benefits of e-way bill generation",
+    "advantages of e-way bill software",
+    "how e-way bill works in india",
+    "e-way bill generation process in india"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "bulk gstin validation api",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "my.gstzen.in",
-        "gstincheck.co.in",
-        "einv-apisandbox.nic.in",
-        "sepfust.com",
-        "developer.iserveu.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst verification api for businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "microvistatech.com",
-        "eps.eko.in",
-        "perfios.ai",
-        "surepass.io",
-        "developer.iserveu.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time gstin verification",
+      "keyword": "benefits of e-way bill generation",
       "verdict": "MAYBE",
-      "score": 6,
+      "score": 4,
       "tier1_hits": [
-        "cleartax.in",
+        "taxguru.in"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "indiafilings.com",
+        "shipglobal.in",
+        "taxguru.in",
+        "docs.ewaybillgst.gov.in",
+        "axismaxlife.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+    },
+    {
+      "keyword": "e-way bill system for logistics",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "docs.ewaybillgst.gov.in",
+        "edicomgroup.com",
+        "logicerp.com",
+        "shipglobal.in",
+        "sovos.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "advantages of e-way bill software",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "taxguru.in"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "indiafilings.com",
+        "taxguru.in",
+        "shipglobal.in",
+        "binarysemantics.com",
+        "captainbiz.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+    },
+    {
+      "keyword": "how e-way bill works in india",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "docs.ewaybillgst.gov.in",
+        "edicomgroup.com",
+        "docs.ewaybillgst.gov.in",
+        "gstn.org.in",
+        "zoho.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
+    },
+    {
+      "keyword": "e-way bill for transportation businesses",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "docs.ewaybillgst.gov.in",
+        "docs.ewaybillgst.gov.in",
+        "gimbooks.com",
+        "gstn.org.in",
+        "webtel.in"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "reducing tax evasion with e-way bill",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "avalara.com",
+        "binarysemantics.com",
+        "bpasjournals.com",
+        "indiafilings.com",
+        "pwc.in"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "streamlining logistics with e-way bill",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "taxilla.com",
+        "busy.in",
+        "sovos.com",
+        "agaraminfotech.com",
+        "blog.symtrax.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "e-way bill and gst compliance",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "taxguru.in"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gstcouncil.gov.in",
+        "ewaybillgst.gov.in",
+        "docs.ewaybillgst.gov.in",
+        "binarysemantics.com",
+        "gstcouncil.gov.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "e-way bill for supply chain management",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "docs.ewaybillgst.gov.in",
+        "binarysemantics.com",
+        "linkedin.com",
+        "busy.in",
+        "sovos.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "e-way bill system benefits for businesses",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "avalara.com",
+        "edicomgroup.com",
+        "cashflo.io",
+        "logicerp.com",
+        "smaket.ai"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "e-way bill generation process in india",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
         "tallysolutions.com"
       ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cleartax.in",
-        "expressgst.com",
-        "sepfust.com",
-        "cashfree.com",
-        "staging.gstzen.in"
+      "tier2_hits": [
+        "bajajfinserv.in"
       ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: cleartax.in, tallysolutions.com. Winnable with strong content."
+      "top_5_domains": [
+        "docs.ewaybillgst.gov.in",
+        "youtube.com",
+        "webtel.in",
+        "tallysolutions.com",
+        "docs.ewaybillgst.gov.in"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
     },
     {
-      "keyword": "bulk gstin verification tool",
+      "keyword": "importance of e-way bill in logistics",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "shipglobal.in",
+        "gstn.org.in",
+        "aajswift.com",
+        "edicomgroup.com",
+        "indiafilings.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "e-way bill and transportation efficiency",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "staging.gstzen.in",
-        "my.gstzen.in",
-        "sepfust.com",
-        "smartgst.in",
-        "nikash.in"
+        "busy.in",
+        "legalwiz.in",
+        "linkedin.com",
+        "aajswift.com",
+        "kuey.net"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "gst verification api providers in india",
+      "keyword": "e-way bill system for b2b transport",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "surepass.io",
-        "befisc.com",
-        "microvistatech.com",
-        "gstincheck.co.in",
-        "messagecentral.com"
+        "docs.ewaybillgst.gov.in",
+        "ewaybillgst.gov.in",
+        "edicomgroup.com",
+        "docs.ewaybillgst.gov.in",
+        "logicerp.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "how to validate gstin online",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "cleartax.in",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cleartax.in",
-        "expressgst.com",
-        "my.gstzen.in",
-        "razorpay.com",
-        "busy.in"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: cleartax.in, tallysolutions.com. Winnable with strong content."
-    },
-    {
-      "keyword": "gst verification api for erp integration",
+      "keyword": "e-way bill and inventory tracking",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "microvistatech.com",
+        "docs.ewaybillgst.gov.in",
+        "binarysemantics.com",
+        "mybillbook.in",
         "whitebooks.in",
-        "developer.gst.gov.in",
-        "perfios.ai",
-        "drapcode.com"
+        "margbooks.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "bulk gstin search and verification",
+      "keyword": "e-way bill for faster transportation times",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "staging.gstzen.in",
-        "my.gstzen.in",
-        "nikash.in",
-        "sepfust.com",
-        "mastergst.com"
+        "docs.ewaybillgst.gov.in",
+        "docs.ewaybillgst.gov.in",
+        "aajswift.com",
+        "gimbooks.com",
+        "razorpay.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "gstin verification api for compliance",
+      "keyword": "e-way bill system for gst standards",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "gstincheck.co.in",
-        "eps.eko.in",
-        "developer.gst.gov.in",
-        "developer.iserveu.in",
-        "drapcode.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "instant gst number validation api",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gstincheck.co.in",
-        "developer.gst.gov.in",
-        "github.com",
-        "perfios.ai",
-        "microvistatech.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "bulk gst verification for businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "my.gstzen.in",
-        "my.gstzen.in",
-        "nikash.in",
-        "mastersindia.co",
-        "gst.getbusiness.co.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst verification api for accounting software",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "microvistatech.com",
-        "whitebooks.in",
-        "perfios.ai",
-        "ekychub.in",
-        "developer.gst.gov.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gstin validation and verification api",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gstincheck.co.in",
-        "einv-apisandbox.nic.in",
-        "cashfree.com",
-        "microvistatech.com",
-        "eps.eko.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "bulk gstin verification online",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "staging.gstzen.in",
-        "my.gstzen.in",
-        "expressgst.com",
-        "sepfust.com",
-        "nikash.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst verification api for india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "github.com",
-        "gstincheck.co.in",
-        "microvistatech.com",
-        "eps.eko.in",
-        "perfios.ai"
+        "ewaybill2.gst.gov.in",
+        "docs.ewaybillgst.gov.in",
+        "gstcouncil.gov.in",
+        "ewaybill2.gst.gov.in",
+        "gstn.org.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }

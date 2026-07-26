@@ -1,64 +1,73 @@
 {
-  "clusters": [
-    {
-      "hub_topic": "GST Verification API",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Our product supports GSTIN auto-fetch and GST compliance, which aligns with the need for GST verification APIs for businesses, ERP integration, and accounting software.",
-      "keywords": [
-        "gst verification api for businesses",
-        "gst verification api for erp integration",
-        "gst verification api for accounting software",
-        "gstin verification api for compliance"
-      ]
-    },
-    {
-      "hub_topic": "Bulk GSTIN Validation",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product's auto GST calculation and GST compliance features support the need for bulk GSTIN validation and verification tools.",
-      "keywords": [
-        "bulk gstin validation api",
-        "bulk gstin verification tool",
-        "bulk gstin search and verification",
-        "bulk gst verification for businesses",
-        "bulk gstin verification online"
-      ]
-    },
-    {
-      "hub_topic": "GST Verification API Providers",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product's GST compliance and GSTIN auto-fetch features make it a suitable provider for GST verification APIs in India.",
-      "keywords": [
-        "gst verification api providers in india",
-        "gst verification api for india"
-      ]
-    },
-    {
-      "hub_topic": "Real-time GSTIN Verification",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "Our product's real-time payment tracking and GST compliance features support the need for real-time GSTIN verification and instant GST number validation.",
-      "keywords": [
-        "real time gstin verification",
-        "instant gst number validation api"
-      ]
-    },
-    {
-      "hub_topic": "GSTIN Validation and Verification",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product's GST compliance and GSTIN auto-fetch features support the need for GSTIN validation and verification APIs.",
-      "keywords": [
-        "gstin validation and verification api"
-      ]
-    }
-  ],
+  "clusters": [],
   "rejected_keywords": [
     {
-      "original": "how to validate gstin online",
-      "reason": "This keyword is too generic and does not directly relate to our product's features."
+      "original": "e-way bill system for logistics",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "e-way bill for transportation businesses",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "reducing tax evasion with e-way bill",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "streamlining logistics with e-way bill",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "e-way bill and gst compliance",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map, although GST compliance is supported."
+    },
+    {
+      "original": "e-way bill for supply chain management",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "e-way bill system benefits for businesses",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "importance of e-way bill in logistics",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "e-way bill and transportation efficiency",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "e-way bill system for b2b transport",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "e-way bill and inventory tracking",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map, although inventory management is supported."
+    },
+    {
+      "original": "e-way bill for faster transportation times",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "e-way bill system for gst standards",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map, although GST compliance is supported."
+    },
+    {
+      "original": "benefits of e-way bill generation",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "advantages of e-way bill software",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "how e-way bill works in india",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+    },
+    {
+      "original": "e-way bill generation process in india",
+      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
     }
   ]
 }
