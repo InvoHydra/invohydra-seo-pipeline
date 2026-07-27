@@ -1,73 +1,35 @@
 {
-  "clusters": [],
-  "rejected_keywords": [
+  "clusters": [
     {
-      "original": "e-way bill system for logistics",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+      "hub_topic": "GST Compliance for E-commerce Sellers",
+      "demand": "High",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product supports GST compliance through features like gst_compliance, automatic_tax_calculations, and gst_invoice_generation, making it a suitable fit for e-commerce sellers looking for GST compliance guidelines and registration processes.",
+      "keywords": [
+        "gst registration for e-commerce sellers",
+        "e-commerce gst compliance checklist",
+        "gst rules for e-commerce sellers in india",
+        "gst compliance guidelines for e-commerce",
+        "gst compliance for online marketplace sellers",
+        "gst registration mandatory for e-commerce businesses",
+        "gst compliance for e-commerce operators in india",
+        "gst compliance for e-commerce businesses in india",
+        "gst registration process for e-commerce businesses",
+        "how to register for gst as an e-commerce business"
+      ]
     },
     {
-      "original": "e-way bill for transportation businesses",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "reducing tax evasion with e-way bill",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "streamlining logistics with e-way bill",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "e-way bill and gst compliance",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map, although GST compliance is supported."
-    },
-    {
-      "original": "e-way bill for supply chain management",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "e-way bill system benefits for businesses",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "importance of e-way bill in logistics",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "e-way bill and transportation efficiency",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "e-way bill system for b2b transport",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "e-way bill and inventory tracking",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map, although inventory management is supported."
-    },
-    {
-      "original": "e-way bill for faster transportation times",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "e-way bill system for gst standards",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map, although GST compliance is supported."
-    },
-    {
-      "original": "benefits of e-way bill generation",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "advantages of e-way bill software",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "how e-way bill works in india",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
-    },
-    {
-      "original": "e-way bill generation process in india",
-      "reason": "E-way bill generation is not a supported feature according to the capability truth map."
+      "hub_topic": "GST Registration and Requirements for E-commerce",
+      "demand": "Medium",
+      "intent": "Transactional",
+      "product_fit_rationale": "Features like gstin_auto_fetch, auto_gst_calculation, and gst_compliance support the GST registration and requirement needs of e-commerce sellers, aligning with our product's capabilities.",
+      "keywords": [
+        "gst tax credit limits for e-commerce sellers",
+        "new gst compliance guidelines for e-commerce sellers",
+        "gst requirements for e-commerce operators",
+        "gst registration documents required for e-commerce"
+      ]
     }
-  ]
+  ],
+  "rejected_keywords": []
 }

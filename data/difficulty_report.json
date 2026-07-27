@@ -1,169 +1,150 @@
 {
   "surviving_keywords": [
-    "e-way bill system for logistics",
-    "e-way bill for transportation businesses",
-    "reducing tax evasion with e-way bill",
-    "streamlining logistics with e-way bill",
-    "e-way bill and gst compliance",
-    "e-way bill for supply chain management",
-    "e-way bill system benefits for businesses",
-    "importance of e-way bill in logistics",
-    "e-way bill and transportation efficiency",
-    "e-way bill system for b2b transport",
-    "e-way bill and inventory tracking",
-    "e-way bill for faster transportation times",
-    "e-way bill system for gst standards",
-    "benefits of e-way bill generation",
-    "advantages of e-way bill software",
-    "how e-way bill works in india",
-    "e-way bill generation process in india"
+    "gst registration for e-commerce sellers",
+    "e-commerce gst compliance checklist",
+    "gst rules for e-commerce sellers in india",
+    "gst compliance guidelines for e-commerce",
+    "gst compliance for online marketplace sellers",
+    "gst registration mandatory for e-commerce businesses",
+    "gst tax credit limits for e-commerce sellers",
+    "new gst compliance guidelines for e-commerce sellers",
+    "gst compliance for e-commerce operators in india",
+    "gst compliance for e-commerce businesses in india",
+    "gst requirements for e-commerce operators",
+    "gst registration process for e-commerce businesses",
+    "how to register for gst as an e-commerce business",
+    "gst registration documents required for e-commerce"
   ],
   "passed": [
-    "e-way bill system for logistics",
-    "e-way bill for transportation businesses",
-    "reducing tax evasion with e-way bill",
-    "streamlining logistics with e-way bill",
-    "e-way bill and gst compliance",
-    "e-way bill for supply chain management",
-    "e-way bill system benefits for businesses",
-    "importance of e-way bill in logistics",
-    "e-way bill and transportation efficiency",
-    "e-way bill system for b2b transport",
-    "e-way bill and inventory tracking",
-    "e-way bill for faster transportation times",
-    "e-way bill system for gst standards"
+    "gst registration for e-commerce sellers",
+    "e-commerce gst compliance checklist",
+    "gst rules for e-commerce sellers in india",
+    "gst compliance guidelines for e-commerce",
+    "gst compliance for online marketplace sellers",
+    "gst registration mandatory for e-commerce businesses",
+    "gst tax credit limits for e-commerce sellers",
+    "new gst compliance guidelines for e-commerce sellers",
+    "gst compliance for e-commerce operators in india"
   ],
   "maybe": [
-    "benefits of e-way bill generation",
-    "advantages of e-way bill software",
-    "how e-way bill works in india",
-    "e-way bill generation process in india"
+    "gst compliance for e-commerce businesses in india",
+    "gst requirements for e-commerce operators",
+    "gst registration process for e-commerce businesses",
+    "how to register for gst as an e-commerce business",
+    "gst registration documents required for e-commerce"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "benefits of e-way bill generation",
+      "keyword": "gst compliance for e-commerce businesses in india",
       "verdict": "MAYBE",
-      "score": 4,
+      "score": 5,
       "tier1_hits": [
         "taxguru.in"
       ],
       "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
         "indiafilings.com",
-        "shipglobal.in",
-        "taxguru.in",
-        "docs.ewaybillgst.gov.in",
-        "axismaxlife.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
-    },
-    {
-      "keyword": "e-way bill system for logistics",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "edicomgroup.com",
-        "logicerp.com",
-        "shipglobal.in",
-        "sovos.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "advantages of e-way bill software",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "indiafilings.com",
-        "taxguru.in",
-        "shipglobal.in",
-        "binarysemantics.com",
-        "captainbiz.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
-    },
-    {
-      "keyword": "how e-way bill works in india",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
         "bajajfinserv.in"
       ],
       "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "edicomgroup.com",
-        "docs.ewaybillgst.gov.in",
-        "gstn.org.in",
-        "zoho.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "e-way bill for transportation businesses",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "docs.ewaybillgst.gov.in",
-        "gimbooks.com",
-        "gstn.org.in",
-        "webtel.in"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "reducing tax evasion with e-way bill",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "avalara.com",
-        "binarysemantics.com",
-        "bpasjournals.com",
+        "tax2win.in",
+        "nexpective.in",
         "indiafilings.com",
-        "pwc.in"
+        "linkedin.com",
+        "gstcouncil.gov.in"
+      ],
+      "reason": "Moderate competition (score=5). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com, bajajfinserv.in. Winnable with strong content."
+    },
+    {
+      "keyword": "gst registration for e-commerce sellers",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "tax2win.in",
+        "indiafilings.com",
+        "zetapp.in",
+        "gstcouncil.gov.in",
+        "youtube.com"
       ],
       "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "streamlining logistics with e-way bill",
+      "keyword": "gst requirements for e-commerce operators",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "taxguru.in"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "gstcouncil.gov.in",
+        "tax2win.in",
+        "taxguru.in",
+        "nexpective.in",
+        "indiafilings.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+    },
+    {
+      "keyword": "e-commerce gst compliance checklist",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "taxilla.com",
-        "busy.in",
-        "sovos.com",
-        "agaraminfotech.com",
-        "blog.symtrax.com"
+        "corientbs.com",
+        "zetapp.in",
+        "sell.amazon.in",
+        "refrens.com",
+        "avalara.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "e-way bill and gst compliance",
+      "keyword": "gst registration process for e-commerce businesses",
+      "verdict": "MAYBE",
+      "score": 5,
+      "tier1_hits": [
+        "gst.gov.in"
+      ],
+      "tier2_hits": [
+        "indiafilings.com",
+        "vakilsearch.com"
+      ],
+      "top_5_domains": [
+        "tax2win.in",
+        "youtube.com",
+        "indiafilings.com",
+        "gst.gov.in",
+        "jjfintax.com"
+      ],
+      "reason": "Moderate competition (score=5). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com, vakilsearch.com. Winnable with strong content."
+    },
+    {
+      "keyword": "gst rules for e-commerce sellers in india",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "gstcouncil.gov.in",
+        "tax2win.in",
+        "sell.amazon.in",
+        "dmifinance.in",
+        "zetapp.in"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "gst compliance guidelines for e-commerce",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -172,30 +153,35 @@
       "tier2_hits": [],
       "top_5_domains": [
         "gstcouncil.gov.in",
-        "ewaybillgst.gov.in",
-        "docs.ewaybillgst.gov.in",
-        "binarysemantics.com",
-        "gstcouncil.gov.in"
+        "taxguru.in",
+        "zetapp.in",
+        "linkedin.com",
+        "nexpective.in"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "e-way bill for supply chain management",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "binarysemantics.com",
-        "linkedin.com",
-        "busy.in",
-        "sovos.com"
+      "keyword": "how to register for gst as an e-commerce business",
+      "verdict": "MAYBE",
+      "score": 5,
+      "tier1_hits": [
+        "gst.gov.in"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "tier2_hits": [
+        "indiafilings.com",
+        "vakilsearch.com"
+      ],
+      "top_5_domains": [
+        "youtube.com",
+        "indiafilings.com",
+        "gst.gov.in",
+        "zetapp.in",
+        "tax2win.in"
+      ],
+      "reason": "Moderate competition (score=5). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com, vakilsearch.com. Winnable with strong content."
     },
     {
-      "keyword": "e-way bill system benefits for businesses",
+      "keyword": "gst compliance for online marketplace sellers",
       "verdict": "PASS",
       "score": 1,
       "tier1_hits": [],
@@ -203,124 +189,96 @@
         "indiafilings.com"
       ],
       "top_5_domains": [
-        "avalara.com",
-        "edicomgroup.com",
-        "cashflo.io",
-        "logicerp.com",
-        "smaket.ai"
+        "busy.in",
+        "zetapp.in",
+        "linkedin.com",
+        "oxfordaccounting.in",
+        "gstcouncil.gov.in"
       ],
       "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "e-way bill generation process in india",
+      "keyword": "gst registration mandatory for e-commerce businesses",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "tax2win.in",
+        "gstcouncil.gov.in",
+        "indiafilings.com",
+        "zetapp.in",
+        "rvks.in"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "gst tax credit limits for e-commerce sellers",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "numeral.com",
+        "legalwiz.in",
+        "cahoot.ai",
+        "reddit.com",
+        "facebook.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "new gst compliance guidelines for e-commerce sellers",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zetapp.in",
+        "dmifinance.in",
+        "linkedin.com",
+        "gstcouncil.gov.in",
+        "sell.amazon.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst compliance for e-commerce operators in india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "taxguru.in"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "taxguru.in",
+        "gstcouncil.gov.in",
+        "dmifinance.in",
+        "nexpective.in",
+        "linkedin.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "gst registration documents required for e-commerce",
       "verdict": "MAYBE",
       "score": 4,
       "tier1_hits": [
-        "tallysolutions.com"
+        "gst.gov.in"
       ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "youtube.com",
-        "webtel.in",
-        "tallysolutions.com",
-        "docs.ewaybillgst.gov.in"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "importance of e-way bill in logistics",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
       "tier2_hits": [
         "indiafilings.com"
       ],
       "top_5_domains": [
-        "shipglobal.in",
-        "gstn.org.in",
-        "aajswift.com",
-        "edicomgroup.com",
-        "indiafilings.com"
+        "sell.amazon.in",
+        "gst.gov.in",
+        "tax2win.in",
+        "tutorial.gst.gov.in",
+        "jjfintax.com"
       ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "e-way bill and transportation efficiency",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "busy.in",
-        "legalwiz.in",
-        "linkedin.com",
-        "aajswift.com",
-        "kuey.net"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e-way bill system for b2b transport",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "ewaybillgst.gov.in",
-        "edicomgroup.com",
-        "docs.ewaybillgst.gov.in",
-        "logicerp.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e-way bill and inventory tracking",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "binarysemantics.com",
-        "mybillbook.in",
-        "whitebooks.in",
-        "margbooks.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e-way bill for faster transportation times",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "docs.ewaybillgst.gov.in",
-        "aajswift.com",
-        "gimbooks.com",
-        "razorpay.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e-way bill system for gst standards",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ewaybill2.gst.gov.in",
-        "docs.ewaybillgst.gov.in",
-        "gstcouncil.gov.in",
-        "ewaybill2.gst.gov.in",
-        "gstn.org.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Moderate competition (score=4). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
     }
   ]
 }
