@@ -1,22 +1,10 @@
 {
   "top_10": [
     {
-      "keyword": "gst compliant inventory management",
-      "filename": "gst-compliant-inventory-management.json",
-      "rank": 3,
-      "url": "https://www.invohydra.com/blog/gst-billing-and-inventory-management-solutions"
-    },
-    {
-      "keyword": "gst billing and inventory management solutions",
-      "filename": "gst-billing-and-inventory-management-solutions.json",
+      "keyword": "bulk gstin validation for gst compliance",
+      "filename": "bulk-gstin-validation-for-gst-compliance.json",
       "rank": 6,
-      "url": "https://www.invohydra.com/blog/gst-billing-and-inventory-management-solutions"
-    },
-    {
-      "keyword": "pos billing software for small businesses",
-      "filename": "pos-billing-software-for-small-businesses.json",
-      "rank": 6,
-      "url": "https://www.invohydra.com/blog/pos-billing-software-for-small-businesses"
+      "url": "https://www.invohydra.com/blog/bulk-gstin-validation-for-gst-compliance"
     }
   ],
   "page_2_refresh": [],
@@ -64,8 +52,20 @@
       "url": null
     },
     {
+      "keyword": "gst compliant inventory management",
+      "filename": "gst-compliant-inventory-management.json",
+      "rank": -1,
+      "url": null
+    },
+    {
       "keyword": "real time inventory tracking benefits",
       "filename": "real-time-inventory-tracking-benefits.json",
+      "rank": -1,
+      "url": null
+    },
+    {
+      "keyword": "gst billing and inventory management solutions",
+      "filename": "gst-billing-and-inventory-management-solutions.json",
       "rank": -1,
       "url": null
     },
@@ -76,14 +76,26 @@
       "url": null
     },
     {
-      "keyword": "bulk gstin validation for gst compliance",
-      "filename": "bulk-gstin-validation-for-gst-compliance.json",
+      "keyword": "pos billing software for small businesses",
+      "filename": "pos-billing-software-for-small-businesses.json",
+      "rank": -1,
+      "url": null
+    },
+    {
+      "keyword": "gst registration for e commerce businesses",
+      "filename": "gst-registration-for-e-commerce-businesses.json",
       "rank": -1,
       "url": null
     },
     {
       "keyword": "inventory management software for small businesses in india",
       "filename": "inventory-management-software-for-small-businesses-in-india.json",
+      "rank": -1,
+      "url": null
+    },
+    {
+      "keyword": "gst compliance for e commerce sellers",
+      "filename": "gst-compliance-for-e-commerce-sellers.json",
       "rank": -1,
       "url": null
     },
