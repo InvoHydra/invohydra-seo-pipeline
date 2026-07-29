@@ -1,35 +1,69 @@
 {
   "clusters": [
     {
-      "hub_topic": "GST Compliance for E-commerce Sellers",
+      "hub_topic": "Tax Automation Solutions",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "Our product supports GST compliance through features like gst_compliance, automatic_tax_calculations, and gst_invoice_generation, making it a suitable fit for e-commerce sellers looking for GST compliance guidelines and registration processes.",
+      "product_fit_rationale": "Our product supports automated tax calculations, which aligns with the benefits and advantages of tax automation solutions for businesses, especially MSMEs in India.",
       "keywords": [
-        "gst registration for e-commerce sellers",
-        "e-commerce gst compliance checklist",
-        "gst rules for e-commerce sellers in india",
-        "gst compliance guidelines for e-commerce",
-        "gst compliance for online marketplace sellers",
-        "gst registration mandatory for e-commerce businesses",
-        "gst compliance for e-commerce operators in india",
-        "gst compliance for e-commerce businesses in india",
-        "gst registration process for e-commerce businesses",
-        "how to register for gst as an e-commerce business"
+        "benefits of tax automation solutions",
+        "key benefits of tax process automation",
+        "advantages of automated tax systems",
+        "benefits of automated sales tax solutions"
       ]
     },
     {
-      "hub_topic": "GST Registration and Requirements for E-commerce",
+      "hub_topic": "Automated Tax Compliance",
       "demand": "Medium",
       "intent": "Transactional",
-      "product_fit_rationale": "Features like gstin_auto_fetch, auto_gst_calculation, and gst_compliance support the GST registration and requirement needs of e-commerce sellers, aligning with our product's capabilities.",
+      "product_fit_rationale": "Our product offers automated tax compliance features, which supports small businesses and MSMEs in India, aligning with the intent of finding automated tax services and solutions.",
       "keywords": [
-        "gst tax credit limits for e-commerce sellers",
-        "new gst compliance guidelines for e-commerce sellers",
-        "gst requirements for e-commerce operators",
-        "gst registration documents required for e-commerce"
+        "automated tax compliance for small business",
+        "automated tax compliance for msme india",
+        "automated tax solutions for indian small businesses"
+      ]
+    },
+    {
+      "hub_topic": "Tax Calculation Automation",
+      "demand": "High",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product features automatic tax calculations, which is a key aspect of tax calculation automation for Indian businesses, supporting accurate tax estimation and planning.",
+      "keywords": [
+        "tax calculation automation for msme",
+        "automated sales tax solutions for indian businesses",
+        "accurate tax estimation with automation",
+        "tax calculation automation for indian businesses"
+      ]
+    },
+    {
+      "hub_topic": "Tax Planning and Services",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product supports automated tax planning and offers tax services for businesses, which aligns with the benefits of automated tax systems and the need for effective tax planning strategies.",
+      "keywords": [
+        "automated tax planning for small business owners",
+        "automated tax services for business",
+        "effective tax planning strategies for small businesses"
+      ]
+    },
+    {
+      "hub_topic": "Point of Sale Tax Automation",
+      "demand": "Low",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product features automated tax calculations, which can be applied at the point of sale, supporting businesses in India with accurate and efficient tax processing.",
+      "keywords": [
+        "automated tax calculation at point of sale"
       ]
     }
   ],
-  "rejected_keywords": []
+  "rejected_keywords": [
+    {
+      "original": "automating payroll for small businesses",
+      "reason": "Payroll automation is not explicitly listed as a supported feature in our capability truth map."
+    },
+    {
+      "original": "tax automation software for indian msme",
+      "reason": "While our product does support tax automation, this keyword implies a specific software solution which may not fully align with our product's capabilities as described."
+    }
+  ]
 }

@@ -1,284 +1,327 @@
 {
   "surviving_keywords": [
-    "gst registration for e-commerce sellers",
-    "e-commerce gst compliance checklist",
-    "gst rules for e-commerce sellers in india",
-    "gst compliance guidelines for e-commerce",
-    "gst compliance for online marketplace sellers",
-    "gst registration mandatory for e-commerce businesses",
-    "gst tax credit limits for e-commerce sellers",
-    "new gst compliance guidelines for e-commerce sellers",
-    "gst compliance for e-commerce operators in india",
-    "gst compliance for e-commerce businesses in india",
-    "gst requirements for e-commerce operators",
-    "gst registration process for e-commerce businesses",
-    "how to register for gst as an e-commerce business",
-    "gst registration documents required for e-commerce"
+    "benefits of tax automation solutions",
+    "tax calculation automation for msme",
+    "automated sales tax solutions for indian businesses",
+    "key benefits of tax process automation",
+    "automated tax compliance for small business",
+    "advantages of automated tax systems",
+    "automated tax services for business",
+    "accurate tax estimation with automation",
+    "automated tax planning for small business owners",
+    "benefits of automated sales tax solutions",
+    "automated tax calculation at point of sale",
+    "tax calculation automation for indian businesses",
+    "automating payroll for small businesses",
+    "effective tax planning strategies for small businesses",
+    "automated tax solutions for indian small businesses",
+    "automated tax compliance for msme india",
+    "automated tax calculations for small businesses",
+    "tax automation software for indian msme"
   ],
   "passed": [
-    "gst registration for e-commerce sellers",
-    "e-commerce gst compliance checklist",
-    "gst rules for e-commerce sellers in india",
-    "gst compliance guidelines for e-commerce",
-    "gst compliance for online marketplace sellers",
-    "gst registration mandatory for e-commerce businesses",
-    "gst tax credit limits for e-commerce sellers",
-    "new gst compliance guidelines for e-commerce sellers",
-    "gst compliance for e-commerce operators in india"
+    "benefits of tax automation solutions",
+    "tax calculation automation for msme",
+    "automated sales tax solutions for indian businesses",
+    "key benefits of tax process automation",
+    "automated tax compliance for small business",
+    "advantages of automated tax systems",
+    "automated tax services for business",
+    "accurate tax estimation with automation",
+    "automated tax planning for small business owners",
+    "benefits of automated sales tax solutions",
+    "automated tax calculation at point of sale",
+    "tax calculation automation for indian businesses",
+    "automating payroll for small businesses",
+    "effective tax planning strategies for small businesses",
+    "automated tax solutions for indian small businesses",
+    "automated tax compliance for msme india"
   ],
   "maybe": [
-    "gst compliance for e-commerce businesses in india",
-    "gst requirements for e-commerce operators",
-    "gst registration process for e-commerce businesses",
-    "how to register for gst as an e-commerce business",
-    "gst registration documents required for e-commerce"
+    "automated tax calculations for small businesses",
+    "tax automation software for indian msme"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "gst compliance for e-commerce businesses in india",
+      "keyword": "automated tax calculations for small businesses",
       "verdict": "MAYBE",
-      "score": 5,
+      "score": 6,
       "tier1_hits": [
-        "taxguru.in"
+        "quickbooks.intuit.com",
+        "incometax.gov.in"
       ],
-      "tier2_hits": [
-        "indiafilings.com",
-        "bajajfinserv.in"
-      ],
+      "tier2_hits": [],
       "top_5_domains": [
-        "tax2win.in",
-        "nexpective.in",
-        "indiafilings.com",
-        "linkedin.com",
-        "gstcouncil.gov.in"
+        "avalara.com",
+        "tax.thomsonreuters.com",
+        "taxjar.com",
+        "madrasaccountancy.com",
+        "quickbooks.intuit.com"
       ],
-      "reason": "Moderate competition (score=5). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com, bajajfinserv.in. Winnable with strong content."
+      "reason": "Moderate competition (score=6). Tier 1 domains present: quickbooks.intuit.com, incometax.gov.in. Winnable with strong content."
     },
     {
-      "keyword": "gst registration for e-commerce sellers",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "tax2win.in",
-        "indiafilings.com",
-        "zetapp.in",
-        "gstcouncil.gov.in",
-        "youtube.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "gst requirements for e-commerce operators",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "gstcouncil.gov.in",
-        "tax2win.in",
-        "taxguru.in",
-        "nexpective.in",
-        "indiafilings.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
-    },
-    {
-      "keyword": "e-commerce gst compliance checklist",
+      "keyword": "benefits of tax automation solutions",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "corientbs.com",
-        "zetapp.in",
-        "sell.amazon.in",
-        "refrens.com",
-        "avalara.com"
+        "pro.bloombergtax.com",
+        "infosysbpm.com",
+        "vertexinc.com",
+        "tax.thomsonreuters.com",
+        "cbh.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "gst registration process for e-commerce businesses",
-      "verdict": "MAYBE",
-      "score": 5,
-      "tier1_hits": [
-        "gst.gov.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com",
-        "vakilsearch.com"
-      ],
-      "top_5_domains": [
-        "tax2win.in",
-        "youtube.com",
-        "indiafilings.com",
-        "gst.gov.in",
-        "jjfintax.com"
-      ],
-      "reason": "Moderate competition (score=5). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com, vakilsearch.com. Winnable with strong content."
-    },
-    {
-      "keyword": "gst rules for e-commerce sellers in india",
+      "keyword": "tax calculation automation for msme",
       "verdict": "PASS",
-      "score": 1,
+      "score": 0,
       "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
+      "tier2_hits": [],
       "top_5_domains": [
-        "gstcouncil.gov.in",
-        "tax2win.in",
-        "sell.amazon.in",
-        "dmifinance.in",
-        "zetapp.in"
+        "syansoft.com",
+        "hyperbots.com",
+        "avalara.com",
+        "tax.thomsonreuters.com",
+        "madrasaccountancy.com"
       ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "gst compliance guidelines for e-commerce",
+      "keyword": "automated sales tax solutions for indian businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "avalara.com",
+        "anrok.com",
+        "tax.thomsonreuters.com",
+        "zamp.com",
+        "capterra.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "key benefits of tax process automation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tax.thomsonreuters.com",
+        "analytix.com",
+        "infosysbpm.com",
+        "pro.bloombergtax.com",
+        "hyperbots.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automated tax compliance for small business",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tax.thomsonreuters.com",
+        "avalara.com",
+        "madrasaccountancy.com",
+        "taxjar.com",
+        "febi.ai"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "tax automation software for indian msme",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "cleartax.in",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "saginfotech.com",
+        "cleartax.in",
+        "tutorial.gst.gov.in",
+        "tallysolutions.com",
+        "thomsonreuters.in"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: cleartax.in, tallysolutions.com. Winnable with strong content."
+    },
+    {
+      "keyword": "advantages of automated tax systems",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "infosysbpm.com",
+        "papers.ssrn.com",
+        "taxually.com",
+        "scholarship.law.duke.edu",
+        "researchgate.net"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automated tax services for business",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "stripe.com",
+        "kpmg.com",
+        "tax.thomsonreuters.com",
+        "infosysbpm.com",
+        "gartner.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "accurate tax estimation with automation",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "taxguru.in"
+        "incometax.gov.in"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "gstcouncil.gov.in",
-        "taxguru.in",
-        "zetapp.in",
-        "linkedin.com",
-        "nexpective.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to register for gst as an e-commerce business",
-      "verdict": "MAYBE",
-      "score": 5,
-      "tier1_hits": [
-        "gst.gov.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com",
-        "vakilsearch.com"
-      ],
-      "top_5_domains": [
-        "youtube.com",
-        "indiafilings.com",
-        "gst.gov.in",
-        "zetapp.in",
-        "tax2win.in"
-      ],
-      "reason": "Moderate competition (score=5). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com, vakilsearch.com. Winnable with strong content."
-    },
-    {
-      "keyword": "gst compliance for online marketplace sellers",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "busy.in",
-        "zetapp.in",
-        "linkedin.com",
-        "oxfordaccounting.in",
-        "gstcouncil.gov.in"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "gst registration mandatory for e-commerce businesses",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "tax2win.in",
-        "gstcouncil.gov.in",
-        "indiafilings.com",
-        "zetapp.in",
-        "rvks.in"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "gst tax credit limits for e-commerce sellers",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "numeral.com",
-        "legalwiz.in",
-        "cahoot.ai",
-        "reddit.com",
-        "facebook.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "new gst compliance guidelines for e-commerce sellers",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zetapp.in",
-        "dmifinance.in",
-        "linkedin.com",
-        "gstcouncil.gov.in",
-        "sell.amazon.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst compliance for e-commerce operators in india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "taxguru.in",
-        "gstcouncil.gov.in",
-        "dmifinance.in",
-        "nexpective.in",
+        "thomsonreuters.in",
+        "hyperbots.com",
+        "apideck.com",
+        "computaxonline.com",
         "linkedin.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "gst registration documents required for e-commerce",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "gst.gov.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
+      "keyword": "automated tax planning for small business owners",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
       "top_5_domains": [
-        "sell.amazon.in",
-        "gst.gov.in",
-        "tax2win.in",
-        "tutorial.gst.gov.in",
-        "jjfintax.com"
+        "idfcfirst.bank.in",
+        "cnb.com",
+        "erpca.com",
+        "pkchopra.com",
+        "linkedin.com"
       ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "benefits of automated sales tax solutions",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zamp.com",
+        "avalara.com",
+        "tax.thomsonreuters.com",
+        "teamsoftware.com",
+        "vertexinc.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automated tax calculation at point of sale",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "avalara.com",
+        "facebook.com",
+        "taxcloud.com",
+        "payanywhere.com",
+        "posytude.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "tax calculation automation for indian businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "thomsonreuters.in",
+        "planmytax.ai",
+        "hyperbots.com",
+        "mileseducation.com",
+        "instagram.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automating payroll for small businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gusto.com",
+        "rippling.com",
+        "runtimehrms.com",
+        "tmetric.com",
+        "vensure.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "effective tax planning strategies for small businesses",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cnb.com",
+        "preferredcfo.com",
+        "ltaxconsulting.com",
+        "brickbooksandpayroll.com",
+        "nu.edu"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automated tax solutions for indian small businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "eztax.in",
+        "tax.thomsonreuters.com",
+        "febi.ai",
+        "f6s.com",
+        "store.pwc.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automated tax compliance for msme india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gstlearn.com",
+        "store.projectmart.in",
+        "protium.co.in",
+        "youtube.com",
+        "syansoft.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
   ]
 }
