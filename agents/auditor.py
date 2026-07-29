@@ -151,6 +151,12 @@ def run_auditor():
         rank = result["rank"]
         url = result["url"]
 
+        if not url:
+            slug = blog_data.get("url_slug", "").strip()
+            if not slug:
+                slug = filename.replace(".json", "").replace(".md", "").strip()
+            url = f"https://www.invohydra.com/blog/{slug}"
+
         entry = {
             "keyword": keyword,
             "filename": filename,
