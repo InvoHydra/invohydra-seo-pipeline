@@ -5,6 +5,12 @@
       "filename": "bulk-gstin-validation-for-gst-compliance.json",
       "rank": 6,
       "url": "https://www.invohydra.com/blog/bulk-gstin-validation-for-gst-compliance"
+    },
+    {
+      "keyword": "gst compliant inventory management",
+      "filename": "gst-compliant-inventory-management.json",
+      "rank": 3,
+      "url": "https://www.invohydra.com/blog/gst-billing-and-inventory-management-solutions"
     }
   ],
   "page_2_refresh": [],
@@ -32,12 +38,6 @@
       "filename": "gst-billing-and-inventory-management-solutions.json",
       "rank": -1,
       "url": "https://www.invohydra.com/blog/gst-billing-and-inventory-management-solutions"
-    },
-    {
-      "keyword": "gst compliant inventory management",
-      "filename": "gst-compliant-inventory-management.json",
-      "rank": -1,
-      "url": "https://www.invohydra.com/blog/gst-compliant-inventory-management"
     },
     {
       "keyword": "gst verification api for businesses",
