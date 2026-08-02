@@ -1,69 +1,36 @@
 {
   "clusters": [
     {
-      "hub_topic": "Tax Automation Solutions",
+      "hub_topic": "Real-time Payment Tracking and Cash Flow Management",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "Our product supports automated tax calculations, which aligns with the benefits and advantages of tax automation solutions for businesses, especially MSMEs in India.",
+      "product_fit_rationale": "Our product supports real-time payment tracking, which is essential for effective cash flow management. Features like real_time_payment_tracking and automatic_tax_calculations enable businesses to have accurate and up-to-date information about their cash flow.",
       "keywords": [
-        "benefits of tax automation solutions",
-        "key benefits of tax process automation",
-        "advantages of automated tax systems",
-        "benefits of automated sales tax solutions"
+        "real time payment tracking for cash flow management",
+        "importance of real time cash flow visibility",
+        "benefits of real time payments for businesses",
+        "real time payments for cash flow management",
+        "real time cash flow information for business leaders",
+        "improving cash flow with real time payments",
+        "real time payment tracking for smes",
+        "real time cash flow visibility for businesses",
+        "real time payments for liquidity management",
+        "real time payment technology for businesses",
+        "importance of accurate cash flow management"
       ]
     },
     {
-      "hub_topic": "Automated Tax Compliance",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "Our product offers automated tax compliance features, which supports small businesses and MSMEs in India, aligning with the intent of finding automated tax services and solutions.",
-      "keywords": [
-        "automated tax compliance for small business",
-        "automated tax compliance for msme india",
-        "automated tax solutions for indian small businesses"
-      ]
-    },
-    {
-      "hub_topic": "Tax Calculation Automation",
-      "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product features automatic tax calculations, which is a key aspect of tax calculation automation for Indian businesses, supporting accurate tax estimation and planning.",
-      "keywords": [
-        "tax calculation automation for msme",
-        "automated sales tax solutions for indian businesses",
-        "accurate tax estimation with automation",
-        "tax calculation automation for indian businesses"
-      ]
-    },
-    {
-      "hub_topic": "Tax Planning and Services",
+      "hub_topic": "Cash Flow Management Strategies and Reporting",
       "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "Our product supports automated tax planning and offers tax services for businesses, which aligns with the benefits of automated tax systems and the need for effective tax planning strategies.",
+      "product_fit_rationale": "Our product offers features like expense_tracking, client_management, and reports_and_analytics, which are crucial for effective cash flow management and reporting. These features help businesses to track their expenses, manage clients, and generate reports to make informed decisions.",
       "keywords": [
-        "automated tax planning for small business owners",
-        "automated tax services for business",
-        "effective tax planning strategies for small businesses"
-      ]
-    },
-    {
-      "hub_topic": "Point of Sale Tax Automation",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product features automated tax calculations, which can be applied at the point of sale, supporting businesses in India with accurate and efficient tax processing.",
-      "keywords": [
-        "automated tax calculation at point of sale"
+        "cash flow management strategies for smes",
+        "cash flow management and reporting for businesses",
+        "payment management solutions for cash flow",
+        "cash flow forecasting with real time data"
       ]
     }
   ],
-  "rejected_keywords": [
-    {
-      "original": "automating payroll for small businesses",
-      "reason": "Payroll automation is not explicitly listed as a supported feature in our capability truth map."
-    },
-    {
-      "original": "tax automation software for indian msme",
-      "reason": "While our product does support tax automation, this keyword implies a specific software solution which may not fully align with our product's capabilities as described."
-    }
-  ]
+  "rejected_keywords": []
 }

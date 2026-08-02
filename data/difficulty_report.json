@@ -1,283 +1,167 @@
 {
   "surviving_keywords": [
-    "benefits of tax automation solutions",
-    "tax calculation automation for msme",
-    "automated sales tax solutions for indian businesses",
-    "key benefits of tax process automation",
-    "automated tax compliance for small business",
-    "advantages of automated tax systems",
-    "automated tax services for business",
-    "accurate tax estimation with automation",
-    "automated tax planning for small business owners",
-    "benefits of automated sales tax solutions",
-    "automated tax calculation at point of sale",
-    "tax calculation automation for indian businesses",
-    "automating payroll for small businesses",
-    "effective tax planning strategies for small businesses",
-    "automated tax solutions for indian small businesses",
-    "automated tax compliance for msme india",
-    "automated tax calculations for small businesses",
-    "tax automation software for indian msme"
+    "real time payment tracking for cash flow management",
+    "importance of real time cash flow visibility",
+    "benefits of real time payments for businesses",
+    "real time payments for cash flow management",
+    "cash flow management strategies for smes",
+    "real time cash flow information for business leaders",
+    "improving cash flow with real time payments",
+    "real time payment systems for boosting economic growth",
+    "cash flow management and reporting for businesses",
+    "real time payment tracking for smes",
+    "real time cash flow visibility for businesses",
+    "payment management solutions for cash flow",
+    "real time payments for liquidity management",
+    "cash flow forecasting with real time data",
+    "real time payment technology for businesses",
+    "importance of accurate cash flow management",
+    "real time cash flow management for corporates"
   ],
   "passed": [
-    "benefits of tax automation solutions",
-    "tax calculation automation for msme",
-    "automated sales tax solutions for indian businesses",
-    "key benefits of tax process automation",
-    "automated tax compliance for small business",
-    "advantages of automated tax systems",
-    "automated tax services for business",
-    "accurate tax estimation with automation",
-    "automated tax planning for small business owners",
-    "benefits of automated sales tax solutions",
-    "automated tax calculation at point of sale",
-    "tax calculation automation for indian businesses",
-    "automating payroll for small businesses",
-    "effective tax planning strategies for small businesses",
-    "automated tax solutions for indian small businesses",
-    "automated tax compliance for msme india"
+    "real time payment tracking for cash flow management",
+    "importance of real time cash flow visibility",
+    "benefits of real time payments for businesses",
+    "real time payments for cash flow management",
+    "cash flow management strategies for smes",
+    "real time cash flow information for business leaders",
+    "improving cash flow with real time payments",
+    "real time payment systems for boosting economic growth",
+    "cash flow management and reporting for businesses",
+    "real time payment tracking for smes",
+    "real time cash flow visibility for businesses",
+    "payment management solutions for cash flow",
+    "real time payments for liquidity management",
+    "cash flow forecasting with real time data",
+    "real time payment technology for businesses",
+    "importance of accurate cash flow management",
+    "real time cash flow management for corporates"
   ],
-  "maybe": [
-    "automated tax calculations for small businesses",
-    "tax automation software for indian msme"
-  ],
+  "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "automated tax calculations for small businesses",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "quickbooks.intuit.com",
-        "incometax.gov.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "avalara.com",
-        "tax.thomsonreuters.com",
-        "taxjar.com",
-        "madrasaccountancy.com",
-        "quickbooks.intuit.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: quickbooks.intuit.com, incometax.gov.in. Winnable with strong content."
-    },
-    {
-      "keyword": "benefits of tax automation solutions",
+      "keyword": "real time payment tracking for cash flow management",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "pro.bloombergtax.com",
-        "infosysbpm.com",
-        "vertexinc.com",
-        "tax.thomsonreuters.com",
-        "cbh.com"
+        "embat.io",
+        "jpmorgan.com",
+        "highradius.com",
+        "convera.com",
+        "instantpay.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "tax calculation automation for msme",
+      "keyword": "importance of real time cash flow visibility",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "syansoft.com",
-        "hyperbots.com",
-        "avalara.com",
-        "tax.thomsonreuters.com",
-        "madrasaccountancy.com"
+        "aspireapp.com",
+        "happay.com",
+        "nomentia.com",
+        "bottomline.com",
+        "mysa.io"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "automated sales tax solutions for indian businesses",
+      "keyword": "benefits of real time payments for businesses",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "avalara.com",
-        "anrok.com",
-        "tax.thomsonreuters.com",
-        "zamp.com",
-        "capterra.in"
+        "mastercard.com",
+        "stripe.com",
+        "jpmorgan.com",
+        "volantetech.com",
+        "business.bofa.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "key benefits of tax process automation",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tax.thomsonreuters.com",
-        "analytix.com",
-        "infosysbpm.com",
-        "pro.bloombergtax.com",
-        "hyperbots.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "automated tax compliance for small business",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tax.thomsonreuters.com",
-        "avalara.com",
-        "madrasaccountancy.com",
-        "taxjar.com",
-        "febi.ai"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "tax automation software for indian msme",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "cleartax.in",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "saginfotech.com",
-        "cleartax.in",
-        "tutorial.gst.gov.in",
-        "tallysolutions.com",
-        "thomsonreuters.in"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: cleartax.in, tallysolutions.com. Winnable with strong content."
-    },
-    {
-      "keyword": "advantages of automated tax systems",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "infosysbpm.com",
-        "papers.ssrn.com",
-        "taxually.com",
-        "scholarship.law.duke.edu",
-        "researchgate.net"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "automated tax services for business",
+      "keyword": "real time payments for cash flow management",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
         "stripe.com",
-        "kpmg.com",
-        "tax.thomsonreuters.com",
-        "infosysbpm.com",
-        "gartner.com"
+        "finacle.com",
+        "convera.com",
+        "endava.com",
+        "jpmorgan.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "accurate tax estimation with automation",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "incometax.gov.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "thomsonreuters.in",
-        "hyperbots.com",
-        "apideck.com",
-        "computaxonline.com",
-        "linkedin.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "automated tax planning for small business owners",
+      "keyword": "cash flow management strategies for smes",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "idfcfirst.bank.in",
-        "cnb.com",
-        "erpca.com",
-        "pkchopra.com",
-        "linkedin.com"
+        "xeinadin.com",
+        "preprints.org",
+        "mahindrafinance.com",
+        "jdf.co.nz",
+        "instantpay.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "benefits of automated sales tax solutions",
+      "keyword": "real time cash flow information for business leaders",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "zamp.com",
-        "avalara.com",
-        "tax.thomsonreuters.com",
-        "teamsoftware.com",
-        "vertexinc.com"
+        "treasury.ripple.com",
+        "trevipay.com",
+        "nilus.com",
+        "mailchimp.com",
+        "jpmorgan.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "automated tax calculation at point of sale",
+      "keyword": "improving cash flow with real time payments",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "avalara.com",
-        "facebook.com",
-        "taxcloud.com",
-        "payanywhere.com",
-        "posytude.com"
+        "volantetech.com",
+        "convera.com",
+        "endava.com",
+        "paystand.com",
+        "researchgate.net"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "tax calculation automation for indian businesses",
+      "keyword": "real time payment systems for boosting economic growth",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "thomsonreuters.in",
-        "planmytax.ai",
-        "hyperbots.com",
-        "mileseducation.com",
-        "instagram.com"
+        "researchgate.net",
+        "aciworldwide.com",
+        "stripe.com",
+        "omnipayments.com",
+        "redcompasslabs.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "automating payroll for small businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gusto.com",
-        "rippling.com",
-        "runtimehrms.com",
-        "tmetric.com",
-        "vensure.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "effective tax planning strategies for small businesses",
+      "keyword": "cash flow management and reporting for businesses",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -285,41 +169,131 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "cnb.com",
-        "preferredcfo.com",
-        "ltaxconsulting.com",
-        "brickbooksandpayroll.com",
-        "nu.edu"
+        "jpmorgan.com",
+        "highradius.com",
+        "netsuite.com",
+        "investopedia.com",
+        "linkedin.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "automated tax solutions for indian small businesses",
+      "keyword": "real time payment tracking for smes",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "eztax.in",
-        "tax.thomsonreuters.com",
-        "febi.ai",
-        "f6s.com",
-        "store.pwc.in"
+        "ecsfin.com",
+        "pwc.in",
+        "researchgate.net",
+        "convera.com",
+        "fiserv.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "automated tax compliance for msme india",
+      "keyword": "real time cash flow visibility for businesses",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "gstlearn.com",
-        "store.projectmart.in",
-        "protium.co.in",
-        "youtube.com",
-        "syansoft.com"
+        "ir.com",
+        "aspireapp.com",
+        "mysa.io",
+        "nomentia.com",
+        "bottomline.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "payment management solutions for cash flow",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "highradius.com",
+        "gartner.com",
+        "tesorio.com",
+        "jpmorgan.com",
+        "stripe.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time payments for liquidity management",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "finacle.com",
+        "explore.fednow.org",
+        "theclearinghouse.org",
+        "banking.vision",
+        "volantetech.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cash flow forecasting with real time data",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "nilus.com",
+        "ardem.com",
+        "finacle.com",
+        "lucid.now",
+        "treasury.ripple.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time payment technology for businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "stripe.com",
+        "volantetech.com",
+        "jpmorgan.com",
+        "mastercard.com",
+        "endava.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "importance of accurate cash flow management",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "netsuite.com",
+        "linkedin.com",
+        "mineraltree.com",
+        "phocassoftware.com",
+        "highradius.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time cash flow management for corporates",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "jpmorgan.com",
+        "truist.com",
+        "accountingdepartment.com",
+        "highradius.com",
+        "aspireapp.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
