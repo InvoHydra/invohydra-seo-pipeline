@@ -1,299 +1,246 @@
 {
   "surviving_keywords": [
-    "real time payment tracking for cash flow management",
-    "importance of real time cash flow visibility",
-    "benefits of real time payments for businesses",
-    "real time payments for cash flow management",
-    "cash flow management strategies for smes",
-    "real time cash flow information for business leaders",
-    "improving cash flow with real time payments",
-    "real time payment systems for boosting economic growth",
-    "cash flow management and reporting for businesses",
-    "real time payment tracking for smes",
-    "real time cash flow visibility for businesses",
-    "payment management solutions for cash flow",
-    "real time payments for liquidity management",
-    "cash flow forecasting with real time data",
-    "real time payment technology for businesses",
-    "importance of accurate cash flow management",
-    "real time cash flow management for corporates"
+    "benefits of cloud backup for business",
+    "cloud backup for business data security",
+    "advantages of cloud storage for businesses",
+    "cloud backup solutions for business continuity",
+    "enhanced data security with cloud backup",
+    "cloud backup for disaster recovery",
+    "importance of cloud backup for businesses",
+    "cloud storage for file management and backup",
+    "benefits of backing up data to cloud",
+    "cloud backup for business continuity and security",
+    "advantages of cloud backup for small businesses",
+    "cloud backup and data protection",
+    "cloud storage for business data protection",
+    "secure cloud backup for businesses"
   ],
   "passed": [
-    "real time payment tracking for cash flow management",
-    "importance of real time cash flow visibility",
-    "benefits of real time payments for businesses",
-    "real time payments for cash flow management",
-    "cash flow management strategies for smes",
-    "real time cash flow information for business leaders",
-    "improving cash flow with real time payments",
-    "real time payment systems for boosting economic growth",
-    "cash flow management and reporting for businesses",
-    "real time payment tracking for smes",
-    "real time cash flow visibility for businesses",
-    "payment management solutions for cash flow",
-    "real time payments for liquidity management",
-    "cash flow forecasting with real time data",
-    "real time payment technology for businesses",
-    "importance of accurate cash flow management",
-    "real time cash flow management for corporates"
+    "benefits of cloud backup for business",
+    "cloud backup for business data security",
+    "advantages of cloud storage for businesses",
+    "cloud backup solutions for business continuity",
+    "enhanced data security with cloud backup",
+    "cloud backup for disaster recovery",
+    "importance of cloud backup for businesses",
+    "cloud storage for file management and backup",
+    "benefits of backing up data to cloud",
+    "cloud backup for business continuity and security",
+    "advantages of cloud backup for small businesses",
+    "cloud backup and data protection",
+    "cloud storage for business data protection",
+    "secure cloud backup for businesses"
   ],
   "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "real time payment tracking for cash flow management",
+      "keyword": "benefits of cloud backup for business",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "embat.io",
-        "jpmorgan.com",
-        "highradius.com",
-        "convera.com",
-        "instantpay.in"
+        "spanning.com",
+        "micropro.com",
+        "dropbox.com",
+        "esds.co.in",
+        "commvault.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "importance of real time cash flow visibility",
+      "keyword": "cloud backup for business data security",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "aspireapp.com",
-        "happay.com",
-        "nomentia.com",
-        "bottomline.com",
-        "mysa.io"
+        "netcentrix.com",
+        "cloudian.com",
+        "opentext.com",
+        "esds.co.in",
+        "gartner.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "benefits of real time payments for businesses",
+      "keyword": "advantages of cloud storage for businesses",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "mastercard.com",
-        "stripe.com",
-        "jpmorgan.com",
-        "volantetech.com",
-        "business.bofa.com"
+        "qa.com",
+        "geeksforgeeks.org",
+        "oracle.com",
+        "cloud.google.com",
+        "tierpoint.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real time payments for cash flow management",
+      "keyword": "cloud backup solutions for business continuity",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "stripe.com",
-        "finacle.com",
-        "convera.com",
-        "endava.com",
-        "jpmorgan.com"
+        "cloud.google.com",
+        "cloudian.com",
+        "darktrace.com",
+        "vastitservices.com",
+        "lanrex.com.au"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "cash flow management strategies for smes",
+      "keyword": "enhanced data security with cloud backup",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "xeinadin.com",
-        "preprints.org",
-        "mahindrafinance.com",
-        "jdf.co.nz",
-        "instantpay.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time cash flow information for business leaders",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "treasury.ripple.com",
-        "trevipay.com",
-        "nilus.com",
-        "mailchimp.com",
-        "jpmorgan.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "improving cash flow with real time payments",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "volantetech.com",
-        "convera.com",
-        "endava.com",
-        "paystand.com",
-        "researchgate.net"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time payment systems for boosting economic growth",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "researchgate.net",
-        "aciworldwide.com",
-        "stripe.com",
-        "omnipayments.com",
-        "redcompasslabs.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "cash flow management and reporting for businesses",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "jpmorgan.com",
-        "highradius.com",
-        "netsuite.com",
-        "investopedia.com",
-        "linkedin.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "real time payment tracking for smes",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ecsfin.com",
-        "pwc.in",
-        "researchgate.net",
-        "convera.com",
-        "fiserv.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time cash flow visibility for businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ir.com",
-        "aspireapp.com",
-        "mysa.io",
-        "nomentia.com",
-        "bottomline.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "payment management solutions for cash flow",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "highradius.com",
-        "gartner.com",
-        "tesorio.com",
-        "jpmorgan.com",
-        "stripe.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time payments for liquidity management",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "finacle.com",
-        "explore.fednow.org",
-        "theclearinghouse.org",
-        "banking.vision",
-        "volantetech.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "cash flow forecasting with real time data",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "nilus.com",
-        "ardem.com",
-        "finacle.com",
-        "lucid.now",
-        "treasury.ripple.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time payment technology for businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "stripe.com",
-        "volantetech.com",
-        "jpmorgan.com",
-        "mastercard.com",
-        "endava.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "importance of accurate cash flow management",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "netsuite.com",
+        "cloud.google.com",
         "linkedin.com",
-        "mineraltree.com",
-        "phocassoftware.com",
-        "highradius.com"
+        "cohesity.com",
+        "spanning.com",
+        "paloaltonetworks.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real time cash flow management for corporates",
+      "keyword": "cloud backup for disaster recovery",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "jpmorgan.com",
-        "truist.com",
-        "accountingdepartment.com",
-        "highradius.com",
-        "aspireapp.com"
+        "geeksforgeeks.org",
+        "rubrik.com",
+        "ibm.com",
+        "cloud.google.com",
+        "cloudian.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "importance of cloud backup for businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "micropro.com",
+        "seagate.com",
+        "opentext.com",
+        "esds.co.in",
+        "spanning.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cloud storage for file management and backup",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cloud.google.com",
+        "zapier.com",
+        "geeksforgeeks.org",
+        "dropbox.com",
+        "play.google.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "benefits of backing up data to cloud",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "dropbox.com",
+        "spanning.com",
+        "usgs.gov",
+        "micropro.com",
+        "synchron.com.tr"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cloud backup for business continuity and security",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "darktrace.com",
+        "wetranscloud.com",
+        "superion.ca",
+        "avepoint.com",
+        "vastitservices.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "advantages of cloud backup for small businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "micropro.com",
+        "dropbox.com",
+        "zmanda.com",
+        "blog.box.com",
+        "nordic-backup.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cloud backup and data protection",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "rubrik.com",
+        "cloudian.com",
+        "gartner.com",
+        "hpe.com",
+        "skillnetinc.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cloud storage for business data protection",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cloud.google.com",
+        "cloudian.com",
+        "fortra.com",
+        "csiltd.co.uk",
+        "paloaltonetworks.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "secure cloud backup for businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zmanda.com",
+        "pcmag.com",
+        "opentext.com",
+        "experte.com",
+        "esds.co.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }

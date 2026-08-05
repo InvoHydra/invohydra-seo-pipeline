@@ -1,34 +1,24 @@
 {
   "clusters": [
     {
-      "hub_topic": "Real-time Payment Tracking and Cash Flow Management",
+      "hub_topic": "Cloud Backup and Data Security for Businesses",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "Our product supports real-time payment tracking, which is essential for effective cash flow management. Features like real_time_payment_tracking and automatic_tax_calculations enable businesses to have accurate and up-to-date information about their cash flow.",
+      "product_fit_rationale": "Our product supports cloud backup and secure data storage, which aligns with the need for businesses to protect their data and ensure continuity.",
       "keywords": [
-        "real time payment tracking for cash flow management",
-        "importance of real time cash flow visibility",
-        "benefits of real time payments for businesses",
-        "real time payments for cash flow management",
-        "real time cash flow information for business leaders",
-        "improving cash flow with real time payments",
-        "real time payment tracking for smes",
-        "real time cash flow visibility for businesses",
-        "real time payments for liquidity management",
-        "real time payment technology for businesses",
-        "importance of accurate cash flow management"
-      ]
-    },
-    {
-      "hub_topic": "Cash Flow Management Strategies and Reporting",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product offers features like expense_tracking, client_management, and reports_and_analytics, which are crucial for effective cash flow management and reporting. These features help businesses to track their expenses, manage clients, and generate reports to make informed decisions.",
-      "keywords": [
-        "cash flow management strategies for smes",
-        "cash flow management and reporting for businesses",
-        "payment management solutions for cash flow",
-        "cash flow forecasting with real time data"
+        "benefits of cloud backup for business",
+        "cloud backup for business data security",
+        "advantages of cloud storage for businesses",
+        "cloud backup solutions for business continuity",
+        "enhanced data security with cloud backup",
+        "importance of cloud backup for businesses",
+        "cloud storage for file management and backup",
+        "benefits of backing up data to cloud",
+        "cloud backup for business continuity and security",
+        "advantages of cloud backup for small businesses",
+        "cloud backup and data protection",
+        "cloud storage for business data protection",
+        "secure cloud backup for businesses"
       ]
     }
   ],
