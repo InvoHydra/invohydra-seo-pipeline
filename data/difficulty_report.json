@@ -1,248 +1,303 @@
 {
   "surviving_keywords": [
-    "benefits of cloud backup for business",
-    "cloud backup for business data security",
-    "advantages of cloud storage for businesses",
-    "cloud backup solutions for business continuity",
-    "enhanced data security with cloud backup",
-    "cloud backup for disaster recovery",
-    "importance of cloud backup for businesses",
-    "cloud storage for file management and backup",
-    "benefits of backing up data to cloud",
-    "cloud backup for business continuity and security",
-    "advantages of cloud backup for small businesses",
-    "cloud backup and data protection",
-    "cloud storage for business data protection",
-    "secure cloud backup for businesses"
+    "customer loyalty management with invoicing software",
+    "streamlining customer loyalty programs",
+    "customer loyalty program management software",
+    "loyalty management techniques for businesses",
+    "features of customer loyalty management system",
+    "automating customer loyalty with billing software",
+    "streamlining sales processes with loyalty management",
+    "customer loyalty management software options",
+    "billing software for customer loyalty programs",
+    "how to improve customer loyalty with invoicing",
+    "customer loyalty management system features",
+    "streamlining customer loyalty with data streaming",
+    "invoicing software for customer loyalty management",
+    "billing software for customer satisfaction",
+    "invoicing and billing software for loyalty",
+    "loyalty management software for small businesses"
   ],
   "passed": [
-    "benefits of cloud backup for business",
-    "cloud backup for business data security",
-    "advantages of cloud storage for businesses",
-    "cloud backup solutions for business continuity",
-    "enhanced data security with cloud backup",
-    "cloud backup for disaster recovery",
-    "importance of cloud backup for businesses",
-    "cloud storage for file management and backup",
-    "benefits of backing up data to cloud",
-    "cloud backup for business continuity and security",
-    "advantages of cloud backup for small businesses",
-    "cloud backup and data protection",
-    "cloud storage for business data protection",
-    "secure cloud backup for businesses"
+    "customer loyalty management with invoicing software",
+    "streamlining customer loyalty programs",
+    "customer loyalty program management software",
+    "loyalty management techniques for businesses",
+    "features of customer loyalty management system",
+    "automating customer loyalty with billing software",
+    "streamlining sales processes with loyalty management",
+    "customer loyalty management software options",
+    "billing software for customer loyalty programs",
+    "how to improve customer loyalty with invoicing",
+    "customer loyalty management system features",
+    "streamlining customer loyalty with data streaming",
+    "invoicing software for customer loyalty management"
   ],
-  "maybe": [],
+  "maybe": [
+    "billing software for customer satisfaction",
+    "invoicing and billing software for loyalty",
+    "loyalty management software for small businesses"
+  ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "benefits of cloud backup for business",
+      "keyword": "customer loyalty management with invoicing software",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "spanning.com",
-        "micropro.com",
-        "dropbox.com",
-        "esds.co.in",
-        "commvault.com"
+        "gofrugal.com",
+        "allpos.software",
+        "genefied.ai",
+        "salesforce.com",
+        "techtarget.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "cloud backup for business data security",
+      "keyword": "streamlining customer loyalty programs",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "netcentrix.com",
-        "cloudian.com",
-        "opentext.com",
-        "esds.co.in",
-        "gartner.com"
+        "salesforce.com",
+        "digitalmarketinginstitute.com",
+        "rivo.io",
+        "ansira.com",
+        "cosinconsulting.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "advantages of cloud storage for businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
+      "keyword": "billing software for customer satisfaction",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com"
+      ],
       "tier2_hits": [],
       "top_5_domains": [
-        "qa.com",
-        "geeksforgeeks.org",
-        "oracle.com",
-        "cloud.google.com",
-        "tierpoint.com"
+        "hyperdrivesolutions.com",
+        "gstpad.in",
+        "salesforce.com",
+        "dealhub.io",
+        "zoho.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
     },
     {
-      "keyword": "cloud backup solutions for business continuity",
+      "keyword": "customer loyalty program management software",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cloud.google.com",
-        "cloudian.com",
-        "darktrace.com",
-        "vastitservices.com",
-        "lanrex.com.au"
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "enhanced data security with cloud backup",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "cloud.google.com",
-        "linkedin.com",
-        "cohesity.com",
-        "spanning.com",
-        "paloaltonetworks.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "cloud backup for disaster recovery",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "geeksforgeeks.org",
-        "rubrik.com",
-        "ibm.com",
-        "cloud.google.com",
-        "cloudian.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "importance of cloud backup for businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "micropro.com",
-        "seagate.com",
-        "opentext.com",
-        "esds.co.in",
-        "spanning.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "cloud storage for file management and backup",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cloud.google.com",
-        "zapier.com",
-        "geeksforgeeks.org",
-        "dropbox.com",
-        "play.google.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "benefits of backing up data to cloud",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "dropbox.com",
-        "spanning.com",
-        "usgs.gov",
-        "micropro.com",
-        "synchron.com.tr"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "cloud backup for business continuity and security",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "darktrace.com",
-        "wetranscloud.com",
-        "superion.ca",
-        "avepoint.com",
-        "vastitservices.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "advantages of cloud backup for small businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "micropro.com",
-        "dropbox.com",
-        "zmanda.com",
-        "blog.box.com",
-        "nordic-backup.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "cloud backup and data protection",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "rubrik.com",
-        "cloudian.com",
+        "zoho.com",
         "gartner.com",
-        "hpe.com",
-        "skillnetinc.com"
+        "openloyalty.io",
+        "salesforce.com",
+        "technologycounter.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "cloud storage for business data protection",
+      "keyword": "invoicing and billing software for loyalty",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "getapp.com"
+      ],
+      "top_5_domains": [
+        "mybillbook.in",
+        "youtube.com",
+        "zoho.com",
+        "logicerp.com",
+        "salesforce.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: getapp.com. Winnable with strong content."
+    },
+    {
+      "keyword": "loyalty management techniques for businesses",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "cloud.google.com",
-        "cloudian.com",
-        "fortra.com",
-        "csiltd.co.uk",
-        "paloaltonetworks.com"
+        "salesforce.com",
+        "ttec.com",
+        "optculture.com",
+        "zebra.com",
+        "nector.io"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "secure cloud backup for businesses",
+      "keyword": "features of customer loyalty management system",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "investopedia.com",
+        "openloyalty.io",
+        "yotpo.com",
+        "voucherify.io"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automating customer loyalty with billing software",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "zmanda.com",
-        "pcmag.com",
-        "opentext.com",
-        "experte.com",
-        "esds.co.in"
+        "billingplatform.com",
+        "hyperdrivesolutions.com",
+        "highradius.com",
+        "chargebee.com",
+        "upmind.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "streamlining sales processes with loyalty management",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesfokuz.com",
+        "salesforce.com",
+        "routine-automation.com",
+        "loylt.works",
+        "youtube.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "customer loyalty management software options",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "techtarget.com",
+        "capillarytech.com",
+        "gartner.com",
+        "technologycounter.com",
+        "youtube.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "billing software for customer loyalty programs",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zoho.com",
+        "mybillbook.in",
+        "allpos.software",
+        "youtube.com",
+        "openloyalty.io"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "how to improve customer loyalty with invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "hyperdrivesolutions.com",
+        "gstpad.in",
+        "linkedin.com",
+        "researchgate.net",
+        "emersion.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "customer loyalty management system features",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "chetu.com",
+        "gartner.com",
+        "comarch.com",
+        "investopedia.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "streamlining customer loyalty with data streaming",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "confluent.io",
+        "mdpi.com",
+        "ey.com",
+        "youtube.com",
+        "retailbiz.com.au"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "invoicing software for customer loyalty management",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gofrugal.com",
+        "zoho.com",
+        "yotpo.com",
+        "mybillbook.in",
+        "techtarget.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "loyalty management software for small businesses",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "zoho.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zoho.com",
+        "loopyloyalty.com",
+        "bonusqr.com",
+        "openloyalty.io",
+        "squareup.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, zoho.com. Winnable with strong content."
     }
   ]
 }
