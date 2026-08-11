@@ -82,5 +82,14 @@
   "smart_e_invoicing": true,
   "invoice_reporting_automation": true,
   "gst_requirement_management": true,
-  "business_operation_streamlining": true
+  "business_operation_streamlining": true,
+  "pos_system": true,
+  "smart_gst_billing": true,
+  "proforma_invoice_generation": true,
+  "e_invoicing": true,
+  "invoice_validation": true,
+  "invoice_reporting": true,
+  "tax_calculation_engine": true,
+  "invoice_status_tracking": true,
+  "mobile_e_invoicing": true
 }
