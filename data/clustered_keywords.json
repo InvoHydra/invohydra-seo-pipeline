@@ -1,61 +1,85 @@
 {
   "clusters": [
     {
-      "hub_topic": "Customer Loyalty Management with Invoicing Software",
+      "hub_topic": "Invoice and Inventory Management",
       "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product supports customer loyalty management and has features like automated recurring invoices, real-time payment tracking, and smart invoice management, which can be used to streamline customer loyalty programs.",
-      "keywords": [
-        "customer loyalty management with invoicing software",
-        "customer loyalty program management software",
-        "features of customer loyalty management system",
-        "customer loyalty management software options",
-        "billing software for customer loyalty programs",
-        "invoicing software for customer loyalty management",
-        "invoicing and billing software for loyalty"
-      ]
-    },
-    {
-      "hub_topic": "Streamlining Customer Loyalty Programs",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product supports streamlining business operations and has features like smart billing automation, inventory management, and sales analytics, which can be used to streamline customer loyalty programs.",
-      "keywords": [
-        "streamlining customer loyalty programs",
-        "streamlining sales processes with loyalty management"
-      ]
-    },
-    {
-      "hub_topic": "Automating Customer Loyalty with Billing Software",
-      "demand": "Medium",
       "intent": "Transactional",
-      "product_fit_rationale": "Our product supports automating customer loyalty with billing software and has features like automated recurring invoices, automated payment reminders, and real-time payment tracking.",
+      "product_fit_rationale": "Our product supports features like inventory management, invoice management, and real-time tracking, making it a good fit for this cluster.",
       "keywords": [
-        "automating customer loyalty with billing software",
-        "billing software for customer satisfaction"
+        "gst billing and inventory management",
+        "invoice management and real time tracking",
+        "invoicing software for small business",
+        "inventory invoice software solutions",
+        "invoicing software with inventory management"
+      ]
+    },
+    {
+      "hub_topic": "Pricing Management Software",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product offers features like product pricing management, making it relevant to this cluster.",
+      "keywords": [
+        "streamlining product pricing management",
+        "pricing management software solutions",
+        "pricing software for product management"
+      ]
+    },
+    {
+      "hub_topic": "Invoicing Software Selection",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product provides features like invoice management, client management, and payment tracking, which are relevant to this cluster.",
+      "keywords": [
+        "invoice management software selection",
+        "invoicing and client management software",
+        "best invoicing software in india"
+      ]
+    },
+    {
+      "hub_topic": "Streamlined Invoicing and Payment",
+      "demand": "Low",
+      "intent": "Transactional",
+      "product_fit_rationale": "Our product supports features like streamlined invoicing processes and payment, making it a good fit for this cluster.",
+      "keywords": [
+        "streamlined invoicing processes and payment"
+      ]
+    },
+    {
+      "hub_topic": "Best Billing and Inventory Management",
+      "demand": "Low",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product offers features like billing and inventory management, making it relevant to this cluster.",
+      "keywords": [
+        "best billing and inventory management"
+      ]
+    },
+    {
+      "hub_topic": "Invoicing Software for Startups",
+      "demand": "Low",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product provides features like invoicing software, which can be useful for startups, making it a good fit for this cluster.",
+      "keywords": [
+        "invoicing software for startups"
+      ]
+    },
+    {
+      "hub_topic": "Inventory Invoice Software for Business",
+      "demand": "Low",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product supports features like inventory invoice software, making it relevant to this cluster.",
+      "keywords": [
+        "inventory invoice software for business"
+      ]
+    },
+    {
+      "hub_topic": "Best Invoice Management Software",
+      "demand": "Low",
+      "intent": "Informational",
+      "product_fit_rationale": "Our product offers features like invoice management, making it a good fit for this cluster.",
+      "keywords": [
+        "best invoice management software"
       ]
     }
   ],
-  "rejected_keywords": [
-    {
-      "original": "loyalty management techniques for businesses",
-      "reason": "Too broad and does not specifically relate to our product features."
-    },
-    {
-      "original": "how to improve customer loyalty with invoicing",
-      "reason": "Too generic and does not specifically relate to our product features."
-    },
-    {
-      "original": "customer loyalty management system features",
-      "reason": "Already covered in the 'Customer Loyalty Management with Invoicing Software' cluster."
-    },
-    {
-      "original": "streamlining customer loyalty with data streaming",
-      "reason": "Data streaming is not a feature of our product."
-    },
-    {
-      "original": "loyalty management software for small businesses",
-      "reason": "While our product can be used by small businesses, this keyword is too broad and does not specifically relate to our product features."
-    }
-  ]
+  "rejected_keywords": []
 }

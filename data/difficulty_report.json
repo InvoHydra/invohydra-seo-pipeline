@@ -1,76 +1,114 @@
 {
   "surviving_keywords": [
-    "customer loyalty management with invoicing software",
-    "streamlining customer loyalty programs",
-    "customer loyalty program management software",
-    "loyalty management techniques for businesses",
-    "features of customer loyalty management system",
-    "automating customer loyalty with billing software",
-    "streamlining sales processes with loyalty management",
-    "customer loyalty management software options",
-    "billing software for customer loyalty programs",
-    "how to improve customer loyalty with invoicing",
-    "customer loyalty management system features",
-    "streamlining customer loyalty with data streaming",
-    "invoicing software for customer loyalty management",
-    "billing software for customer satisfaction",
-    "invoicing and billing software for loyalty",
-    "loyalty management software for small businesses"
+    "streamlining product pricing management",
+    "gst billing and inventory management",
+    "invoice management and real time tracking",
+    "pricing management software solutions",
+    "invoicing and client management software",
+    "invoice management software selection",
+    "pricing software for product management",
+    "streamlined invoicing processes and payment",
+    "invoicing software for small business",
+    "inventory invoice software solutions",
+    "best invoicing software in india",
+    "best billing and inventory management",
+    "invoicing software for startups",
+    "inventory invoice software for business",
+    "invoicing software with inventory management",
+    "best invoice management software"
   ],
   "passed": [
-    "customer loyalty management with invoicing software",
-    "streamlining customer loyalty programs",
-    "customer loyalty program management software",
-    "loyalty management techniques for businesses",
-    "features of customer loyalty management system",
-    "automating customer loyalty with billing software",
-    "streamlining sales processes with loyalty management",
-    "customer loyalty management software options",
-    "billing software for customer loyalty programs",
-    "how to improve customer loyalty with invoicing",
-    "customer loyalty management system features",
-    "streamlining customer loyalty with data streaming",
-    "invoicing software for customer loyalty management"
+    "streamlining product pricing management",
+    "gst billing and inventory management",
+    "invoice management and real time tracking",
+    "pricing management software solutions",
+    "invoicing and client management software",
+    "invoice management software selection",
+    "pricing software for product management",
+    "streamlined invoicing processes and payment"
   ],
   "maybe": [
-    "billing software for customer satisfaction",
-    "invoicing and billing software for loyalty",
-    "loyalty management software for small businesses"
+    "invoicing software for small business",
+    "inventory invoice software solutions",
+    "best invoicing software in india",
+    "best billing and inventory management",
+    "invoicing software for startups",
+    "inventory invoice software for business",
+    "invoicing software with inventory management",
+    "best invoice management software"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "customer loyalty management with invoicing software",
+      "keyword": "invoicing software for small business",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "zoho.com",
+        "forbes.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zoho.com",
+        "invoicely.com",
+        "mybillbook.in",
+        "mercury.com",
+        "squareup.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, forbes.com. Winnable with strong content."
+    },
+    {
+      "keyword": "inventory invoice software solutions",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "keel.so",
+        "mybillbook.in",
+        "tallysolutions.com",
+        "invoicemaster.org",
+        "zoho.com"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "streamlining product pricing management",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "gofrugal.com",
-        "allpos.software",
-        "genefied.ai",
-        "salesforce.com",
-        "techtarget.com"
+        "aha.io",
+        "dealhub.io",
+        "emeritus.org",
+        "productside.com",
+        "youtube.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "streamlining customer loyalty programs",
+      "keyword": "gst billing and inventory management",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "salesforce.com",
-        "digitalmarketinginstitute.com",
-        "rivo.io",
-        "ansira.com",
-        "cosinconsulting.com"
+        "khatabilling.com",
+        "gimbooks.com",
+        "billingsoftwareindia.in",
+        "scribd.com",
+        "tallyatcloud.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "billing software for customer satisfaction",
+      "keyword": "best invoicing software in india",
       "verdict": "MAYBE",
       "score": 6,
       "tier1_hits": [
@@ -79,16 +117,48 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "hyperdrivesolutions.com",
-        "gstpad.in",
-        "salesforce.com",
-        "dealhub.io",
-        "zoho.com"
+        "zoho.com",
+        "accountune.com",
+        "mybillbook.in",
+        "tallysolutions.com",
+        "linkedin.com"
       ],
       "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
     },
     {
-      "keyword": "customer loyalty program management software",
+      "keyword": "invoice management and real time tracking",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "peakflo.co",
+        "getharvest.com",
+        "highradius.com",
+        "planergy.com",
+        "simprogroup.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "pricing management software solutions",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "simon-kucher.com",
+        "gartner.com",
+        "dealhub.io",
+        "vendavo.com",
+        "zilliant.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "invoicing and client management software",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -96,208 +166,155 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
+        "onlineinvoices.com",
         "zoho.com",
-        "gartner.com",
-        "openloyalty.io",
         "salesforce.com",
-        "technologycounter.com"
+        "squareup.com",
+        "zapier.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "invoicing and billing software for loyalty",
+      "keyword": "best billing and inventory management",
       "verdict": "MAYBE",
       "score": 4,
       "tier1_hits": [
-        "zoho.com"
+        "tallysolutions.com"
       ],
       "tier2_hits": [
-        "getapp.com"
+        "profitbooks.net"
       ],
       "top_5_domains": [
         "mybillbook.in",
-        "youtube.com",
-        "zoho.com",
+        "tallysolutions.com",
+        "profitbooks.net",
+        "keel.so",
+        "khatabilling.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "invoice management software selection",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "stampli.com",
+        "cherrywork.com",
+        "salesforce.com",
         "logicerp.com",
-        "salesforce.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: getapp.com. Winnable with strong content."
-    },
-    {
-      "keyword": "loyalty management techniques for businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "ttec.com",
-        "optculture.com",
-        "zebra.com",
-        "nector.io"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "features of customer loyalty management system",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "investopedia.com",
-        "openloyalty.io",
-        "yotpo.com",
-        "voucherify.io"
+        "avidxchange.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "automating customer loyalty with billing software",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "billingplatform.com",
-        "hyperdrivesolutions.com",
-        "highradius.com",
-        "chargebee.com",
-        "upmind.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "streamlining sales processes with loyalty management",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesfokuz.com",
-        "salesforce.com",
-        "routine-automation.com",
-        "loylt.works",
-        "youtube.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "customer loyalty management software options",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "techtarget.com",
-        "capillarytech.com",
-        "gartner.com",
-        "technologycounter.com",
-        "youtube.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "billing software for customer loyalty programs",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "mybillbook.in",
-        "allpos.software",
-        "youtube.com",
-        "openloyalty.io"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to improve customer loyalty with invoicing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "hyperdrivesolutions.com",
-        "gstpad.in",
-        "linkedin.com",
-        "researchgate.net",
-        "emersion.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "customer loyalty management system features",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "chetu.com",
-        "gartner.com",
-        "comarch.com",
-        "investopedia.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "streamlining customer loyalty with data streaming",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "confluent.io",
-        "mdpi.com",
-        "ey.com",
-        "youtube.com",
-        "retailbiz.com.au"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "invoicing software for customer loyalty management",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gofrugal.com",
-        "zoho.com",
-        "yotpo.com",
-        "mybillbook.in",
-        "techtarget.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "loyalty management software for small businesses",
+      "keyword": "invoicing software for startups",
       "verdict": "MAYBE",
       "score": 6,
       "tier1_hits": [
         "zoho.com",
-        "zoho.com"
+        "tallysolutions.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
         "zoho.com",
-        "loopyloyalty.com",
-        "bonusqr.com",
-        "openloyalty.io",
-        "squareup.com"
+        "mercury.com",
+        "refrens.com",
+        "tallysolutions.com",
+        "zapier.com"
       ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, zoho.com. Winnable with strong content."
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
+    },
+    {
+      "keyword": "pricing software for product management",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gartner.com",
+        "cincom.com",
+        "simon-kucher.com",
+        "vendavo.com",
+        "zilliant.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "inventory invoice software for business",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "keel.so",
+        "khatabilling.com",
+        "mybillbook.in",
+        "zoho.com",
+        "raseedapp.com"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: zoho.com, tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "invoicing software with inventory management",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "mybillbook.in",
+        "tallysolutions.com",
+        "invoicemaster.org",
+        "keel.so",
+        "zoho.com"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "best invoice management software",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zoho.com",
+        "salesforce.com",
+        "logicerp.com",
+        "avidxchange.com",
+        "waveapps.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
+    },
+    {
+      "keyword": "streamlined invoicing processes and payment",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "uschamber.com",
+        "paystand.com",
+        "tgccpa.com",
+        "vcita.com",
+        "streamlinedpayments.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
   ]
 }
