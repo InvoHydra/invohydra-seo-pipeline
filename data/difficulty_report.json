@@ -1,318 +1,265 @@
 {
   "surviving_keywords": [
-    "streamlining product pricing management",
-    "gst billing and inventory management",
-    "invoice management and real time tracking",
-    "pricing management software solutions",
-    "invoicing and client management software",
-    "invoice management software selection",
-    "pricing software for product management",
-    "streamlined invoicing processes and payment",
-    "invoicing software for small business",
-    "inventory invoice software solutions",
-    "best invoicing software in india",
-    "best billing and inventory management",
-    "invoicing software for startups",
-    "inventory invoice software for business",
-    "invoicing software with inventory management",
-    "best invoice management software"
+    "what is cloud data security? benefits and solutions - google cloud",
+    "what is cloud data security? - microsoft",
+    "cloud security for accounting data: what you need to know and ...",
+    "encryption: does your business need it? - seqrite",
+    "data security in cloud computing: best practices and solutions",
+    "best practices for financial data security - quickdice erp solutions",
+    "cybersecurity in cloud-based financial systems: protecting modern ...",
+    "cloud-based accounting security: what you need to know",
+    "the importance of data encryption in cloud environments",
+    "cloud data security protects data from security threats. it keeps data confidential and still accessible to those who need it.",
+    "enhanced data protection. strong encryption, identity governance, and monitoring limit unauthorized access and reduce the risk of a breach.",
+    "1. encryption: all your data should be encrypted both in transit (e.g., via ssl/tls) and at rest (when stored). · 2. two-factor authentication ( ...",
+    "data encryption comes as a staple security package with the existing services and safeguards every form of data that's stored within the cloud- ...",
+    "by encrypting data at rest and in transit, organizations can ensure that even if data is intercepted, it remains unintelligible to unauthorized users. utilize ...",
+    "by encrypting your financial information, you are securing your account in case that someone gets to access the account while keeping the ..."
   ],
   "passed": [
-    "streamlining product pricing management",
-    "gst billing and inventory management",
-    "invoice management and real time tracking",
-    "pricing management software solutions",
-    "invoicing and client management software",
-    "invoice management software selection",
-    "pricing software for product management",
-    "streamlined invoicing processes and payment"
+    "what is cloud data security? benefits and solutions - google cloud",
+    "what is cloud data security? - microsoft",
+    "cloud security for accounting data: what you need to know and ...",
+    "encryption: does your business need it? - seqrite",
+    "data security in cloud computing: best practices and solutions",
+    "best practices for financial data security - quickdice erp solutions",
+    "cybersecurity in cloud-based financial systems: protecting modern ...",
+    "cloud-based accounting security: what you need to know",
+    "the importance of data encryption in cloud environments",
+    "cloud data security protects data from security threats. it keeps data confidential and still accessible to those who need it.",
+    "enhanced data protection. strong encryption, identity governance, and monitoring limit unauthorized access and reduce the risk of a breach.",
+    "1. encryption: all your data should be encrypted both in transit (e.g., via ssl/tls) and at rest (when stored). · 2. two-factor authentication ( ...",
+    "data encryption comes as a staple security package with the existing services and safeguards every form of data that's stored within the cloud- ...",
+    "by encrypting data at rest and in transit, organizations can ensure that even if data is intercepted, it remains unintelligible to unauthorized users. utilize ...",
+    "by encrypting your financial information, you are securing your account in case that someone gets to access the account while keeping the ..."
   ],
-  "maybe": [
-    "invoicing software for small business",
-    "inventory invoice software solutions",
-    "best invoicing software in india",
-    "best billing and inventory management",
-    "invoicing software for startups",
-    "inventory invoice software for business",
-    "invoicing software with inventory management",
-    "best invoice management software"
-  ],
+  "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "invoicing software for small business",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "zoho.com",
-        "forbes.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "invoicely.com",
-        "mybillbook.in",
-        "mercury.com",
-        "squareup.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, forbes.com. Winnable with strong content."
-    },
-    {
-      "keyword": "inventory invoice software solutions",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "keel.so",
-        "mybillbook.in",
-        "tallysolutions.com",
-        "invoicemaster.org",
-        "zoho.com"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "streamlining product pricing management",
+      "keyword": "what is cloud data security? benefits and solutions - google cloud",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "aha.io",
-        "dealhub.io",
-        "emeritus.org",
-        "productside.com",
+        "cloud.google.com",
+        "cloud.google.com",
+        "docs.cloud.google.com",
+        "coursera.org",
+        "kaspersky.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "what is cloud data security? - microsoft",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "microsoft.com",
+        "microsoft.com",
+        "microsoft.com",
+        "microsoft.com",
         "youtube.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "gst billing and inventory management",
+      "keyword": "cloud security for accounting data: what you need to know and ...",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "khatabilling.com",
-        "gimbooks.com",
-        "billingsoftwareindia.in",
-        "scribd.com",
-        "tallyatcloud.com"
+        "accountingdepartment.com",
+        "sqkaccountancy.co.uk",
+        "e-khata.com",
+        "accountingseed.com",
+        "eisneramper.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "best invoicing software in india",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "zoho.com",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "accountune.com",
-        "mybillbook.in",
-        "tallysolutions.com",
-        "linkedin.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
-    },
-    {
-      "keyword": "invoice management and real time tracking",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "peakflo.co",
-        "getharvest.com",
-        "highradius.com",
-        "planergy.com",
-        "simprogroup.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "pricing management software solutions",
+      "keyword": "encryption: does your business need it? - seqrite",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "simon-kucher.com",
-        "gartner.com",
-        "dealhub.io",
-        "vendavo.com",
-        "zilliant.com"
+        "seqrite.com",
+        "seqrite.com",
+        "docs.seqrite.com",
+        "seqrite.com",
+        "seqrite.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "invoicing and client management software",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "onlineinvoices.com",
-        "zoho.com",
-        "salesforce.com",
-        "squareup.com",
-        "zapier.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "best billing and inventory management",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "mybillbook.in",
-        "tallysolutions.com",
-        "profitbooks.net",
-        "keel.so",
-        "khatabilling.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "invoice management software selection",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "stampli.com",
-        "cherrywork.com",
-        "salesforce.com",
-        "logicerp.com",
-        "avidxchange.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "invoicing software for startups",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "zoho.com",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "mercury.com",
-        "refrens.com",
-        "tallysolutions.com",
-        "zapier.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
-    },
-    {
-      "keyword": "pricing software for product management",
+      "keyword": "data security in cloud computing: best practices and solutions",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "gartner.com",
-        "cincom.com",
-        "simon-kucher.com",
-        "vendavo.com",
-        "zilliant.com"
+        "cloud.google.com",
+        "cloudian.com",
+        "geeksforgeeks.org",
+        "secpod.com",
+        "sentinelone.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "inventory invoice software for business",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "zoho.com",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "keel.so",
-        "khatabilling.com",
-        "mybillbook.in",
-        "zoho.com",
-        "raseedapp.com"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: zoho.com, tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "invoicing software with inventory management",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "mybillbook.in",
-        "tallysolutions.com",
-        "invoicemaster.org",
-        "keel.so",
-        "zoho.com"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "best invoice management software",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "zoho.com",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "salesforce.com",
-        "logicerp.com",
-        "avidxchange.com",
-        "waveapps.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
-    },
-    {
-      "keyword": "streamlined invoicing processes and payment",
+      "keyword": "best practices for financial data security - quickdice erp solutions",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "uschamber.com",
-        "paystand.com",
-        "tgccpa.com",
-        "vcita.com",
-        "streamlinedpayments.com"
+        "quickdiceerp.com",
+        "quickdiceerp.com",
+        "reviveerp.com",
+        "searchinform.com",
+        "sapphireone.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cybersecurity in cloud-based financial systems: protecting modern ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "researchgate.net",
+        "darktrace.com",
+        "wiz.io",
+        "imperva.com",
+        "techomsystems.com.au"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cloud-based accounting security: what you need to know",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "quickbooks.intuit.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "accountingdepartment.com",
+        "accountingseed.com",
+        "bronnhq.com",
+        "netsuite.com",
+        "sqkaccountancy.co.uk"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "the importance of data encryption in cloud environments",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cloudoptimo.com",
+        "fortinet.com",
+        "zscaler.com",
+        "geeksforgeeks.org",
+        "researchgate.net"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cloud data security protects data from security threats. it keeps data confidential and still accessible to those who need it.",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cloud.google.com",
+        "ibm.com",
+        "oneleet.com",
+        "coursera.org",
+        "safetica.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "enhanced data protection. strong encryption, identity governance, and monitoring limit unauthorized access and reduce the risk of a breach.",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ibm.com",
+        "pmc.ncbi.nlm.nih.gov",
+        "dataguard.com",
+        "cloudavize.com",
+        "searchinform.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "1. encryption: all your data should be encrypted both in transit (e.g., via ssl/tls) and at rest (when stored). · 2. two-factor authentication ( ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "serverion.com",
+        "kiteworks.com",
+        "fortra.com",
+        "learn.microsoft.com",
+        "dualitytech.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "data encryption comes as a staple security package with the existing services and safeguards every form of data that's stored within the cloud- ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "seqrite.com",
+        "ibm.com",
+        "cloudian.com",
+        "cloud.google.com",
+        "cloudoptimo.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "by encrypting data at rest and in transit, organizations can ensure that even if data is intercepted, it remains unintelligible to unauthorized users. utilize ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "opswat.com",
+        "mongodb.com",
+        "imperva.com",
+        "serverion.com",
+        "datastealth.io"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "by encrypting your financial information, you are securing your account in case that someone gets to access the account while keeping the ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "facebook.com",
+        "facebook.com",
+        "support.google.com",
+        "ftc.gov",
+        "hdfc.bank.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }

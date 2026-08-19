@@ -1,85 +1,65 @@
 {
-  "clusters": [
+  "clusters": [],
+  "rejected_keywords": [
     {
-      "hub_topic": "Invoice and Inventory Management",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Our product supports features like inventory management, invoice management, and real-time tracking, making it a good fit for this cluster.",
-      "keywords": [
-        "gst billing and inventory management",
-        "invoice management and real time tracking",
-        "invoicing software for small business",
-        "inventory invoice software solutions",
-        "invoicing software with inventory management"
-      ]
+      "original": "what is cloud data security? benefits and solutions - google cloud",
+      "reason": "API execution failure fallback"
     },
     {
-      "hub_topic": "Pricing Management Software",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product offers features like product pricing management, making it relevant to this cluster.",
-      "keywords": [
-        "streamlining product pricing management",
-        "pricing management software solutions",
-        "pricing software for product management"
-      ]
+      "original": "what is cloud data security? - microsoft",
+      "reason": "API execution failure fallback"
     },
     {
-      "hub_topic": "Invoicing Software Selection",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product provides features like invoice management, client management, and payment tracking, which are relevant to this cluster.",
-      "keywords": [
-        "invoice management software selection",
-        "invoicing and client management software",
-        "best invoicing software in india"
-      ]
+      "original": "cloud security for accounting data: what you need to know and ...",
+      "reason": "API execution failure fallback"
     },
     {
-      "hub_topic": "Streamlined Invoicing and Payment",
-      "demand": "Low",
-      "intent": "Transactional",
-      "product_fit_rationale": "Our product supports features like streamlined invoicing processes and payment, making it a good fit for this cluster.",
-      "keywords": [
-        "streamlined invoicing processes and payment"
-      ]
+      "original": "encryption: does your business need it? - seqrite",
+      "reason": "API execution failure fallback"
     },
     {
-      "hub_topic": "Best Billing and Inventory Management",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product offers features like billing and inventory management, making it relevant to this cluster.",
-      "keywords": [
-        "best billing and inventory management"
-      ]
+      "original": "data security in cloud computing: best practices and solutions",
+      "reason": "API execution failure fallback"
     },
     {
-      "hub_topic": "Invoicing Software for Startups",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product provides features like invoicing software, which can be useful for startups, making it a good fit for this cluster.",
-      "keywords": [
-        "invoicing software for startups"
-      ]
+      "original": "best practices for financial data security - quickdice erp solutions",
+      "reason": "API execution failure fallback"
     },
     {
-      "hub_topic": "Inventory Invoice Software for Business",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product supports features like inventory invoice software, making it relevant to this cluster.",
-      "keywords": [
-        "inventory invoice software for business"
-      ]
+      "original": "cybersecurity in cloud-based financial systems: protecting modern ...",
+      "reason": "API execution failure fallback"
     },
     {
-      "hub_topic": "Best Invoice Management Software",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product offers features like invoice management, making it a good fit for this cluster.",
-      "keywords": [
-        "best invoice management software"
-      ]
+      "original": "cloud-based accounting security: what you need to know",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "the importance of data encryption in cloud environments",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "cloud data security protects data from security threats. it keeps data confidential and still accessible to those who need it.",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "enhanced data protection. strong encryption, identity governance, and monitoring limit unauthorized access and reduce the risk of a breach.",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "1. encryption: all your data should be encrypted both in transit (e.g., via ssl/tls) and at rest (when stored). · 2. two-factor authentication ( ...",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "data encryption comes as a staple security package with the existing services and safeguards every form of data that's stored within the cloud- ...",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "by encrypting data at rest and in transit, organizations can ensure that even if data is intercepted, it remains unintelligible to unauthorized users. utilize ...",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "by encrypting your financial information, you are securing your account in case that someone gets to access the account while keeping the ...",
+      "reason": "API execution failure fallback"
     }
-  ],
-  "rejected_keywords": []
+  ]
 }
