@@ -1,265 +1,263 @@
 {
   "surviving_keywords": [
-    "what is cloud data security? benefits and solutions - google cloud",
-    "what is cloud data security? - microsoft",
-    "cloud security for accounting data: what you need to know and ...",
-    "encryption: does your business need it? - seqrite",
-    "data security in cloud computing: best practices and solutions",
-    "best practices for financial data security - quickdice erp solutions",
-    "cybersecurity in cloud-based financial systems: protecting modern ...",
-    "cloud-based accounting security: what you need to know",
-    "the importance of data encryption in cloud environments",
-    "cloud data security protects data from security threats. it keeps data confidential and still accessible to those who need it.",
-    "enhanced data protection. strong encryption, identity governance, and monitoring limit unauthorized access and reduce the risk of a breach.",
-    "1. encryption: all your data should be encrypted both in transit (e.g., via ssl/tls) and at rest (when stored). · 2. two-factor authentication ( ...",
-    "data encryption comes as a staple security package with the existing services and safeguards every form of data that's stored within the cloud- ...",
-    "by encrypting data at rest and in transit, organizations can ensure that even if data is intercepted, it remains unintelligible to unauthorized users. utilize ...",
-    "by encrypting your financial information, you are securing your account in case that someone gets to access the account while keeping the ..."
+    "qr codes explained: how they're used for payments | stripe",
+    "benefits of qr code payments - sycurio",
+    "benefits of qr code payments for merchants: a complete guide",
+    "how qr code payments work and how to set them up",
+    "benefits of qr code payments for customers and merchants - paypal",
+    "what is invoice qr code? definition, process & key metrics",
+    "paying with a qr code: how it works, advantages & security - gini",
+    "qr code payment - what is it, how does it work & use cases - lyra",
+    "qr code payments: what is it and how does it work? - moon invoice",
+    "customers can scan the qr code to initiate payment without having to manually enter payment details. this simplifies the payment process and ...",
+    "qr code payments improve operational productivity with instant payment processing and actionable data insights",
+    "dynamic qr codes improve payment traceability by linking transactions to specific invoices, reducing errors and simplifying reconciliation.",
+    "benefits of qr code payments for businesses. qr code payments remove many of the barriers associated with traditional payment systems.",
+    "with qr codes, merchants can easily accept payments without needing a physical card reader or register. they can simply create their own code ...",
+    "qr codes enable quick scanning and retrieval of invoice information for validation, payment processing, reporting, and transaction tracking."
   ],
   "passed": [
-    "what is cloud data security? benefits and solutions - google cloud",
-    "what is cloud data security? - microsoft",
-    "cloud security for accounting data: what you need to know and ...",
-    "encryption: does your business need it? - seqrite",
-    "data security in cloud computing: best practices and solutions",
-    "best practices for financial data security - quickdice erp solutions",
-    "cybersecurity in cloud-based financial systems: protecting modern ...",
-    "cloud-based accounting security: what you need to know",
-    "the importance of data encryption in cloud environments",
-    "cloud data security protects data from security threats. it keeps data confidential and still accessible to those who need it.",
-    "enhanced data protection. strong encryption, identity governance, and monitoring limit unauthorized access and reduce the risk of a breach.",
-    "1. encryption: all your data should be encrypted both in transit (e.g., via ssl/tls) and at rest (when stored). · 2. two-factor authentication ( ...",
-    "data encryption comes as a staple security package with the existing services and safeguards every form of data that's stored within the cloud- ...",
-    "by encrypting data at rest and in transit, organizations can ensure that even if data is intercepted, it remains unintelligible to unauthorized users. utilize ...",
-    "by encrypting your financial information, you are securing your account in case that someone gets to access the account while keeping the ..."
+    "qr codes explained: how they're used for payments | stripe",
+    "benefits of qr code payments - sycurio",
+    "benefits of qr code payments for merchants: a complete guide",
+    "how qr code payments work and how to set them up",
+    "benefits of qr code payments for customers and merchants - paypal",
+    "what is invoice qr code? definition, process & key metrics",
+    "paying with a qr code: how it works, advantages & security - gini",
+    "qr code payment - what is it, how does it work & use cases - lyra",
+    "qr code payments: what is it and how does it work? - moon invoice",
+    "customers can scan the qr code to initiate payment without having to manually enter payment details. this simplifies the payment process and ...",
+    "qr code payments improve operational productivity with instant payment processing and actionable data insights",
+    "dynamic qr codes improve payment traceability by linking transactions to specific invoices, reducing errors and simplifying reconciliation.",
+    "benefits of qr code payments for businesses. qr code payments remove many of the barriers associated with traditional payment systems.",
+    "with qr codes, merchants can easily accept payments without needing a physical card reader or register. they can simply create their own code ...",
+    "qr codes enable quick scanning and retrieval of invoice information for validation, payment processing, reporting, and transaction tracking."
   ],
   "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "what is cloud data security? benefits and solutions - google cloud",
+      "keyword": "qr codes explained: how they're used for payments | stripe",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "cloud.google.com",
-        "cloud.google.com",
-        "docs.cloud.google.com",
-        "coursera.org",
-        "kaspersky.com"
+        "stripe.com",
+        "emerchantpay.com",
+        "stripe.com",
+        "checkout.com",
+        "razorpay.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "what is cloud data security? - microsoft",
+      "keyword": "benefits of qr code payments - sycurio",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "microsoft.com",
-        "microsoft.com",
-        "microsoft.com",
-        "microsoft.com",
-        "youtube.com"
+        "sycurio.com",
+        "noda.live",
+        "sycurio.com",
+        "paypal.com",
+        "payu.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "cloud security for accounting data: what you need to know and ...",
+      "keyword": "benefits of qr code payments for merchants: a complete guide",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "accountingdepartment.com",
-        "sqkaccountancy.co.uk",
-        "e-khata.com",
-        "accountingseed.com",
-        "eisneramper.com"
+        "payu.in",
+        "checkout.com",
+        "innoviti.com",
+        "noda.live",
+        "paypal.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "encryption: does your business need it? - seqrite",
+      "keyword": "how qr code payments work and how to set them up",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "seqrite.com",
-        "seqrite.com",
-        "docs.seqrite.com",
-        "seqrite.com",
-        "seqrite.com"
+        "stripe.com",
+        "youtube.com",
+        "razorpay.com",
+        "checkout.com",
+        "squareup.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "data security in cloud computing: best practices and solutions",
+      "keyword": "benefits of qr code payments for customers and merchants - paypal",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "cloud.google.com",
-        "cloudian.com",
-        "geeksforgeeks.org",
-        "secpod.com",
-        "sentinelone.com"
+        "paypal.com",
+        "paypal.com",
+        "noda.live",
+        "scanova.io",
+        "payu.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "best practices for financial data security - quickdice erp solutions",
+      "keyword": "what is invoice qr code? definition, process & key metrics",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "quickdiceerp.com",
-        "quickdiceerp.com",
-        "reviveerp.com",
-        "searchinform.com",
-        "sapphireone.com"
+        "comarch.com",
+        "tutorial.gst.gov.in",
+        "linkedin.com",
+        "stripe.com",
+        "taxilla.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "cybersecurity in cloud-based financial systems: protecting modern ...",
+      "keyword": "paying with a qr code: how it works, advantages & security - gini",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "researchgate.net",
-        "darktrace.com",
-        "wiz.io",
-        "imperva.com",
-        "techomsystems.com.au"
+        "stripe.com",
+        "checkout.com",
+        "razorpay.com",
+        "lyra.com",
+        "blogs.infosys.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "cloud-based accounting security: what you need to know",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "quickbooks.intuit.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "accountingdepartment.com",
-        "accountingseed.com",
-        "bronnhq.com",
-        "netsuite.com",
-        "sqkaccountancy.co.uk"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "the importance of data encryption in cloud environments",
+      "keyword": "qr code payment - what is it, how does it work & use cases - lyra",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "cloudoptimo.com",
-        "fortinet.com",
-        "zscaler.com",
-        "geeksforgeeks.org",
-        "researchgate.net"
+        "lyra.com",
+        "ebanx.com",
+        "stripe.com",
+        "checkout.com",
+        "gini.net"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "cloud data security protects data from security threats. it keeps data confidential and still accessible to those who need it.",
+      "keyword": "qr code payments: what is it and how does it work? - moon invoice",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "cloud.google.com",
-        "ibm.com",
-        "oneleet.com",
-        "coursera.org",
-        "safetica.com"
+        "mooninvoice.com",
+        "mooninvoice.com",
+        "openpr.com",
+        "youtube.com",
+        "mooninvoice.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "enhanced data protection. strong encryption, identity governance, and monitoring limit unauthorized access and reduce the risk of a breach.",
+      "keyword": "customers can scan the qr code to initiate payment without having to manually enter payment details. this simplifies the payment process and ...",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "ibm.com",
-        "pmc.ncbi.nlm.nih.gov",
-        "dataguard.com",
-        "cloudavize.com",
-        "searchinform.com"
+        "stripe.com",
+        "cs-cart.com",
+        "kotak.bank.in",
+        "payu.in",
+        "gini.net"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "1. encryption: all your data should be encrypted both in transit (e.g., via ssl/tls) and at rest (when stored). · 2. two-factor authentication ( ...",
+      "keyword": "qr code payments improve operational productivity with instant payment processing and actionable data insights",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "serverion.com",
-        "kiteworks.com",
-        "fortra.com",
-        "learn.microsoft.com",
-        "dualitytech.com"
+        "sycurio.com",
+        "innoviti.com",
+        "fortunebusinessinsights.com",
+        "blogs.infosys.com",
+        "crnrstone.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "data encryption comes as a staple security package with the existing services and safeguards every form of data that's stored within the cloud- ...",
+      "keyword": "dynamic qr codes improve payment traceability by linking transactions to specific invoices, reducing errors and simplifying reconciliation.",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "seqrite.com",
-        "ibm.com",
-        "cloudian.com",
-        "cloud.google.com",
-        "cloudoptimo.com"
+        "payu.in",
+        "worldline.com",
+        "bulkpe.in",
+        "community.gofrugal.com",
+        "linkedin.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "by encrypting data at rest and in transit, organizations can ensure that even if data is intercepted, it remains unintelligible to unauthorized users. utilize ...",
+      "keyword": "benefits of qr code payments for businesses. qr code payments remove many of the barriers associated with traditional payment systems.",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "opswat.com",
-        "mongodb.com",
-        "imperva.com",
-        "serverion.com",
-        "datastealth.io"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "by encrypting your financial information, you are securing your account in case that someone gets to access the account while keeping the ...",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
+        "acquired.com",
+        "blogs.infosys.com",
         "facebook.com",
-        "facebook.com",
-        "support.google.com",
-        "ftc.gov",
-        "hdfc.bank.in"
+        "worldline.com",
+        "cgap.org"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "with qr codes, merchants can easily accept payments without needing a physical card reader or register. they can simply create their own code ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "uschamber.com",
+        "squareup.com",
+        "ailatech.com",
+        "checkout.com",
+        "facebook.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "qr codes enable quick scanning and retrieval of invoice information for validation, payment processing, reporting, and transaction tracking.",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "stripe.com",
+        "cygnetirp.in",
+        "ai.paytabs.com",
+        "linkedin.com",
+        "payu.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
