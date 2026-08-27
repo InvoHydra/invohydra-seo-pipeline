@@ -1,263 +1,281 @@
 {
   "surviving_keywords": [
-    "qr codes explained: how they're used for payments | stripe",
-    "benefits of qr code payments - sycurio",
-    "benefits of qr code payments for merchants: a complete guide",
-    "how qr code payments work and how to set them up",
-    "benefits of qr code payments for customers and merchants - paypal",
-    "what is invoice qr code? definition, process & key metrics",
-    "paying with a qr code: how it works, advantages & security - gini",
-    "qr code payment - what is it, how does it work & use cases - lyra",
-    "qr code payments: what is it and how does it work? - moon invoice",
-    "customers can scan the qr code to initiate payment without having to manually enter payment details. this simplifies the payment process and ...",
-    "qr code payments improve operational productivity with instant payment processing and actionable data insights",
-    "dynamic qr codes improve payment traceability by linking transactions to specific invoices, reducing errors and simplifying reconciliation.",
-    "benefits of qr code payments for businesses. qr code payments remove many of the barriers associated with traditional payment systems.",
-    "with qr codes, merchants can easily accept payments without needing a physical card reader or register. they can simply create their own code ...",
-    "qr codes enable quick scanning and retrieval of invoice information for validation, payment processing, reporting, and transaction tracking."
+    "blog | tds and tcs compliances for startups and msmes - ricago",
+    "tds and tcs compliance in india: guide for startups and businesses",
+    "tax collection at source module of digitds | ey - india",
+    "why tds filing software is essential for hassle-free tax compliance",
+    "advanced tds/tcs management for india odoo - softhealer store",
+    "rationalisation of tds and tcs (2025): bridging the gap in tax ...",
+    "tds vs. tcs: what's the difference? (a simple guide) - lemonn",
+    "tds vs tcs explained: 2025 tax guide for indian ... - youtube",
+    "tds and tcs are complementary enforcement tools. tds covers the income side: it captures tax on payments flowing from businesses to vendors, ...",
+    "digitds is an automated solution which enables businesses to handle the expanded tax collected at source (tcs) regime by using technology.",
+    "by streamlining the tds filing process and ensuring adherence to tax regulations, businesses can focus on what they do best growing their ...",
+    "we are actively working with organizations and professional firms to streamline their indirect tax (gst) and direct tax (tds & tcs) execution",
+    "everything you need to know about tds & tcs changes in 2025",
+    "tds and tcs compliances are now essential to the financial stability and reputation of indian start-ups and msmes; they are no longer optional ..."
   ],
   "passed": [
-    "qr codes explained: how they're used for payments | stripe",
-    "benefits of qr code payments - sycurio",
-    "benefits of qr code payments for merchants: a complete guide",
-    "how qr code payments work and how to set them up",
-    "benefits of qr code payments for customers and merchants - paypal",
-    "what is invoice qr code? definition, process & key metrics",
-    "paying with a qr code: how it works, advantages & security - gini",
-    "qr code payment - what is it, how does it work & use cases - lyra",
-    "qr code payments: what is it and how does it work? - moon invoice",
-    "customers can scan the qr code to initiate payment without having to manually enter payment details. this simplifies the payment process and ...",
-    "qr code payments improve operational productivity with instant payment processing and actionable data insights",
-    "dynamic qr codes improve payment traceability by linking transactions to specific invoices, reducing errors and simplifying reconciliation.",
-    "benefits of qr code payments for businesses. qr code payments remove many of the barriers associated with traditional payment systems.",
-    "with qr codes, merchants can easily accept payments without needing a physical card reader or register. they can simply create their own code ...",
-    "qr codes enable quick scanning and retrieval of invoice information for validation, payment processing, reporting, and transaction tracking."
+    "blog | tds and tcs compliances for startups and msmes - ricago",
+    "tds and tcs compliance in india: guide for startups and businesses",
+    "tax collection at source module of digitds | ey - india",
+    "why tds filing software is essential for hassle-free tax compliance",
+    "advanced tds/tcs management for india odoo - softhealer store",
+    "rationalisation of tds and tcs (2025): bridging the gap in tax ...",
+    "tds vs. tcs: what's the difference? (a simple guide) - lemonn",
+    "tds vs tcs explained: 2025 tax guide for indian ... - youtube",
+    "tds and tcs are complementary enforcement tools. tds covers the income side: it captures tax on payments flowing from businesses to vendors, ...",
+    "digitds is an automated solution which enables businesses to handle the expanded tax collected at source (tcs) regime by using technology.",
+    "by streamlining the tds filing process and ensuring adherence to tax regulations, businesses can focus on what they do best growing their ...",
+    "we are actively working with organizations and professional firms to streamline their indirect tax (gst) and direct tax (tds & tcs) execution"
   ],
-  "maybe": [],
-  "failed": [],
+  "maybe": [
+    "everything you need to know about tds & tcs changes in 2025",
+    "tds and tcs compliances are now essential to the financial stability and reputation of indian start-ups and msmes; they are no longer optional ..."
+  ],
+  "failed": [
+    "india income-tax rules 2026: tds-tcs framework overhaul"
+  ],
   "full_report": [
     {
-      "keyword": "qr codes explained: how they're used for payments | stripe",
+      "keyword": "blog | tds and tcs compliances for startups and msmes - ricago",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ricago.com",
+        "treelife.in",
+        "ricago.com",
+        "eveconsultancy.in",
+        "gimbooks.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "tds and tcs compliance in india: guide for startups and businesses",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "stripe.com",
-        "emerchantpay.com",
-        "stripe.com",
-        "checkout.com",
-        "razorpay.com"
+        "ricago.com",
+        "treelife.in",
+        "instagram.com",
+        "lawgicalstartup.com",
+        "cashweta.co.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "benefits of qr code payments - sycurio",
+      "keyword": "tax collection at source module of digitds | ey - india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "sycurio.com",
-        "noda.live",
-        "sycurio.com",
-        "paypal.com",
-        "payu.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "benefits of qr code payments for merchants: a complete guide",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "payu.in",
-        "checkout.com",
-        "innoviti.com",
-        "noda.live",
-        "paypal.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how qr code payments work and how to set them up",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "stripe.com",
-        "youtube.com",
-        "razorpay.com",
-        "checkout.com",
-        "squareup.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "benefits of qr code payments for customers and merchants - paypal",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "paypal.com",
-        "paypal.com",
-        "noda.live",
-        "scanova.io",
-        "payu.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "what is invoice qr code? definition, process & key metrics",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "comarch.com",
-        "tutorial.gst.gov.in",
-        "linkedin.com",
-        "stripe.com",
-        "taxilla.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "paying with a qr code: how it works, advantages & security - gini",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "stripe.com",
-        "checkout.com",
-        "razorpay.com",
-        "lyra.com",
-        "blogs.infosys.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "qr code payment - what is it, how does it work & use cases - lyra",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "lyra.com",
-        "ebanx.com",
-        "stripe.com",
-        "checkout.com",
-        "gini.net"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "qr code payments: what is it and how does it work? - moon invoice",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "mooninvoice.com",
-        "mooninvoice.com",
-        "openpr.com",
-        "youtube.com",
-        "mooninvoice.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "customers can scan the qr code to initiate payment without having to manually enter payment details. this simplifies the payment process and ...",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "stripe.com",
-        "cs-cart.com",
-        "kotak.bank.in",
-        "payu.in",
-        "gini.net"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "qr code payments improve operational productivity with instant payment processing and actionable data insights",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "sycurio.com",
-        "innoviti.com",
-        "fortunebusinessinsights.com",
-        "blogs.infosys.com",
-        "crnrstone.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "dynamic qr codes improve payment traceability by linking transactions to specific invoices, reducing errors and simplifying reconciliation.",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "payu.in",
-        "worldline.com",
-        "bulkpe.in",
-        "community.gofrugal.com",
-        "linkedin.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "benefits of qr code payments for businesses. qr code payments remove many of the barriers associated with traditional payment systems.",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "acquired.com",
-        "blogs.infosys.com",
-        "facebook.com",
-        "worldline.com",
-        "cgap.org"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "with qr codes, merchants can easily accept payments without needing a physical card reader or register. they can simply create their own code ...",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "uschamber.com",
-        "squareup.com",
-        "ailatech.com",
-        "checkout.com",
+        "ey.com",
+        "ey.com",
+        "expresscomputer.in",
+        "ey.com",
         "facebook.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "qr codes enable quick scanning and retrieval of invoice information for validation, payment processing, reporting, and transaction tracking.",
+      "keyword": "why tds filing software is essential for hassle-free tax compliance",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "stripe.com",
-        "cygnetirp.in",
-        "ai.paytabs.com",
+        "webtel.in",
+        "computaxonline.com",
+        "winmansoftware.com",
+        "blog.saginfotech.com",
+        "taxpro.co.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "india income-tax rules 2026: tds-tcs framework overhaul",
+      "verdict": "FAIL",
+      "score": 12,
+      "tier1_hits": [
+        "incometax.gov.in",
+        "caclubindia.com",
+        "incometax.gov.in",
+        "taxguru.in"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
         "linkedin.com",
-        "payu.in"
+        "computaxonline.com",
+        "incometax.gov.in",
+        "carajput.com",
+        "caclubindia.com"
+      ],
+      "reason": "Too competitive (score=12). Tier 1 giants: incometax.gov.in, caclubindia.com, incometax.gov.in, taxguru.in. Unlikely to rank page 1."
+    },
+    {
+      "keyword": "advanced tds/tcs management for india odoo - softhealer store",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "store.softhealer.com",
+        "youtube.com",
+        "apps.odoo.com",
+        "sdlccorp.com",
+        "softhealer.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "rationalisation of tds and tcs (2025): bridging the gap in tax ...",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "incometax.gov.in"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "impriindia.com",
+        "linkedin.com",
+        "trilegal.com",
+        "x.com",
+        "youtube.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "tds vs. tcs: what's the difference? (a simple guide) - lemonn",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "lemonn.co.in",
+        "iciciprulife.com",
+        "lemonn.co.in",
+        "instagram.com",
+        "facebook.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "everything you need to know about tds & tcs changes in 2025",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "incometax.gov.in"
+      ],
+      "tier2_hits": [
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "incometax.gov.in",
+        "computaxonline.com",
+        "trilegal.com",
+        "mystartupsolution.in",
+        "linkedin.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: incometax.gov.in | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
+    },
+    {
+      "keyword": "tds vs tcs explained: 2025 tax guide for indian ... - youtube",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "youtube.com",
+        "youtube.com",
+        "youtube.com",
+        "youtube.com",
+        "bhartiaxa.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "tds and tcs compliances are now essential to the financial stability and reputation of indian start-ups and msmes; they are no longer optional ...",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "ricago.com",
+        "treelife.in",
+        "facebook.com",
+        "youtube.com",
+        "tallysolutions.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
+    },
+    {
+      "keyword": "tds and tcs are complementary enforcement tools. tds covers the income side: it captures tax on payments flowing from businesses to vendors, ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "treelife.in",
+        "ricago.com",
+        "instagram.com",
+        "facebook.com",
+        "canarahsbclife.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "digitds is an automated solution which enables businesses to handle the expanded tax collected at source (tcs) regime by using technology.",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ey.com",
+        "ey.com",
+        "facebook.com",
+        "incometaxindia.gov.in",
+        "ricago.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "by streamlining the tds filing process and ensuring adherence to tax regulations, businesses can focus on what they do best growing their ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "webtel.in",
+        "bdo.in",
+        "dev.indiafilings.com",
+        "ijcrt.org",
+        "myndsolution.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "we are actively working with organizations and professional firms to streamline their indirect tax (gst) and direct tax (tds & tcs) execution",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "linkedin.com",
+        "dir.indiamart.com",
+        "ey.com",
+        "vjmglobal.com",
+        "idt.taxsutra.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
