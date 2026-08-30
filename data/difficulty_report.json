@@ -1,44 +1,44 @@
 {
   "surviving_keywords": [
-    "blog | tds and tcs compliances for startups and msmes - ricago",
-    "tds and tcs compliance in india: guide for startups and businesses",
-    "tax collection at source module of digitds | ey - india",
-    "why tds filing software is essential for hassle-free tax compliance",
-    "advanced tds/tcs management for india odoo - softhealer store",
-    "rationalisation of tds and tcs (2025): bridging the gap in tax ...",
-    "tds vs. tcs: what's the difference? (a simple guide) - lemonn",
-    "tds vs tcs explained: 2025 tax guide for indian ... - youtube",
-    "tds and tcs are complementary enforcement tools. tds covers the income side: it captures tax on payments flowing from businesses to vendors, ...",
-    "digitds is an automated solution which enables businesses to handle the expanded tax collected at source (tcs) regime by using technology.",
-    "by streamlining the tds filing process and ensuring adherence to tax regulations, businesses can focus on what they do best growing their ...",
-    "we are actively working with organizations and professional firms to streamline their indirect tax (gst) and direct tax (tds & tcs) execution",
-    "everything you need to know about tds & tcs changes in 2025",
-    "tds and tcs compliances are now essential to the financial stability and reputation of indian start-ups and msmes; they are no longer optional ..."
+    "what is audit trail software? - rillion",
+    "what is an audit trail? everything you need to know - optro",
+    "audit trail and its importance, various software - bc shetty & co",
+    "what is an audit trail? and why it is important in finance - planergy",
+    "what is invoice audit trail? definition, process & key metrics",
+    "audit trail software: key types and importance explained",
+    "audit trail in accounting software serves organizations that want to save time and reduce the risk of fraud.",
+    "maintaining a complete, tamper-proof audit trail helps businesses reduce compliance risk and strengthen financial accountability.",
+    "an audit trail is essential for maintaining compliance, detecting fraud, resolving errors, ensuring accountability, supporting investigations, and driving ...",
+    "the use of a proper audit trail ensures that every transaction examined has the proper documentation in place to solidify its authenticity. it also makes the ...",
+    "audit trail software: what it is, why it matters, and how it works",
+    "accounting software with complete audit trail",
+    "importance of audit trail feature in accounting software for smes",
+    "audit trails give businesses better control of what is happening inside the company. the record-keeping flags financial inconsistencies ..."
   ],
   "passed": [
-    "blog | tds and tcs compliances for startups and msmes - ricago",
-    "tds and tcs compliance in india: guide for startups and businesses",
-    "tax collection at source module of digitds | ey - india",
-    "why tds filing software is essential for hassle-free tax compliance",
-    "advanced tds/tcs management for india odoo - softhealer store",
-    "rationalisation of tds and tcs (2025): bridging the gap in tax ...",
-    "tds vs. tcs: what's the difference? (a simple guide) - lemonn",
-    "tds vs tcs explained: 2025 tax guide for indian ... - youtube",
-    "tds and tcs are complementary enforcement tools. tds covers the income side: it captures tax on payments flowing from businesses to vendors, ...",
-    "digitds is an automated solution which enables businesses to handle the expanded tax collected at source (tcs) regime by using technology.",
-    "by streamlining the tds filing process and ensuring adherence to tax regulations, businesses can focus on what they do best growing their ...",
-    "we are actively working with organizations and professional firms to streamline their indirect tax (gst) and direct tax (tds & tcs) execution"
+    "what is audit trail software? - rillion",
+    "what is an audit trail? everything you need to know - optro",
+    "audit trail and its importance, various software - bc shetty & co",
+    "what is an audit trail? and why it is important in finance - planergy",
+    "what is invoice audit trail? definition, process & key metrics",
+    "audit trail software: key types and importance explained",
+    "audit trail in accounting software serves organizations that want to save time and reduce the risk of fraud.",
+    "maintaining a complete, tamper-proof audit trail helps businesses reduce compliance risk and strengthen financial accountability.",
+    "an audit trail is essential for maintaining compliance, detecting fraud, resolving errors, ensuring accountability, supporting investigations, and driving ...",
+    "the use of a proper audit trail ensures that every transaction examined has the proper documentation in place to solidify its authenticity. it also makes the ..."
   ],
   "maybe": [
-    "everything you need to know about tds & tcs changes in 2025",
-    "tds and tcs compliances are now essential to the financial stability and reputation of indian start-ups and msmes; they are no longer optional ..."
+    "audit trail software: what it is, why it matters, and how it works",
+    "accounting software with complete audit trail",
+    "importance of audit trail feature in accounting software for smes",
+    "audit trails give businesses better control of what is happening inside the company. the record-keeping flags financial inconsistencies ..."
   ],
   "failed": [
-    "india income-tax rules 2026: tds-tcs framework overhaul"
+    "audit trail in accounting software: key requirements - tally solutions"
   ],
   "full_report": [
     {
-      "keyword": "blog | tds and tcs compliances for startups and msmes - ricago",
+      "keyword": "what is audit trail software? - rillion",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -46,236 +46,252 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "ricago.com",
-        "treelife.in",
-        "ricago.com",
-        "eveconsultancy.in",
-        "gimbooks.com"
+        "rillion.com",
+        "rillion.com",
+        "rillion.com",
+        "spotsaas.com",
+        "tallysolutions.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "tds and tcs compliance in india: guide for startups and businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ricago.com",
-        "treelife.in",
-        "instagram.com",
-        "lawgicalstartup.com",
-        "cashweta.co.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "tax collection at source module of digitds | ey - india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ey.com",
-        "ey.com",
-        "expresscomputer.in",
-        "ey.com",
-        "facebook.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "why tds filing software is essential for hassle-free tax compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "webtel.in",
-        "computaxonline.com",
-        "winmansoftware.com",
-        "blog.saginfotech.com",
-        "taxpro.co.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "india income-tax rules 2026: tds-tcs framework overhaul",
+      "keyword": "audit trail in accounting software: key requirements - tally solutions",
       "verdict": "FAIL",
-      "score": 12,
+      "score": 18,
       "tier1_hits": [
-        "incometax.gov.in",
-        "caclubindia.com",
-        "incometax.gov.in",
-        "taxguru.in"
+        "tallysolutions.com",
+        "tallysolutions.com",
+        "tallysolutions.com",
+        "tallysolutions.com",
+        "tallysolutions.com",
+        "tallysolutions.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "linkedin.com",
-        "computaxonline.com",
-        "incometax.gov.in",
-        "carajput.com",
-        "caclubindia.com"
-      ],
-      "reason": "Too competitive (score=12). Tier 1 giants: incometax.gov.in, caclubindia.com, incometax.gov.in, taxguru.in. Unlikely to rank page 1."
-    },
-    {
-      "keyword": "advanced tds/tcs management for india odoo - softhealer store",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "store.softhealer.com",
-        "youtube.com",
-        "apps.odoo.com",
-        "sdlccorp.com",
-        "softhealer.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "rationalisation of tds and tcs (2025): bridging the gap in tax ...",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "incometax.gov.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "impriindia.com",
-        "linkedin.com",
-        "trilegal.com",
-        "x.com",
+        "tallysolutions.com",
+        "tallysolutions.com",
+        "tallysolutions.com",
+        "tallysolutions.com",
         "youtube.com"
       ],
+      "reason": "Too competitive (score=18). Tier 1 giants: tallysolutions.com, tallysolutions.com, tallysolutions.com, tallysolutions.com, tallysolutions.com, tallysolutions.com. Unlikely to rank page 1."
+    },
+    {
+      "keyword": "what is an audit trail? everything you need to know - optro",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "optro.ai",
+        "caseware.com",
+        "pingidentity.com",
+        "scytale.ai",
+        "onspring.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "audit trail and its importance, various software - bc shetty & co",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "bcshettyco.com",
+        "bcshettyco.com",
+        "bcshettyco.com",
+        "tallysolutions.com",
+        "srbatliboi.in"
+      ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "tds vs. tcs: what's the difference? (a simple guide) - lemonn",
+      "keyword": "what is an audit trail? and why it is important in finance - planergy",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "lemonn.co.in",
-        "iciciprulife.com",
-        "lemonn.co.in",
-        "instagram.com",
-        "facebook.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "everything you need to know about tds & tcs changes in 2025",
-      "verdict": "MAYBE",
-      "score": 4,
+      "score": 3,
       "tier1_hits": [
-        "incometax.gov.in"
+        "investopedia.com"
       ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
+      "tier2_hits": [],
       "top_5_domains": [
-        "incometax.gov.in",
-        "computaxonline.com",
-        "trilegal.com",
-        "mystartupsolution.in",
-        "linkedin.com"
+        "planergy.com",
+        "optro.ai",
+        "wns.com",
+        "caseware.com",
+        "pierag.com"
       ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: incometax.gov.in | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "tds vs tcs explained: 2025 tax guide for indian ... - youtube",
+      "keyword": "what is invoice audit trail? definition, process & key metrics",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "youtube.com",
-        "youtube.com",
-        "youtube.com",
-        "youtube.com",
-        "bhartiaxa.com"
+        "optro.ai",
+        "hyperbots.com",
+        "stampli.com",
+        "assetvantage.com",
+        "meegle.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "tds and tcs compliances are now essential to the financial stability and reputation of indian start-ups and msmes; they are no longer optional ...",
-      "verdict": "MAYBE",
-      "score": 4,
+      "keyword": "audit trail software: key types and importance explained",
+      "verdict": "PASS",
+      "score": 3,
       "tier1_hits": [
         "tallysolutions.com"
       ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "ricago.com",
-        "treelife.in",
-        "facebook.com",
-        "youtube.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "tds and tcs are complementary enforcement tools. tds covers the income side: it captures tax on payments flowing from businesses to vendors, ...",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "treelife.in",
-        "ricago.com",
-        "instagram.com",
-        "facebook.com",
-        "canarahsbclife.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "digitds is an automated solution which enables businesses to handle the expanded tax collected at source (tcs) regime by using technology.",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ey.com",
-        "ey.com",
-        "facebook.com",
-        "incometaxindia.gov.in",
-        "ricago.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "by streamlining the tds filing process and ensuring adherence to tax regulations, businesses can focus on what they do best growing their ...",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "webtel.in",
-        "bdo.in",
-        "dev.indiafilings.com",
-        "ijcrt.org",
-        "myndsolution.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "we are actively working with organizations and professional firms to streamline their indirect tax (gst) and direct tax (tds & tcs) execution",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "linkedin.com",
-        "dir.indiamart.com",
-        "ey.com",
+        "optro.ai",
         "vjmglobal.com",
-        "idt.taxsutra.com"
+        "onspring.com",
+        "wns.com",
+        "tallysolutions.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "audit trail software: what it is, why it matters, and how it works",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "suralink.com",
+        "optro.ai",
+        "tallysolutions.com",
+        "articsledge.com",
+        "geeksforgeeks.org"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
+    },
+    {
+      "keyword": "accounting software with complete audit trail",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "getapp.com"
+      ],
+      "top_5_domains": [
+        "zoho.com",
+        "tallysolutions.com",
+        "bcshettyco.com",
+        "gogravity.com",
+        "vjmglobal.com"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: zoho.com, tallysolutions.com | Tier 2 domains present: getapp.com. Winnable with strong content."
+    },
+    {
+      "keyword": "importance of audit trail feature in accounting software for smes",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "optro.ai",
+        "researchgate.net",
+        "spectracompunet.com",
+        "ascgroup.in"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
+    },
+    {
+      "keyword": "audit trail in accounting software serves organizations that want to save time and reduce the risk of fraud.",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "vjmglobal.com",
+        "gogravity.com",
+        "tallysolutions.com",
+        "hipl.co.in",
+        "researchgate.net"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "maintaining a complete, tamper-proof audit trail helps businesses reduce compliance risk and strengthen financial accountability.",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "optro.ai",
+        "pingidentity.com",
+        "lucid.now",
+        "datasunrise.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "audit trails give businesses better control of what is happening inside the company. the record-keeping flags financial inconsistencies ...",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "investopedia.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "pingidentity.com",
+        "dfinsolutions.com",
+        "regly.ai",
+        "planergy.com",
+        "tallysolutions.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, investopedia.com. Winnable with strong content."
+    },
+    {
+      "keyword": "an audit trail is essential for maintaining compliance, detecting fraud, resolving errors, ensuring accountability, supporting investigations, and driving ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "pingidentity.com",
+        "optro.ai",
+        "onspring.com",
+        "eligovoting.com",
+        "rklesolutions.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "the use of a proper audit trail ensures that every transaction examined has the proper documentation in place to solidify its authenticity. it also makes the ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "optro.ai",
+        "facebook.com",
+        "softco.com",
+        "pingidentity.com",
+        "tax2win.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
