@@ -1,35 +1,65 @@
 {
-  "clusters": [
+  "clusters": [],
+  "rejected_keywords": [
     {
-      "hub_topic": "GST Compliance for E-commerce Sellers",
-      "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "Our product supports GST compliance through features like gst_compliance, automatic_tax_calculations, and gst_invoice_generation, making it a suitable fit for e-commerce sellers looking for GST compliance guidelines and registration processes.",
-      "keywords": [
-        "gst registration for e-commerce sellers",
-        "e-commerce gst compliance checklist",
-        "gst rules for e-commerce sellers in india",
-        "gst compliance guidelines for e-commerce",
-        "gst compliance for online marketplace sellers",
-        "gst registration mandatory for e-commerce businesses",
-        "gst compliance for e-commerce operators in india",
-        "gst compliance for e-commerce businesses in india",
-        "gst registration process for e-commerce businesses",
-        "how to register for gst as an e-commerce business"
-      ]
+      "original": "software localization benefits: 10 ways it drives global business ...",
+      "reason": "API execution failure fallback"
     },
     {
-      "hub_topic": "GST Registration and Requirements for E-commerce",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "Features like gstin_auto_fetch, auto_gst_calculation, and gst_compliance support the GST registration and requirement needs of e-commerce sellers, aligning with our product's capabilities.",
-      "keywords": [
-        "gst tax credit limits for e-commerce sellers",
-        "new gst compliance guidelines for e-commerce sellers",
-        "gst requirements for e-commerce operators",
-        "gst registration documents required for e-commerce"
-      ]
+      "original": "5 business benefits of professional localization services - getblend",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "navigating payment localization for global growth - trevipay",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "5 benefits of software localization (blog) - trados",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "top 10 benefits of software localization for global businesses",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "how to automate localization management in accounts payable",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "why localization is critical for global businesses | onesky blog",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "localization in accounts payable: global ap management guide",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "the complete guide to software localization - phrase",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "saas localization | best practices and strategies - paddle",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "research found that localizing a product boosts revenue by 40% and lifts customer satisfaction by 76%,",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "the five key benefits explored in this article, expanded market reach, enhanced reputation, regulatory compliance, accelerated time-to-market, ...",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "it enables businesses to offer local pricing and accept instant payments made in multiple currencies. this enhances customer experience and increases ...",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "ready to shape the future of your enterprise? · 1. increased market share and international sales · 2. reaching out to new users and customers · 3.",
+      "reason": "API execution failure fallback"
+    },
+    {
+      "original": "software localization benefits businesses seeking to connect with international audiences and expand their global footprint effectively.",
+      "reason": "API execution failure fallback"
     }
-  ],
-  "rejected_keywords": []
+  ]
 }

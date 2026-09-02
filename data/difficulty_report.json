@@ -1,284 +1,267 @@
 {
   "surviving_keywords": [
-    "gst registration for e-commerce sellers",
-    "e-commerce gst compliance checklist",
-    "gst rules for e-commerce sellers in india",
-    "gst compliance guidelines for e-commerce",
-    "gst compliance for online marketplace sellers",
-    "gst registration mandatory for e-commerce businesses",
-    "gst tax credit limits for e-commerce sellers",
-    "new gst compliance guidelines for e-commerce sellers",
-    "gst compliance for e-commerce operators in india",
-    "gst compliance for e-commerce businesses in india",
-    "gst requirements for e-commerce operators",
-    "gst registration process for e-commerce businesses",
-    "how to register for gst as an e-commerce business",
-    "gst registration documents required for e-commerce"
+    "software localization benefits: 10 ways it drives global business ...",
+    "5 business benefits of professional localization services - getblend",
+    "navigating payment localization for global growth - trevipay",
+    "5 benefits of software localization (blog) - trados",
+    "top 10 benefits of software localization for global businesses",
+    "how to automate localization management in accounts payable",
+    "why localization is critical for global businesses | onesky blog",
+    "localization in accounts payable: global ap management guide",
+    "the complete guide to software localization - phrase",
+    "saas localization | best practices and strategies - paddle",
+    "research found that localizing a product boosts revenue by 40% and lifts customer satisfaction by 76%,",
+    "the five key benefits explored in this article, expanded market reach, enhanced reputation, regulatory compliance, accelerated time-to-market, ...",
+    "it enables businesses to offer local pricing and accept instant payments made in multiple currencies. this enhances customer experience and increases ...",
+    "ready to shape the future of your enterprise? · 1. increased market share and international sales · 2. reaching out to new users and customers · 3.",
+    "software localization benefits businesses seeking to connect with international audiences and expand their global footprint effectively."
   ],
   "passed": [
-    "gst registration for e-commerce sellers",
-    "e-commerce gst compliance checklist",
-    "gst rules for e-commerce sellers in india",
-    "gst compliance guidelines for e-commerce",
-    "gst compliance for online marketplace sellers",
-    "gst registration mandatory for e-commerce businesses",
-    "gst tax credit limits for e-commerce sellers",
-    "new gst compliance guidelines for e-commerce sellers",
-    "gst compliance for e-commerce operators in india"
+    "software localization benefits: 10 ways it drives global business ...",
+    "5 business benefits of professional localization services - getblend",
+    "navigating payment localization for global growth - trevipay",
+    "5 benefits of software localization (blog) - trados",
+    "top 10 benefits of software localization for global businesses",
+    "how to automate localization management in accounts payable",
+    "why localization is critical for global businesses | onesky blog",
+    "localization in accounts payable: global ap management guide",
+    "the complete guide to software localization - phrase",
+    "saas localization | best practices and strategies - paddle",
+    "research found that localizing a product boosts revenue by 40% and lifts customer satisfaction by 76%,",
+    "the five key benefits explored in this article, expanded market reach, enhanced reputation, regulatory compliance, accelerated time-to-market, ...",
+    "it enables businesses to offer local pricing and accept instant payments made in multiple currencies. this enhances customer experience and increases ...",
+    "ready to shape the future of your enterprise? · 1. increased market share and international sales · 2. reaching out to new users and customers · 3.",
+    "software localization benefits businesses seeking to connect with international audiences and expand their global footprint effectively."
   ],
-  "maybe": [
-    "gst compliance for e-commerce businesses in india",
-    "gst requirements for e-commerce operators",
-    "gst registration process for e-commerce businesses",
-    "how to register for gst as an e-commerce business",
-    "gst registration documents required for e-commerce"
-  ],
+  "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "gst compliance for e-commerce businesses in india",
-      "verdict": "MAYBE",
-      "score": 5,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com",
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "tax2win.in",
-        "nexpective.in",
-        "indiafilings.com",
-        "linkedin.com",
-        "gstcouncil.gov.in"
-      ],
-      "reason": "Moderate competition (score=5). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com, bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "gst registration for e-commerce sellers",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "tax2win.in",
-        "indiafilings.com",
-        "zetapp.in",
-        "gstcouncil.gov.in",
-        "youtube.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "gst requirements for e-commerce operators",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "gstcouncil.gov.in",
-        "tax2win.in",
-        "taxguru.in",
-        "nexpective.in",
-        "indiafilings.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
-    },
-    {
-      "keyword": "e-commerce gst compliance checklist",
+      "keyword": "software localization benefits: 10 ways it drives global business ...",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "corientbs.com",
-        "zetapp.in",
-        "sell.amazon.in",
-        "refrens.com",
-        "avalara.com"
+        "cmmlanguages.com",
+        "transifex.com",
+        "facebook.com",
+        "lokalise.com",
+        "trados.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "gst registration process for e-commerce businesses",
-      "verdict": "MAYBE",
-      "score": 5,
-      "tier1_hits": [
-        "gst.gov.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com",
-        "vakilsearch.com"
-      ],
-      "top_5_domains": [
-        "tax2win.in",
-        "youtube.com",
-        "indiafilings.com",
-        "gst.gov.in",
-        "jjfintax.com"
-      ],
-      "reason": "Moderate competition (score=5). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com, vakilsearch.com. Winnable with strong content."
-    },
-    {
-      "keyword": "gst rules for e-commerce sellers in india",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "gstcouncil.gov.in",
-        "tax2win.in",
-        "sell.amazon.in",
-        "dmifinance.in",
-        "zetapp.in"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "gst compliance guidelines for e-commerce",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gstcouncil.gov.in",
-        "taxguru.in",
-        "zetapp.in",
-        "linkedin.com",
-        "nexpective.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to register for gst as an e-commerce business",
-      "verdict": "MAYBE",
-      "score": 5,
-      "tier1_hits": [
-        "gst.gov.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com",
-        "vakilsearch.com"
-      ],
-      "top_5_domains": [
-        "youtube.com",
-        "indiafilings.com",
-        "gst.gov.in",
-        "zetapp.in",
-        "tax2win.in"
-      ],
-      "reason": "Moderate competition (score=5). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com, vakilsearch.com. Winnable with strong content."
-    },
-    {
-      "keyword": "gst compliance for online marketplace sellers",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "busy.in",
-        "zetapp.in",
-        "linkedin.com",
-        "oxfordaccounting.in",
-        "gstcouncil.gov.in"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "gst registration mandatory for e-commerce businesses",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "tax2win.in",
-        "gstcouncil.gov.in",
-        "indiafilings.com",
-        "zetapp.in",
-        "rvks.in"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "gst tax credit limits for e-commerce sellers",
+      "keyword": "5 business benefits of professional localization services - getblend",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "numeral.com",
-        "legalwiz.in",
-        "cahoot.ai",
-        "reddit.com",
+        "getblend.com",
+        "getblend.com",
+        "getblend.com",
+        "getblend.com",
+        "getblend.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "navigating payment localization for global growth - trevipay",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "trevipay.com",
+        "trevipay.com",
+        "trevipay.com",
+        "trevipay.com",
+        "worldpay.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "5 benefits of software localization (blog) - trados",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "trados.com",
+        "science.co.jp",
+        "phrase.com",
+        "locize.com",
+        "trados.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "top 10 benefits of software localization for global businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cmmlanguages.com",
+        "transifex.com",
+        "linkedin.com",
+        "lokalise.com",
+        "phrase.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to automate localization management in accounts payable",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "rossum.ai",
+        "precoro.com",
+        "linkedin.com",
+        "netsuite.com",
+        "automationanywhere.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "why localization is critical for global businesses | onesky blog",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "onesky.ai",
+        "smartling.com",
+        "phrase.com",
+        "rws.com",
+        "lokalise.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "localization in accounts payable: global ap management guide",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "precoro.com",
+        "rossum.ai",
+        "linkedin.com",
+        "facebook.com",
+        "myndsolution.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "the complete guide to software localization - phrase",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "phrase.com",
+        "youtube.com",
+        "translated.com",
+        "onesky.ai",
+        "lilt.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "saas localization | best practices and strategies - paddle",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "paddle.com",
+        "lokalise.com",
+        "paddle.com",
+        "smartling.com",
+        "crowdin.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "research found that localizing a product boosts revenue by 40% and lifts customer satisfaction by 76%,",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cmmlanguages.com",
+        "getblend.com",
+        "expandin.asia",
+        "mckinsey.com",
+        "lokalise.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "the five key benefits explored in this article, expanded market reach, enhanced reputation, regulatory compliance, accelerated time-to-market, ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "sciencedirect.com",
+        "researchgate.net",
+        "emerald.com",
+        "nativeteams.com",
+        "atlashxm.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "it enables businesses to offer local pricing and accept instant payments made in multiple currencies. this enhances customer experience and increases ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "wise.com",
+        "razorpay.com",
+        "connectpay.com",
+        "zota.com",
+        "decentro.tech"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ready to shape the future of your enterprise? · 1. increased market share and international sales · 2. reaching out to new users and customers · 3.",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "sciencedirect.com",
+        "investopedia.com",
+        "phrase.com",
         "facebook.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "new gst compliance guidelines for e-commerce sellers",
+      "keyword": "software localization benefits businesses seeking to connect with international audiences and expand their global footprint effectively.",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "zetapp.in",
-        "dmifinance.in",
-        "linkedin.com",
-        "gstcouncil.gov.in",
-        "sell.amazon.in"
+        "transifex.com",
+        "researchgate.net",
+        "pairaphrase.com",
+        "cmmlanguages.com",
+        "onesky.ai"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst compliance for e-commerce operators in india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "taxguru.in",
-        "gstcouncil.gov.in",
-        "dmifinance.in",
-        "nexpective.in",
-        "linkedin.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gst registration documents required for e-commerce",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "gst.gov.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "sell.amazon.in",
-        "gst.gov.in",
-        "tax2win.in",
-        "tutorial.gst.gov.in",
-        "jjfintax.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: gst.gov.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
     }
   ]
 }

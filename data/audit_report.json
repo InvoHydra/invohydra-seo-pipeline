@@ -1,20 +1,62 @@
 {
   "top_10": [
     {
-      "keyword": "bulk gstin validation for gst compliance",
-      "filename": "bulk-gstin-validation-for-gst-compliance.json",
-      "rank": 6,
-      "url": "https://www.invohydra.com/blog/bulk-gstin-validation-for-gst-compliance"
+      "keyword": "streamlining customer loyalty programs",
+      "filename": "streamlining-customer-loyalty-programs.json",
+      "rank": 2,
+      "url": "https://www.invohydra.com/blog/streamlining-customer-loyalty-programs"
     },
     {
       "keyword": "gst compliant inventory management",
       "filename": "gst-compliant-inventory-management.json",
-      "rank": 3,
+      "rank": 4,
       "url": "https://www.invohydra.com/blog/gst-billing-and-inventory-management-solutions"
+    },
+    {
+      "keyword": "introducing hydra ai suite",
+      "filename": "introducing-hydra-ai.json",
+      "rank": 1,
+      "url": "https://www.invohydra.com/blog/introducing-hydra-ai"
+    },
+    {
+      "keyword": "real time payment tracking for businesses",
+      "filename": "real-time-payment-tracking-for-businesses.json",
+      "rank": 10,
+      "url": "https://www.invohydra.com/blog/real-time-payment-tracking-for-businesses"
+    },
+    {
+      "keyword": "pos billing software for small businesses",
+      "filename": "pos-billing-software-for-small-businesses.json",
+      "rank": 10,
+      "url": "https://www.invohydra.com/blog/pos-billing-software-for-small-businesses"
+    },
+    {
+      "keyword": "gst billing and inventory management solutions",
+      "filename": "gst-billing-and-inventory-management-solutions.json",
+      "rank": 5,
+      "url": "https://www.invohydra.com/blog/gst-billing-and-inventory-management-solutions"
+    },
+    {
+      "keyword": "invoicing software for customer loyalty",
+      "filename": "invoicing-software-for-customer-loyalty.json",
+      "rank": 5,
+      "url": "https://www.invohydra.com/blog/streamlining-customer-loyalty-programs"
     }
   ],
   "page_2_refresh": [],
   "not_found_or_deep": [
+    {
+      "keyword": "gst registration for e commerce businesses",
+      "filename": "gst-registration-for-e-commerce-businesses.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/gst-registration-for-e-commerce-businesses"
+    },
+    {
+      "keyword": "gstr 1 filing made easy",
+      "filename": "gstr-1-filing-made-easy.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/gstr-1-filing-made-easy"
+    },
     {
       "keyword": "choosing the right pos system",
       "filename": "choosing-the-right-pos-system.json",
@@ -22,34 +64,22 @@
       "url": "https://www.invohydra.com/blog/choosing-the-right-pos-system"
     },
     {
+      "keyword": "pos billing software for retail",
+      "filename": "pos-billing-software-for-retail.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/pos-billing-software-for-retail"
+    },
+    {
+      "keyword": "cash flow management strategies",
+      "filename": "cash-flow-management-strategies.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/cash-flow-management-strategies"
+    },
+    {
       "keyword": "confused about invoices",
       "filename": "confused-about-invoices.json",
       "rank": -1,
       "url": "https://www.invohydra.com/blog/confused-about-invoices"
-    },
-    {
-      "keyword": "fast and accurate billing solutions",
-      "filename": "fast-and-accurate-billing-solutions.json",
-      "rank": -1,
-      "url": "https://www.invohydra.com/blog/fast-and-accurate-billing-solutions"
-    },
-    {
-      "keyword": "gst billing and inventory management solutions",
-      "filename": "gst-billing-and-inventory-management-solutions.json",
-      "rank": -1,
-      "url": "https://www.invohydra.com/blog/gst-billing-and-inventory-management-solutions"
-    },
-    {
-      "keyword": "gst verification api for businesses",
-      "filename": "gst-verification-api-for-businesses.json",
-      "rank": -1,
-      "url": "https://www.invohydra.com/blog/gst-verification-api-for-businesses"
-    },
-    {
-      "keyword": "gstr 1 filing made easy",
-      "filename": "gstr-1-filing-made-easy.json",
-      "rank": -1,
-      "url": "https://www.invohydra.com/blog/gstr-1-filing-made-easy"
     },
     {
       "keyword": "gstr 1 filing process guide",
@@ -64,22 +94,46 @@
       "url": "https://www.invohydra.com/blog/inventory-management-software-for-small-businesses-in-india"
     },
     {
-      "keyword": "pos billing software for retail",
-      "filename": "pos-billing-software-for-retail.json",
+      "keyword": "bulk gstin validation for gst compliance",
+      "filename": "bulk-gstin-validation-for-gst-compliance.json",
       "rank": -1,
-      "url": "https://www.invohydra.com/blog/pos-billing-software-for-retail"
+      "url": "https://www.invohydra.com/blog/bulk-gstin-validation-for-gst-compliance"
     },
     {
-      "keyword": "pos billing software for small businesses",
-      "filename": "pos-billing-software-for-small-businesses.json",
+      "keyword": "small business expense management india",
+      "filename": "small-business-expense-management-india.json",
       "rank": -1,
-      "url": "https://www.invohydra.com/blog/pos-billing-software-for-small-businesses"
+      "url": "https://www.invohydra.com/blog/small-business-expense-management-india"
     },
     {
-      "keyword": "real time inventory tracking benefits",
-      "filename": "real-time-inventory-tracking-benefits.json",
+      "keyword": "gst compliance for e commerce sellers",
+      "filename": "gst-compliance-for-e-commerce-sellers.json",
       "rank": -1,
-      "url": "https://www.invohydra.com/blog/real-time-inventory-tracking-benefits"
+      "url": "https://www.invohydra.com/blog/gst-compliance-for-e-commerce-sellers"
+    },
+    {
+      "keyword": "streamline invoice inventory management",
+      "filename": "streamline-invoice-inventory-management.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/streamline-invoice-inventory-management"
+    },
+    {
+      "keyword": "automated tax compliance for small businesses",
+      "filename": "automated-tax-compliance-for-small-businesses.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/automated-tax-compliance-for-small-businesses"
+    },
+    {
+      "keyword": "gst verification api for businesses",
+      "filename": "gst-verification-api-for-businesses.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/gst-verification-api-for-businesses"
+    },
+    {
+      "keyword": "cloud backup for business data security",
+      "filename": "cloud-backup-for-business-data-security.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/cloud-backup-for-business-data-security"
     },
     {
       "keyword": "small business accounting and bookkeeping tips",
@@ -88,10 +142,22 @@
       "url": "https://www.invohydra.com/blog/small-business-accounting-and-bookkeeping-tips"
     },
     {
-      "keyword": "small business expense management india",
-      "filename": "small-business-expense-management-india.json",
+      "keyword": "real time inventory tracking benefits",
+      "filename": "real-time-inventory-tracking-benefits.json",
       "rank": -1,
-      "url": "https://www.invohydra.com/blog/small-business-expense-management-india"
+      "url": "https://www.invohydra.com/blog/real-time-inventory-tracking-benefits"
+    },
+    {
+      "keyword": "fast and accurate billing solutions",
+      "filename": "fast-and-accurate-billing-solutions.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/fast-and-accurate-billing-solutions"
+    },
+    {
+      "keyword": "tax automation solutions for businesses",
+      "filename": "tax-automation-solutions-for-businesses.json",
+      "rank": -1,
+      "url": "https://www.invohydra.com/blog/tax-automation-solutions-for-businesses"
     }
   ]
 }
