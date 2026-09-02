@@ -1,47 +1,40 @@
 {
   "clusters": [
     {
-      "hub_topic": "Quotation Management & Pre-sales Quoting",
+      "hub_topic": "White Label Invoicing Solutions & Benefits",
       "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra provides full quotation management, pre-sales billing, GST compliance for quotes, automated quote approvals, and API integration for CRM workflows, matching all search intents for quotation software.",
+      "product_fit_rationale": "InvoHydra provides full white_labeling, custom_domain_links, brand_assets, and invoice_template_customization, enabling enterprises and banks to launch a branded invoicing platform with their own domain and branding while leveraging our GST-compliant invoice generation.",
       "keywords": [
-        "quotation management software india",
-        "best quotation management software india",
-        "features of quotation management software for smes",
-        "compare quotation management software vendors india",
-        "steps to create gst compliant quotes india",
-        "pre-sales quoting best practices india",
-        "streamline scoping and quoting process india",
-        "automate quote approvals crm integration india",
-        "pre-sales workflow efficiency tips india",
-        "pre-sales billing workflow automation india",
-        "gst ready quotes automation india"
+        "white label invoicing software for enterprises",
+        "custom domain invoicing platform benefits",
+        "advantages of white label invoicing for banks",
+        "white label invoicing software features list",
+        "white label invoicing cost comparison guide",
+        "enterprise white label invoicing solutions india"
       ]
     },
     {
-      "hub_topic": "Billing & GST Invoicing Software",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra supports GST invoice generation, end‑to‑end billing, multi‑currency billing, real‑time payment tracking and comprehensive reporting, covering all features searched for billing and GST invoicing solutions.",
-      "keywords": [
-        "best billing software for smes india 2026",
-        "top features of billing software for retailers india",
-        "how to increase sales with billing software india",
-        "invoice billing software for small business india",
-        "gst invoicing software for small business india",
-        "how to set up gst invoicing software india",
-        "gst billing and invoicing workflow for smes india"
-      ]
-    },
-    {
-      "hub_topic": "Automated Invoicing Benefits & Process Optimization",
+      "hub_topic": "White Label Invoicing Implementation & Setup",
       "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra’s smart billing automation, automated recurring invoices and real‑time business dashboard illustrate the tangible benefits of automated invoicing that users are researching.",
+      "product_fit_rationale": "Our platform supports white_labeling, custom_domain_links, brand_assets, and invoice_template_customization, plus step‑by‑step deployment tools, making it ideal for users searching how‑to implement and brand a white‑label invoicing solution.",
       "keywords": [
-        "benefits of automated invoicing for small business india",
-        "how to streamline pre-sales quoting process"
+        "how to implement white label invoicing",
+        "white label invoicing deployment steps tutorial",
+        "how to customize branding in white label invoicing",
+        "white label invoicing with custom domain setup",
+        "custom domain branding in invoicing portals"
+      ]
+    },
+    {
+      "hub_topic": "White Label Invoicing Security & GST Compliance",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "InvoHydra guarantees data_security_and_encryption, secure_data_storage, and full GST compliance (gst_invoice_generation, gst_compliance), addressing security and regulatory concerns for white‑label invoicing platforms.",
+      "keywords": [
+        "white label invoicing software security considerations",
+        "white label gst invoicing software india"
       ]
     }
   ],

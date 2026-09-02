@@ -1,54 +1,61 @@
 {
   "surviving_keywords": [
-    "quotation management software india",
-    "best quotation management software india",
-    "pre-sales billing workflow automation india",
-    "gst ready quotes automation india",
-    "how to streamline pre-sales quoting process",
-    "features of quotation management software for smes",
-    "automate quote approvals crm integration india",
-    "pre-sales workflow efficiency tips india",
-    "best billing software for smes india 2026",
-    "top features of billing software for retailers india",
-    "how to increase sales with billing software india",
-    "compare quotation management software vendors india",
-    "steps to create gst compliant quotes india",
-    "benefits of automated invoicing for small business india",
-    "pre-sales quoting best practices india",
-    "streamline scoping and quoting process india",
-    "gst billing and invoicing workflow for smes india",
-    "invoice billing software for small business india",
-    "gst invoicing software for small business india",
-    "how to set up gst invoicing software india"
+    "white label invoicing software for enterprises",
+    "custom domain invoicing platform benefits",
+    "how to implement white label invoicing",
+    "advantages of white label invoicing for banks",
+    "white label invoicing vs custom invoicing software",
+    "white label invoicing software features list",
+    "white label invoicing cost comparison guide",
+    "white label invoicing deployment steps tutorial",
+    "best practices for white label invoicing branding",
+    "white label invoicing with custom domain setup",
+    "enterprise white label invoicing solutions india",
+    "how to customize branding in white label invoicing",
+    "white label invoicing software security considerations",
+    "custom domain branding in invoicing portals",
+    "white label gst invoicing software india"
   ],
   "passed": [
-    "quotation management software india",
-    "best quotation management software india",
-    "pre-sales billing workflow automation india",
-    "gst ready quotes automation india",
-    "how to streamline pre-sales quoting process",
-    "features of quotation management software for smes",
-    "automate quote approvals crm integration india",
-    "pre-sales workflow efficiency tips india",
-    "best billing software for smes india 2026",
-    "top features of billing software for retailers india",
-    "how to increase sales with billing software india",
-    "compare quotation management software vendors india",
-    "steps to create gst compliant quotes india",
-    "benefits of automated invoicing for small business india",
-    "pre-sales quoting best practices india",
-    "streamline scoping and quoting process india",
-    "gst billing and invoicing workflow for smes india"
+    "white label invoicing software for enterprises",
+    "custom domain invoicing platform benefits",
+    "how to implement white label invoicing",
+    "advantages of white label invoicing for banks",
+    "white label invoicing vs custom invoicing software",
+    "white label invoicing software features list",
+    "white label invoicing cost comparison guide",
+    "white label invoicing deployment steps tutorial",
+    "best practices for white label invoicing branding",
+    "white label invoicing with custom domain setup",
+    "enterprise white label invoicing solutions india",
+    "how to customize branding in white label invoicing",
+    "white label invoicing software security considerations"
   ],
   "maybe": [
-    "invoice billing software for small business india",
-    "gst invoicing software for small business india",
-    "how to set up gst invoicing software india"
+    "custom domain branding in invoicing portals",
+    "white label gst invoicing software india"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "quotation management software india",
+      "keyword": "white label invoicing software for enterprises",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "mooninvoice.com",
+        "profitbooks.net",
+        "cloudmore.com",
+        "zetran.com",
+        "spaceinvoices.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "custom domain invoicing platform benefits",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -56,262 +63,179 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "refrens.com",
-        "zoho.com",
-        "technologycounter.com",
-        "sagarinfotech.com",
-        "salesbabu.com"
+        "backbase.com",
+        "spaceinvoices.com",
+        "chargebee.com",
+        "techtidesolutions.com",
+        "sap.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "best quotation management software india",
+      "keyword": "how to implement white label invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "backbase.com",
+        "spaceinvoices.com",
+        "cloudmore.com",
+        "onebillsoftware.com",
+        "mooninvoice.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "advantages of white label invoicing for banks",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "zoho.com"
+        "investopedia.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "zoho.com",
-        "refrens.com",
-        "technologycounter.com",
-        "pandadoc.com",
-        "salesforce.com"
+        "backbase.com",
+        "stripe.com",
+        "theuxda.com",
+        "investopedia.com",
+        "boxopay.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "pre-sales billing workflow automation india",
+      "keyword": "white label invoicing vs custom invoicing software",
       "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "kleeto.in",
-        "finifi.io",
-        "billingplatform.com",
-        "salesforce.com",
-        "docuvity.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gst ready quotes automation india",
-      "verdict": "PASS",
-      "score": 0,
+      "score": 1,
       "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "taxilla.com",
-        "instagram.com",
-        "taxone.vyapar.com",
-        "clear.in",
-        "bharindia.com"
+      "tier2_hits": [
+        "profitbooks.net"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "top_5_domains": [
+        "backbase.com",
+        "facebook.com",
+        "mooninvoice.com",
+        "profitbooks.net",
+        "depositfix.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "how to streamline pre-sales quoting process",
+      "keyword": "white label invoicing software features list",
       "verdict": "PASS",
-      "score": 0,
+      "score": 1,
       "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoma.ai",
-        "salesforce.com",
-        "dealhub.io",
-        "cincom.com",
-        "hexure.com"
+      "tier2_hits": [
+        "profitbooks.net"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "top_5_domains": [
+        "profitbooks.net",
+        "cloudmore.com",
+        "backbase.com",
+        "mooninvoice.com",
+        "onebillsoftware.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "features of quotation management software for smes",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesbabu.com",
-        "refrens.com",
-        "quoteman.in",
-        "salesforce.com",
-        "larksuite.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "invoice billing software for small business india",
+      "keyword": "custom domain branding in invoicing portals",
       "verdict": "MAYBE",
       "score": 6,
       "tier1_hits": [
         "zoho.com",
-        "tallysolutions.com"
+        "hubspot.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "mybillbook.in",
-        "billingsoftwareindia.in",
-        "salesforce.com",
-        "accountune.com",
-        "zoho.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
-    },
-    {
-      "keyword": "gst invoicing software for small business india",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "mybillbook.in",
         "zoho.com",
-        "invoicefree.in",
-        "profitbooks.net",
-        "gogstbill.com"
+        "invoiceninja.github.io",
+        "hubspot.com",
+        "youtube.com",
+        "help.hospitable.com"
       ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, hubspot.com. Winnable with strong content."
     },
     {
-      "keyword": "automate quote approvals crm integration india",
+      "keyword": "white label invoicing cost comparison guide",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "backbase.com",
+        "mooninvoice.com",
+        "cimet.com.au",
+        "spaceinvoices.com",
+        "boxopay.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "white label invoicing deployment steps tutorial",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "spaceinvoices.com",
+        "backbase.com",
+        "qvalia.com",
+        "linkedin.com",
+        "docs.invopop.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "best practices for white label invoicing branding",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "backbase.com",
+        "billingplatform.com",
+        "cloudmore.com",
+        "mooninvoice.com",
+        "support.google.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "white label invoicing with custom domain setup",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "backbase.com",
+        "help.octopuspro.com",
+        "resource.payrix.com",
+        "invoicemyclients.com",
+        "mooninvoice.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "enterprise white label invoicing solutions india",
       "verdict": "PASS",
       "score": 1,
       "tier1_hits": [],
       "tier2_hits": [
-        "getapp.com"
+        "profitbooks.net"
       ],
       "top_5_domains": [
-        "salesforce.com",
-        "dealhub.io",
-        "reenhanced.com",
-        "youtube.com",
-        "satvasolutions.com"
+        "profitbooks.net",
+        "cloudmore.com",
+        "ajackus.com",
+        "mooninvoice.com",
+        "backbase.com"
       ],
       "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "pre-sales workflow efficiency tips india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "mint360.in",
-        "vtiger.com",
-        "pipedrive.com",
-        "linkedin.com",
-        "infosysbpm.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "best billing software for smes india 2026",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "billingsoftwareindia.in",
-        "raseedapp.com",
-        "vasy.ai",
-        "salesforce.com",
-        "khatabilling.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "top features of billing software for retailers india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "mybillbook.in",
-        "accountune.com",
-        "logicerp.com",
-        "retailsoftindia.com",
-        "posbytz.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to increase sales with billing software india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "logicerp.com",
-        "salesforce.com",
-        "themunim.com",
-        "khatabilling.com",
-        "posbytz.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "compare quotation management software vendors india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tyasuite.com",
-        "technologycounter.com",
-        "capterra.in",
-        "dir.indiamart.com",
-        "pandadoc.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "steps to create gst compliant quotes india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "refrens.com",
-        "thegstcalculator.in",
-        "realbooks.in",
-        "tallysolutions.com",
-        "zetran.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "benefits of automated invoicing for small business india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "zenwork.com",
-        "tallysolutions.com",
-        "logicerp.com",
-        "pazy.io"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to set up gst invoicing software india",
+      "keyword": "white label gst invoicing software india",
       "verdict": "MAYBE",
       "score": 4,
       "tier1_hits": [
@@ -321,46 +245,16 @@
         "profitbooks.net"
       ],
       "top_5_domains": [
-        "gogstbill.com",
+        "easy-gst.in",
+        "profitbooks.net",
+        "mooninvoice.com",
         "mybillbook.in",
-        "tutorial.gst.gov.in",
-        "billingsoftwareindia.in",
-        "zoho.com"
+        "barsandwaves.in"
       ],
       "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
     },
     {
-      "keyword": "pre-sales quoting best practices india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "vtiger.com",
-        "bsquare.in",
-        "linkedin.com",
-        "mint360.in",
-        "blog.passle.net"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "streamline scoping and quoting process india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoma.ai",
-        "linkedin.com",
-        "youtube.com",
-        "dealhub.io",
-        "mechanicalpower.net"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst billing and invoicing workflow for smes india",
+      "keyword": "how to customize branding in white label invoicing",
       "verdict": "PASS",
       "score": 1,
       "tier1_hits": [],
@@ -368,13 +262,28 @@
         "profitbooks.net"
       ],
       "top_5_domains": [
-        "profitbooks.net",
-        "logicerp.com",
-        "hisabkitab.co",
-        "linkedin.com",
-        "invoiso.ai"
+        "backbase.com",
+        "onebillsoftware.com",
+        "spaceinvoices.com",
+        "mooninvoice.com",
+        "ajackus.com"
       ],
       "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "white label invoicing software security considerations",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "backbase.com",
+        "ajackus.com",
+        "mooninvoice.com",
+        "cloudmore.com",
+        "onebillsoftware.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
   ]
 }
