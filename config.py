@@ -46,7 +46,7 @@ def verify_credentials() -> None:
 verify_credentials()
 
 # ── Model Configuration ────────────────────────────────────────────────────
-GROQ_MODEL: str = "llama-3.3-70b-versatile"  # Free-tier Groq model, strong for B2B/compliance reasoning
+GROQ_MODEL: str = "openai/gpt-oss-120b"  # Free-tier Groq model, strong for B2B/compliance reasoning
 TEMPERATURE: float = 0.1                       # Low temp = deterministic extraction and compliance checks
 
 
