@@ -1,297 +1,265 @@
 {
   "surviving_keywords": [
-    "what is audit trail software? - rillion",
-    "what is an audit trail? everything you need to know - optro",
-    "audit trail and its importance, various software - bc shetty & co",
-    "what is an audit trail? and why it is important in finance - planergy",
-    "what is invoice audit trail? definition, process & key metrics",
-    "audit trail software: key types and importance explained",
-    "audit trail in accounting software serves organizations that want to save time and reduce the risk of fraud.",
-    "maintaining a complete, tamper-proof audit trail helps businesses reduce compliance risk and strengthen financial accountability.",
-    "an audit trail is essential for maintaining compliance, detecting fraud, resolving errors, ensuring accountability, supporting investigations, and driving ...",
-    "the use of a proper audit trail ensures that every transaction examined has the proper documentation in place to solidify its authenticity. it also makes the ...",
-    "audit trail software: what it is, why it matters, and how it works",
-    "accounting software with complete audit trail",
-    "importance of audit trail feature in accounting software for smes",
-    "audit trails give businesses better control of what is happening inside the company. the record-keeping flags financial inconsistencies ..."
+    "software localization benefits: 10 ways it drives global business ...",
+    "5 business benefits of professional localization services - getblend",
+    "navigating payment localization for global growth - trevipay",
+    "5 benefits of software localization (blog) - trados",
+    "top 10 benefits of software localization for global businesses",
+    "how to automate localization management in accounts payable",
+    "why localization is critical for global businesses | onesky blog",
+    "localization in accounts payable: global ap management guide",
+    "the complete guide to software localization - phrase",
+    "saas localization | best practices and strategies - paddle",
+    "research found that localizing a product boosts revenue by 40% and lifts customer satisfaction by 76%,",
+    "the five key benefits explored in this article, expanded market reach, enhanced reputation, regulatory compliance, accelerated time-to-market, ...",
+    "it enables businesses to offer local pricing and accept instant payments made in multiple currencies. this enhances customer experience and increases ...",
+    "ready to shape the future of your enterprise? · 1. increased market share and international sales · 2. reaching out to new users and customers · 3.",
+    "software localization benefits businesses seeking to connect with international audiences and expand their global footprint effectively."
   ],
   "passed": [
-    "what is audit trail software? - rillion",
-    "what is an audit trail? everything you need to know - optro",
-    "audit trail and its importance, various software - bc shetty & co",
-    "what is an audit trail? and why it is important in finance - planergy",
-    "what is invoice audit trail? definition, process & key metrics",
-    "audit trail software: key types and importance explained",
-    "audit trail in accounting software serves organizations that want to save time and reduce the risk of fraud.",
-    "maintaining a complete, tamper-proof audit trail helps businesses reduce compliance risk and strengthen financial accountability.",
-    "an audit trail is essential for maintaining compliance, detecting fraud, resolving errors, ensuring accountability, supporting investigations, and driving ...",
-    "the use of a proper audit trail ensures that every transaction examined has the proper documentation in place to solidify its authenticity. it also makes the ..."
+    "software localization benefits: 10 ways it drives global business ...",
+    "5 business benefits of professional localization services - getblend",
+    "navigating payment localization for global growth - trevipay",
+    "5 benefits of software localization (blog) - trados",
+    "top 10 benefits of software localization for global businesses",
+    "how to automate localization management in accounts payable",
+    "why localization is critical for global businesses | onesky blog",
+    "localization in accounts payable: global ap management guide",
+    "the complete guide to software localization - phrase",
+    "saas localization | best practices and strategies - paddle",
+    "research found that localizing a product boosts revenue by 40% and lifts customer satisfaction by 76%,",
+    "the five key benefits explored in this article, expanded market reach, enhanced reputation, regulatory compliance, accelerated time-to-market, ...",
+    "it enables businesses to offer local pricing and accept instant payments made in multiple currencies. this enhances customer experience and increases ...",
+    "ready to shape the future of your enterprise? · 1. increased market share and international sales · 2. reaching out to new users and customers · 3.",
+    "software localization benefits businesses seeking to connect with international audiences and expand their global footprint effectively."
   ],
-  "maybe": [
-    "audit trail software: what it is, why it matters, and how it works",
-    "accounting software with complete audit trail",
-    "importance of audit trail feature in accounting software for smes",
-    "audit trails give businesses better control of what is happening inside the company. the record-keeping flags financial inconsistencies ..."
-  ],
-  "failed": [
-    "audit trail in accounting software: key requirements - tally solutions"
-  ],
+  "maybe": [],
+  "failed": [],
   "full_report": [
     {
-      "keyword": "what is audit trail software? - rillion",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "rillion.com",
-        "rillion.com",
-        "rillion.com",
-        "spotsaas.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "audit trail in accounting software: key requirements - tally solutions",
-      "verdict": "FAIL",
-      "score": 18,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "tallysolutions.com",
-        "tallysolutions.com",
-        "tallysolutions.com",
-        "tallysolutions.com",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "tallysolutions.com",
-        "tallysolutions.com",
-        "tallysolutions.com",
-        "youtube.com"
-      ],
-      "reason": "Too competitive (score=18). Tier 1 giants: tallysolutions.com, tallysolutions.com, tallysolutions.com, tallysolutions.com, tallysolutions.com, tallysolutions.com. Unlikely to rank page 1."
-    },
-    {
-      "keyword": "what is an audit trail? everything you need to know - optro",
+      "keyword": "software localization benefits: 10 ways it drives global business ...",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "optro.ai",
-        "caseware.com",
-        "pingidentity.com",
-        "scytale.ai",
-        "onspring.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "audit trail and its importance, various software - bc shetty & co",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "bcshettyco.com",
-        "bcshettyco.com",
-        "bcshettyco.com",
-        "tallysolutions.com",
-        "srbatliboi.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "what is an audit trail? and why it is important in finance - planergy",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "planergy.com",
-        "optro.ai",
-        "wns.com",
-        "caseware.com",
-        "pierag.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "what is invoice audit trail? definition, process & key metrics",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "optro.ai",
-        "hyperbots.com",
-        "stampli.com",
-        "assetvantage.com",
-        "meegle.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "audit trail software: key types and importance explained",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "optro.ai",
-        "vjmglobal.com",
-        "onspring.com",
-        "wns.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "audit trail software: what it is, why it matters, and how it works",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "suralink.com",
-        "optro.ai",
-        "tallysolutions.com",
-        "articsledge.com",
-        "geeksforgeeks.org"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
-    },
-    {
-      "keyword": "accounting software with complete audit trail",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "zoho.com",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "getapp.com"
-      ],
-      "top_5_domains": [
-        "zoho.com",
-        "tallysolutions.com",
-        "bcshettyco.com",
-        "gogravity.com",
-        "vjmglobal.com"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: zoho.com, tallysolutions.com | Tier 2 domains present: getapp.com. Winnable with strong content."
-    },
-    {
-      "keyword": "importance of audit trail feature in accounting software for smes",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "optro.ai",
-        "researchgate.net",
-        "spectracompunet.com",
-        "ascgroup.in"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
-    },
-    {
-      "keyword": "audit trail in accounting software serves organizations that want to save time and reduce the risk of fraud.",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "vjmglobal.com",
-        "gogravity.com",
-        "tallysolutions.com",
-        "hipl.co.in",
-        "researchgate.net"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "maintaining a complete, tamper-proof audit trail helps businesses reduce compliance risk and strengthen financial accountability.",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "optro.ai",
-        "pingidentity.com",
-        "lucid.now",
-        "datasunrise.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "audit trails give businesses better control of what is happening inside the company. the record-keeping flags financial inconsistencies ...",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "pingidentity.com",
-        "dfinsolutions.com",
-        "regly.ai",
-        "planergy.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, investopedia.com. Winnable with strong content."
-    },
-    {
-      "keyword": "an audit trail is essential for maintaining compliance, detecting fraud, resolving errors, ensuring accountability, supporting investigations, and driving ...",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "pingidentity.com",
-        "optro.ai",
-        "onspring.com",
-        "eligovoting.com",
-        "rklesolutions.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "the use of a proper audit trail ensures that every transaction examined has the proper documentation in place to solidify its authenticity. it also makes the ...",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "optro.ai",
+        "cmmlanguages.com",
+        "transifex.com",
         "facebook.com",
-        "softco.com",
-        "pingidentity.com",
-        "tax2win.in"
+        "lokalise.com",
+        "trados.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "5 business benefits of professional localization services - getblend",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "getblend.com",
+        "getblend.com",
+        "getblend.com",
+        "getblend.com",
+        "getblend.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "navigating payment localization for global growth - trevipay",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "trevipay.com",
+        "trevipay.com",
+        "trevipay.com",
+        "trevipay.com",
+        "worldpay.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "5 benefits of software localization (blog) - trados",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "trados.com",
+        "science.co.jp",
+        "phrase.com",
+        "locize.com",
+        "trados.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "top 10 benefits of software localization for global businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cmmlanguages.com",
+        "transifex.com",
+        "linkedin.com",
+        "lokalise.com",
+        "phrase.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to automate localization management in accounts payable",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "rossum.ai",
+        "precoro.com",
+        "linkedin.com",
+        "netsuite.com",
+        "automationanywhere.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "why localization is critical for global businesses | onesky blog",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "onesky.ai",
+        "smartling.com",
+        "phrase.com",
+        "rws.com",
+        "lokalise.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "localization in accounts payable: global ap management guide",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "precoro.com",
+        "rossum.ai",
+        "linkedin.com",
+        "facebook.com",
+        "myndsolution.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "the complete guide to software localization - phrase",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "phrase.com",
+        "youtube.com",
+        "translated.com",
+        "onesky.ai",
+        "lilt.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "saas localization | best practices and strategies - paddle",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "paddle.com",
+        "lokalise.com",
+        "paddle.com",
+        "smartling.com",
+        "crowdin.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "research found that localizing a product boosts revenue by 40% and lifts customer satisfaction by 76%,",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cmmlanguages.com",
+        "getblend.com",
+        "expandin.asia",
+        "mckinsey.com",
+        "lokalise.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "the five key benefits explored in this article, expanded market reach, enhanced reputation, regulatory compliance, accelerated time-to-market, ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "sciencedirect.com",
+        "researchgate.net",
+        "emerald.com",
+        "nativeteams.com",
+        "atlashxm.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "it enables businesses to offer local pricing and accept instant payments made in multiple currencies. this enhances customer experience and increases ...",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "wise.com",
+        "razorpay.com",
+        "connectpay.com",
+        "zota.com",
+        "decentro.tech"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ready to shape the future of your enterprise? · 1. increased market share and international sales · 2. reaching out to new users and customers · 3.",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "sciencedirect.com",
+        "investopedia.com",
+        "phrase.com",
+        "facebook.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "software localization benefits businesses seeking to connect with international audiences and expand their global footprint effectively.",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "transifex.com",
+        "researchgate.net",
+        "pairaphrase.com",
+        "cmmlanguages.com",
+        "onesky.ai"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
