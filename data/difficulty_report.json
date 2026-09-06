@@ -1,61 +1,86 @@
 {
   "surviving_keywords": [
-    "white label invoicing software for enterprises",
-    "custom domain invoicing platform benefits",
-    "how to implement white label invoicing",
-    "advantages of white label invoicing for banks",
-    "white label invoicing vs custom invoicing software",
-    "white label invoicing software features list",
-    "white label invoicing cost comparison guide",
-    "white label invoicing deployment steps tutorial",
-    "best practices for white label invoicing branding",
-    "white label invoicing with custom domain setup",
-    "enterprise white label invoicing solutions india",
-    "how to customize branding in white label invoicing",
-    "white label invoicing software security considerations",
-    "custom domain branding in invoicing portals",
-    "white label gst invoicing software india"
+    "how to send invoices from mobile app",
+    "mobile billing app improves payment speed",
+    "mobile invoicing reduces invoice backlog",
+    "on the go invoice creation best practices",
+    "advantages of mobile billing for msme india",
+    "mobile invoicing app security for client payments",
+    "how to manage e-way bills on mobile app",
+    "mobile invoicing notifications for payment reminders",
+    "mobile invoicing app for recurring billing on the go",
+    "steps to set up mobile invoicing for gst compliance",
+    "mobile invoicing real time updates benefits",
+    "mobile invoicing app for instant billing",
+    "benefits of mobile invoicing for small business",
+    "mobile invoicing app features for on the go billing",
+    "real time invoice tracking mobile app",
+    "mobile accounting app for gst compliance",
+    "mobile invoicing app for gst registered businesses",
+    "mobile invoicing app integration with accounting software"
   ],
   "passed": [
-    "white label invoicing software for enterprises",
-    "custom domain invoicing platform benefits",
-    "how to implement white label invoicing",
-    "advantages of white label invoicing for banks",
-    "white label invoicing vs custom invoicing software",
-    "white label invoicing software features list",
-    "white label invoicing cost comparison guide",
-    "white label invoicing deployment steps tutorial",
-    "best practices for white label invoicing branding",
-    "white label invoicing with custom domain setup",
-    "enterprise white label invoicing solutions india",
-    "how to customize branding in white label invoicing",
-    "white label invoicing software security considerations"
+    "how to send invoices from mobile app",
+    "mobile billing app improves payment speed",
+    "mobile invoicing reduces invoice backlog",
+    "on the go invoice creation best practices",
+    "advantages of mobile billing for msme india",
+    "mobile invoicing app security for client payments",
+    "how to manage e-way bills on mobile app",
+    "mobile invoicing notifications for payment reminders",
+    "mobile invoicing app for recurring billing on the go",
+    "steps to set up mobile invoicing for gst compliance",
+    "mobile invoicing real time updates benefits",
+    "mobile invoicing app for instant billing"
   ],
   "maybe": [
-    "custom domain branding in invoicing portals",
-    "white label gst invoicing software india"
+    "benefits of mobile invoicing for small business",
+    "mobile invoicing app features for on the go billing",
+    "real time invoice tracking mobile app",
+    "mobile accounting app for gst compliance",
+    "mobile invoicing app for gst registered businesses",
+    "mobile invoicing app integration with accounting software"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "white label invoicing software for enterprises",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "profitbooks.net"
+      "keyword": "benefits of mobile invoicing for small business",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "quickbooks.intuit.com",
+        "zoho.com"
       ],
+      "tier2_hits": [],
       "top_5_domains": [
-        "mooninvoice.com",
-        "profitbooks.net",
-        "cloudmore.com",
-        "zetran.com",
-        "spaceinvoices.com"
+        "salesforce.com",
+        "squareup.com",
+        "zbooni.com",
+        "appvizer.com",
+        "quickbooks.intuit.com"
       ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
+      "reason": "Moderate competition (score=6). Tier 1 domains present: quickbooks.intuit.com, zoho.com. Winnable with strong content."
     },
     {
-      "keyword": "custom domain invoicing platform benefits",
+      "keyword": "mobile invoicing app features for on the go billing",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "zoho.com",
+        "quickbooks.intuit.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "invoice.2go.com",
+        "play.google.com",
+        "zoho.com",
+        "ramp.com",
+        "invoicely.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, quickbooks.intuit.com. Winnable with strong content."
+    },
+    {
+      "keyword": "how to send invoices from mobile app",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -63,179 +88,16 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "backbase.com",
-        "spaceinvoices.com",
-        "chargebee.com",
-        "techtidesolutions.com",
-        "sap.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to implement white label invoicing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "backbase.com",
-        "spaceinvoices.com",
-        "cloudmore.com",
-        "onebillsoftware.com",
-        "mooninvoice.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "advantages of white label invoicing for banks",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "backbase.com",
-        "stripe.com",
-        "theuxda.com",
-        "investopedia.com",
-        "boxopay.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "white label invoicing vs custom invoicing software",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "backbase.com",
-        "facebook.com",
-        "mooninvoice.com",
-        "profitbooks.net",
-        "depositfix.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "white label invoicing software features list",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "profitbooks.net",
-        "cloudmore.com",
-        "backbase.com",
-        "mooninvoice.com",
-        "onebillsoftware.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "custom domain branding in invoicing portals",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
         "zoho.com",
-        "hubspot.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "invoiceninja.github.io",
-        "hubspot.com",
-        "youtube.com",
-        "help.hospitable.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, hubspot.com. Winnable with strong content."
-    },
-    {
-      "keyword": "white label invoicing cost comparison guide",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "backbase.com",
-        "mooninvoice.com",
-        "cimet.com.au",
-        "spaceinvoices.com",
-        "boxopay.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "white label invoicing deployment steps tutorial",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "spaceinvoices.com",
-        "backbase.com",
-        "qvalia.com",
-        "linkedin.com",
-        "docs.invopop.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "best practices for white label invoicing branding",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "backbase.com",
-        "billingplatform.com",
-        "cloudmore.com",
-        "mooninvoice.com",
-        "support.google.com"
+        "bookipi.com",
+        "play.google.com",
+        "support.swipesimple.com",
+        "xero.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "white label invoicing with custom domain setup",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "backbase.com",
-        "help.octopuspro.com",
-        "resource.payrix.com",
-        "invoicemyclients.com",
-        "mooninvoice.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "enterprise white label invoicing solutions india",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "profitbooks.net",
-        "cloudmore.com",
-        "ajackus.com",
-        "mooninvoice.com",
-        "backbase.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "white label gst invoicing software india",
+      "keyword": "real time invoice tracking mobile app",
       "verdict": "MAYBE",
       "score": 4,
       "tier1_hits": [
@@ -245,16 +107,16 @@
         "profitbooks.net"
       ],
       "top_5_domains": [
-        "easy-gst.in",
-        "profitbooks.net",
-        "mooninvoice.com",
-        "mybillbook.in",
-        "barsandwaves.in"
+        "getharvest.com",
+        "peakflo.co",
+        "blog.hyperbots.com",
+        "avaza.com",
+        "play.google.com"
       ],
       "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
     },
     {
-      "keyword": "how to customize branding in white label invoicing",
+      "keyword": "mobile billing app improves payment speed",
       "verdict": "PASS",
       "score": 1,
       "tier1_hits": [],
@@ -262,28 +124,228 @@
         "profitbooks.net"
       ],
       "top_5_domains": [
-        "backbase.com",
-        "onebillsoftware.com",
-        "spaceinvoices.com",
-        "mooninvoice.com",
-        "ajackus.com"
+        "mybillbook.in",
+        "invoicefree.in",
+        "play.google.com",
+        "gimbooks.com",
+        "billingfast.com"
       ],
       "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "white label invoicing software security considerations",
+      "keyword": "mobile invoicing reduces invoice backlog",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "backbase.com",
-        "ajackus.com",
-        "mooninvoice.com",
-        "cloudmore.com",
-        "onebillsoftware.com"
+        "hyperbots.com",
+        "ramp.com",
+        "stampli.com",
+        "brex.com",
+        "jisem-journal.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "on the go invoice creation best practices",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "stripe.com",
+        "billdu.com",
+        "centriconsulting.com",
+        "windwardstudios.com",
+        "accelo.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "mobile accounting app for gst compliance",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "play.google.com",
+        "busy.in",
+        "vyaparapp.in",
+        "eztax.in",
+        "gstn.org.in"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "mobile invoicing app for gst registered businesses",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "play.google.com",
+        "gogstbill.com",
+        "zoho.com",
+        "gimbooks.com",
+        "play.google.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "advantages of mobile billing for msme india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "vyaparapp.in",
+        "hfs.in",
+        "bharatbills.com",
+        "smaket.ai",
+        "linkedin.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "mobile invoicing app security for client payments",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "invoicely.com",
+        "zoho.com",
+        "bookipi.com",
+        "waveapps.com",
+        "squareup.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "how to manage e-way bills on mobile app",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ewaybillgst.gov.in",
+        "apps.apple.com",
+        "youtube.com",
+        "play.google.com",
+        "ewaybillgst.gov.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "mobile invoicing app integration with accounting software",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "zoho.com",
+        "profitbooks.net",
+        "clappia.com",
+        "play.google.com",
+        "bill.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "mobile invoicing notifications for payment reminders",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "billdu.com",
+        "play.google.com",
+        "codementor.io",
+        "meekhata.in",
+        "handdy.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "mobile invoicing app for recurring billing on the go",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "play.google.com",
+        "zoho.com",
+        "youtube.com",
+        "wise.com",
+        "bookipi.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "steps to set up mobile invoicing for gst compliance",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "logicerp.com",
+        "einvoice1.gst.gov.in",
+        "gsthero.com",
+        "dmifinance.in",
+        "billclap.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "mobile invoicing real time updates benefits",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "rtcsuite.com",
+        "linkmobility.com",
+        "accoxi.com",
+        "ramp.com",
+        "zoho.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "mobile invoicing app for instant billing",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "play.google.com",
+        "zoho.com",
+        "invoicefree.in",
+        "refrens.com",
+        "bookipi.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     }
   ]
 }

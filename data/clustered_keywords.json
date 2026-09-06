@@ -1,40 +1,69 @@
 {
   "clusters": [
     {
-      "hub_topic": "White Label Invoicing Solutions & Benefits",
+      "hub_topic": "Mobile Invoicing Basics & Benefits",
       "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra provides full white_labeling, custom_domain_links, brand_assets, and invoice_template_customization, enabling enterprises and banks to launch a branded invoicing platform with their own domain and branding while leveraging our GST-compliant invoice generation.",
+      "intent": "Informational",
+      "product_fit_rationale": "InvoHydra offers mobile_app_access, mobile_billing, mobile_e_invoicing, instant_sharing and real_time_payment_tracking, enabling users to create, send and benefit from invoices on the go.",
       "keywords": [
-        "white label invoicing software for enterprises",
-        "custom domain invoicing platform benefits",
-        "advantages of white label invoicing for banks",
-        "white label invoicing software features list",
-        "white label invoicing cost comparison guide",
-        "enterprise white label invoicing solutions india"
+        "how to send invoices from mobile app",
+        "mobile invoicing reduces invoice backlog",
+        "on the go invoice creation best practices",
+        "advantages of mobile billing for msme india",
+        "mobile invoicing app for instant billing",
+        "benefits of mobile invoicing for small business",
+        "mobile invoicing app features for on the go billing"
       ]
     },
     {
-      "hub_topic": "White Label Invoicing Implementation & Setup",
-      "demand": "Medium",
+      "hub_topic": "GST Compliance & E‑Way Bill Management on Mobile",
+      "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "Our platform supports white_labeling, custom_domain_links, brand_assets, and invoice_template_customization, plus step‑by‑step deployment tools, making it ideal for users searching how‑to implement and brand a white‑label invoicing solution.",
+      "product_fit_rationale": "The platform supports gst_compliance, e_way_bill_generation, gst_invoice_generation and mobile_app_access, allowing GST‑registered users to file invoices and manage e‑way bills directly from their phones.",
       "keywords": [
-        "how to implement white label invoicing",
-        "white label invoicing deployment steps tutorial",
-        "how to customize branding in white label invoicing",
-        "white label invoicing with custom domain setup",
-        "custom domain branding in invoicing portals"
+        "how to manage e-way bills on mobile app",
+        "steps to set up mobile invoicing for gst compliance",
+        "mobile accounting app for gst compliance",
+        "mobile invoicing app for gst registered businesses"
       ]
     },
     {
-      "hub_topic": "White Label Invoicing Security & GST Compliance",
+      "hub_topic": "Real‑time Tracking & Updates",
       "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra guarantees data_security_and_encryption, secure_data_storage, and full GST compliance (gst_invoice_generation, gst_compliance), addressing security and regulatory concerns for white‑label invoicing platforms.",
+      "product_fit_rationale": "Features like invoice_status_tracking, real_time_payment_tracking and real_time_business_dashboard give instant visibility of invoice status and payments on mobile devices.",
       "keywords": [
-        "white label invoicing software security considerations",
-        "white label gst invoicing software india"
+        "mobile invoicing real time updates benefits",
+        "real time invoice tracking mobile app"
+      ]
+    },
+    {
+      "hub_topic": "Security & Payment Speed",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "Secure_data_storage, multi_payment_methods and payment_link_sharing ensure fast, safe transactions and protect client payment data within the mobile app.",
+      "keywords": [
+        "mobile billing app improves payment speed",
+        "mobile invoicing app security for client payments"
+      ]
+    },
+    {
+      "hub_topic": "Recurring Billing & Automation on Mobile",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "Automated_recurring_invoices, automated_payment_reminders and recurring_invoice_profiles let users set up and manage recurring billing cycles from their phones.",
+      "keywords": [
+        "mobile invoicing notifications for payment reminders",
+        "mobile invoicing app for recurring billing on the go"
+      ]
+    },
+    {
+      "hub_topic": "Integration with Accounting & Software",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "API_access and multi_device_access enable seamless integration of the mobile invoicing app with external accounting systems and other business tools.",
+      "keywords": [
+        "mobile invoicing app integration with accounting software"
       ]
     }
   ],
