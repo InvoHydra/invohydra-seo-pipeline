@@ -1,351 +1,243 @@
 {
   "surviving_keywords": [
-    "how to send invoices from mobile app",
-    "mobile billing app improves payment speed",
-    "mobile invoicing reduces invoice backlog",
-    "on the go invoice creation best practices",
-    "advantages of mobile billing for msme india",
-    "mobile invoicing app security for client payments",
-    "how to manage e-way bills on mobile app",
-    "mobile invoicing notifications for payment reminders",
-    "mobile invoicing app for recurring billing on the go",
-    "steps to set up mobile invoicing for gst compliance",
-    "mobile invoicing real time updates benefits",
-    "mobile invoicing app for instant billing",
-    "benefits of mobile invoicing for small business",
-    "mobile invoicing app features for on the go billing",
-    "real time invoice tracking mobile app",
-    "mobile accounting app for gst compliance",
-    "mobile invoicing app for gst registered businesses",
-    "mobile invoicing app integration with accounting software"
+    "how to integrate real-time sales data with gst compliance",
+    "benefits of real-time reporting for gst invoicing",
+    "automate gst invoicing using sales analytics tools",
+    "gst billing platform with live sales tracking",
+    "real-time sales insights for indian msme gst filing",
+    "gstin validation with real-time sales data integration",
+    "improve cash flow with real-time gst invoicing analytics",
+    "best practices for real-time gst billing automation india",
+    "real-time sales analytics for gst billing india",
+    "gst invoicing software with live sales updates",
+    "real-time dashboard for gst billing and tax compliance",
+    "recurring billing and gst compliance with real-time analytics"
   ],
   "passed": [
-    "how to send invoices from mobile app",
-    "mobile billing app improves payment speed",
-    "mobile invoicing reduces invoice backlog",
-    "on the go invoice creation best practices",
-    "advantages of mobile billing for msme india",
-    "mobile invoicing app security for client payments",
-    "how to manage e-way bills on mobile app",
-    "mobile invoicing notifications for payment reminders",
-    "mobile invoicing app for recurring billing on the go",
-    "steps to set up mobile invoicing for gst compliance",
-    "mobile invoicing real time updates benefits",
-    "mobile invoicing app for instant billing"
+    "how to integrate real-time sales data with gst compliance",
+    "benefits of real-time reporting for gst invoicing",
+    "automate gst invoicing using sales analytics tools",
+    "gst billing platform with live sales tracking",
+    "real-time sales insights for indian msme gst filing",
+    "gstin validation with real-time sales data integration",
+    "improve cash flow with real-time gst invoicing analytics",
+    "best practices for real-time gst billing automation india"
   ],
   "maybe": [
-    "benefits of mobile invoicing for small business",
-    "mobile invoicing app features for on the go billing",
-    "real time invoice tracking mobile app",
-    "mobile accounting app for gst compliance",
-    "mobile invoicing app for gst registered businesses",
-    "mobile invoicing app integration with accounting software"
+    "real-time sales analytics for gst billing india",
+    "gst invoicing software with live sales updates",
+    "real-time dashboard for gst billing and tax compliance",
+    "recurring billing and gst compliance with real-time analytics"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "benefits of mobile invoicing for small business",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "quickbooks.intuit.com",
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "squareup.com",
-        "zbooni.com",
-        "appvizer.com",
-        "quickbooks.intuit.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: quickbooks.intuit.com, zoho.com. Winnable with strong content."
-    },
-    {
-      "keyword": "mobile invoicing app features for on the go billing",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "zoho.com",
-        "quickbooks.intuit.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "invoice.2go.com",
-        "play.google.com",
-        "zoho.com",
-        "ramp.com",
-        "invoicely.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, quickbooks.intuit.com. Winnable with strong content."
-    },
-    {
-      "keyword": "how to send invoices from mobile app",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "bookipi.com",
-        "play.google.com",
-        "support.swipesimple.com",
-        "xero.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "real time invoice tracking mobile app",
+      "keyword": "real-time sales analytics for gst billing india",
       "verdict": "MAYBE",
       "score": 4,
       "tier1_hits": [
-        "zoho.com"
+        "tallysolutions.com"
       ],
       "tier2_hits": [
         "profitbooks.net"
       ],
       "top_5_domains": [
-        "getharvest.com",
-        "peakflo.co",
-        "blog.hyperbots.com",
-        "avaza.com",
-        "play.google.com"
+        "vasy.ai",
+        "busy.in",
+        "tallyatcloud.com",
+        "tallysolutions.com",
+        "profitbooks.net"
       ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
     },
     {
-      "keyword": "mobile billing app improves payment speed",
+      "keyword": "gst invoicing software with live sales updates",
+      "verdict": "MAYBE",
+      "score": 5,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net",
+        "techjockey.com"
+      ],
+      "top_5_domains": [
+        "gogstbill.com",
+        "gimbooks.com",
+        "zoho.com",
+        "saleson.co.in",
+        "raseedapp.com"
+      ],
+      "reason": "Moderate competition (score=5). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net, techjockey.com. Winnable with strong content."
+    },
+    {
+      "keyword": "how to integrate real-time sales data with gst compliance",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "proanalyser.in",
+        "taxone.vyapar.com",
+        "masterbrains.co.in",
+        "taxilla.com",
+        "zenodo.org"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "benefits of real-time reporting for gst invoicing",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "fonoa.com",
+        "gsthero.com",
+        "gimbooks.com",
+        "avalara.com",
+        "tallysolutions.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "real-time dashboard for gst billing and tax compliance",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "cleartax.in",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "cleartax.in",
+        "profitbooks.net",
+        "myndsolution.com",
+        "cygnet.one",
+        "mybillbook.in"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: cleartax.in, tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "automate gst invoicing using sales analytics tools",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "agaraminfotech.com",
+        "vasy.ai",
+        "tallysolutions.com",
+        "taxone.vyapar.com",
+        "taxilla.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "gst billing platform with live sales tracking",
       "verdict": "PASS",
       "score": 1,
       "tier1_hits": [],
       "tier2_hits": [
-        "profitbooks.net"
+        "techjockey.com"
       ],
       "top_5_domains": [
-        "mybillbook.in",
-        "invoicefree.in",
-        "play.google.com",
-        "gimbooks.com",
-        "billingfast.com"
+        "gogstbill.com",
+        "busy.in",
+        "business.jhattse.com",
+        "instagram.com",
+        "khatabilling.com"
       ],
       "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "mobile invoicing reduces invoice backlog",
+      "keyword": "real-time sales insights for indian msme gst filing",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
+      "score": 3,
+      "tier1_hits": [
+        "cleartax.in"
+      ],
       "tier2_hits": [],
       "top_5_domains": [
-        "hyperbots.com",
-        "ramp.com",
-        "stampli.com",
-        "brex.com",
-        "jisem-journal.com"
+        "scoreme.in",
+        "elixir-books.com",
+        "facebook.com",
+        "webledger.in",
+        "cleartax.in"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "on the go invoice creation best practices",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "stripe.com",
-        "billdu.com",
-        "centriconsulting.com",
-        "windwardstudios.com",
-        "accelo.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "mobile accounting app for gst compliance",
+      "keyword": "recurring billing and gst compliance with real-time analytics",
       "verdict": "MAYBE",
       "score": 4,
       "tier1_hits": [
-        "zoho.com"
+        "tallysolutions.com"
       ],
       "tier2_hits": [
         "profitbooks.net"
       ],
       "top_5_domains": [
-        "play.google.com",
-        "busy.in",
-        "vyaparapp.in",
-        "eztax.in",
-        "gstn.org.in"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "mobile invoicing app for gst registered businesses",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "play.google.com",
-        "gogstbill.com",
-        "zoho.com",
-        "gimbooks.com",
-        "play.google.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "advantages of mobile billing for msme india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "vyaparapp.in",
-        "hfs.in",
-        "bharatbills.com",
-        "smaket.ai",
-        "linkedin.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "mobile invoicing app security for client payments",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "invoicely.com",
-        "zoho.com",
-        "bookipi.com",
-        "waveapps.com",
-        "squareup.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to manage e-way bills on mobile app",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ewaybillgst.gov.in",
-        "apps.apple.com",
-        "youtube.com",
-        "play.google.com",
-        "ewaybillgst.gov.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "mobile invoicing app integration with accounting software",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "zoho.com",
-        "profitbooks.net",
-        "clappia.com",
-        "play.google.com",
-        "bill.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "mobile invoicing notifications for payment reminders",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "billdu.com",
-        "play.google.com",
-        "codementor.io",
-        "meekhata.in",
-        "handdy.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "mobile invoicing app for recurring billing on the go",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "play.google.com",
-        "zoho.com",
-        "youtube.com",
-        "wise.com",
-        "bookipi.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "steps to set up mobile invoicing for gst compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "logicerp.com",
-        "einvoice1.gst.gov.in",
-        "gsthero.com",
-        "dmifinance.in",
-        "billclap.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "mobile invoicing real time updates benefits",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "rtcsuite.com",
-        "linkmobility.com",
-        "accoxi.com",
-        "ramp.com",
-        "zoho.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "mobile invoicing app for instant billing",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "play.google.com",
-        "zoho.com",
-        "invoicefree.in",
         "refrens.com",
-        "bookipi.com"
+        "logicerp.com",
+        "tallysolutions.com",
+        "profitbooks.net",
+        "gimbooks.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "gstin validation with real-time sales data integration",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ginesys.in",
+        "perione.in",
+        "cashfree.com",
+        "sepfust.com",
+        "aopay.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "improve cash flow with real-time gst invoicing analytics",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "cashflo.io",
+        "fractal.ai",
+        "gimbooks.com",
+        "invohydra.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "best practices for real-time gst billing automation india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "raseedapp.com",
+        "vasy.ai",
+        "optechsoft.com",
+        "khatabilling.com",
+        "taxone.vyapar.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
   ]
 }

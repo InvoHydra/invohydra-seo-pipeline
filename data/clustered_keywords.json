@@ -1,69 +1,31 @@
 {
   "clusters": [
     {
-      "hub_topic": "Mobile Invoicing Basics & Benefits",
+      "hub_topic": "Real-time GST billing and analytics insights",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra offers mobile_app_access, mobile_billing, mobile_e_invoicing, instant_sharing and real_time_payment_tracking, enabling users to create, send and benefit from invoices on the go.",
+      "product_fit_rationale": "InvoHydra provides real_time_sales_updates, real_time_business_dashboard, sales_analytics, automatic_tax_calculations and gst_compliance, enabling users to integrate live sales data, view dashboards, and understand cash‑flow impacts while staying GST‑compliant.",
       "keywords": [
-        "how to send invoices from mobile app",
-        "mobile invoicing reduces invoice backlog",
-        "on the go invoice creation best practices",
-        "advantages of mobile billing for msme india",
-        "mobile invoicing app for instant billing",
-        "benefits of mobile invoicing for small business",
-        "mobile invoicing app features for on the go billing"
+        "how to integrate real-time sales data with gst compliance",
+        "benefits of real-time reporting for gst invoicing",
+        "best practices for real-time gst billing automation india",
+        "real-time sales insights for indian msme gst filing",
+        "real-time sales analytics for gst billing india",
+        "real-time dashboard for gst billing and tax compliance",
+        "improve cash flow with real-time gst invoicing analytics",
+        "gstin validation with real-time sales data integration"
       ]
     },
     {
-      "hub_topic": "GST Compliance & E‑Way Bill Management on Mobile",
+      "hub_topic": "GST invoicing platforms with live sales integration",
       "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "The platform supports gst_compliance, e_way_bill_generation, gst_invoice_generation and mobile_app_access, allowing GST‑registered users to file invoices and manage e‑way bills directly from their phones.",
+      "intent": "Transactional",
+      "product_fit_rationale": "InvoHydra offers a gst_compliance‑ready invoicing engine, real_time_sales_updates, automated_recurring_invoices, automated_tax_calculations and multi_payment_support, delivering a ready‑to‑use solution for businesses seeking a live‑sales‑linked GST billing system.",
       "keywords": [
-        "how to manage e-way bills on mobile app",
-        "steps to set up mobile invoicing for gst compliance",
-        "mobile accounting app for gst compliance",
-        "mobile invoicing app for gst registered businesses"
-      ]
-    },
-    {
-      "hub_topic": "Real‑time Tracking & Updates",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Features like invoice_status_tracking, real_time_payment_tracking and real_time_business_dashboard give instant visibility of invoice status and payments on mobile devices.",
-      "keywords": [
-        "mobile invoicing real time updates benefits",
-        "real time invoice tracking mobile app"
-      ]
-    },
-    {
-      "hub_topic": "Security & Payment Speed",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Secure_data_storage, multi_payment_methods and payment_link_sharing ensure fast, safe transactions and protect client payment data within the mobile app.",
-      "keywords": [
-        "mobile billing app improves payment speed",
-        "mobile invoicing app security for client payments"
-      ]
-    },
-    {
-      "hub_topic": "Recurring Billing & Automation on Mobile",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Automated_recurring_invoices, automated_payment_reminders and recurring_invoice_profiles let users set up and manage recurring billing cycles from their phones.",
-      "keywords": [
-        "mobile invoicing notifications for payment reminders",
-        "mobile invoicing app for recurring billing on the go"
-      ]
-    },
-    {
-      "hub_topic": "Integration with Accounting & Software",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "API_access and multi_device_access enable seamless integration of the mobile invoicing app with external accounting systems and other business tools.",
-      "keywords": [
-        "mobile invoicing app integration with accounting software"
+        "gst billing platform with live sales tracking",
+        "gst invoicing software with live sales updates",
+        "recurring billing and gst compliance with real-time analytics",
+        "automate gst invoicing using sales analytics tools"
       ]
     }
   ],
