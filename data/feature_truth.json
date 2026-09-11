@@ -91,5 +91,13 @@
   "invoice_reporting": true,
   "tax_calculation_engine": true,
   "invoice_status_tracking": true,
-  "mobile_e_invoicing": true
+  "mobile_e_invoicing": true,
+  "ai_chatbot": true,
+  "ai_voice_assistant": true,
+  "ai_native_crm": true,
+  "push_notifications": true,
+  "smart_insights": true,
+  "bank_feed_reconciliation": true,
+  "irn_automation": true,
+  "ai_assistant": true
 }
