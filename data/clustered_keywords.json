@@ -1,31 +1,42 @@
 {
   "clusters": [
     {
-      "hub_topic": "Real-time GST billing and analytics insights",
+      "hub_topic": "e-invoicing benefits and business impact",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra provides real_time_sales_updates, real_time_business_dashboard, sales_analytics, automatic_tax_calculations and gst_compliance, enabling users to integrate live sales data, view dashboards, and understand cash‑flow impacts while staying GST‑compliant.",
+      "product_fit_rationale": "InvoHydra delivers true e-invoicing generation, real-time payment tracking, invoice status tracking, and automated tax calculations, directly enabling cash‑flow improvements, cost reductions, error minimisation, financial transparency and faster payment cycles highlighted in these queries.",
       "keywords": [
-        "how to integrate real-time sales data with gst compliance",
-        "benefits of real-time reporting for gst invoicing",
-        "best practices for real-time gst billing automation india",
-        "real-time sales insights for indian msme gst filing",
-        "real-time sales analytics for gst billing india",
-        "real-time dashboard for gst billing and tax compliance",
-        "improve cash flow with real-time gst invoicing analytics",
-        "gstin validation with real-time sales data integration"
+        "benefits of e-invoicing for businesses",
+        "e-invoicing improves cash flow management",
+        "how e-invoicing reduces processing costs",
+        "e-invoicing automation reduces manual errors",
+        "impact of e-invoicing on financial transparency",
+        "e-invoicing accelerates payment cycles",
+        "e-invoicing benefits for small businesses",
+        "e-invoicing and invoice status visibility"
       ]
     },
     {
-      "hub_topic": "GST invoicing platforms with live sales integration",
+      "hub_topic": "e-invoicing compliance and reporting automation",
       "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra offers a gst_compliance‑ready invoicing engine, real_time_sales_updates, automated_recurring_invoices, automated_tax_calculations and multi_payment_support, delivering a ready‑to‑use solution for businesses seeking a live‑sales‑linked GST billing system.",
+      "intent": "Informational",
+      "product_fit_rationale": "Our platform includes automated invoice reporting, invoice validation, real‑time tax data capture, one‑click GSTR reports, GST compliance, and IRN automation, satisfying the compliance, tax‑reporting and validation needs expressed in these searches.",
       "keywords": [
-        "gst billing platform with live sales tracking",
-        "gst invoicing software with live sales updates",
-        "recurring billing and gst compliance with real-time analytics",
-        "automate gst invoicing using sales analytics tools"
+        "automated invoice reporting for tax compliance",
+        "e-invoicing compliance requirements india",
+        "automated invoice validation and reporting",
+        "e-invoicing real time tax data capture"
+      ]
+    },
+    {
+      "hub_topic": "e-invoicing implementation, selection and market trends",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "InvoHydra offers customizable invoice templates, multi‑currency billing, payment‑gateway integration (Razorpay), and robust GST‑compliant e‑invoicing, making it a strong candidate for businesses evaluating solutions, seeking implementation guidance, or tracking industry trends.",
+      "keywords": [
+        "choosing the right e-invoicing solution",
+        "e-invoicing implementation tips for msmes",
+        "e-invoicing trends 2024 india"
       ]
     }
   ],

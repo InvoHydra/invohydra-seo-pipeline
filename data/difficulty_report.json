@@ -1,92 +1,43 @@
 {
   "surviving_keywords": [
-    "how to integrate real-time sales data with gst compliance",
-    "benefits of real-time reporting for gst invoicing",
-    "automate gst invoicing using sales analytics tools",
-    "gst billing platform with live sales tracking",
-    "real-time sales insights for indian msme gst filing",
-    "gstin validation with real-time sales data integration",
-    "improve cash flow with real-time gst invoicing analytics",
-    "best practices for real-time gst billing automation india",
-    "real-time sales analytics for gst billing india",
-    "gst invoicing software with live sales updates",
-    "real-time dashboard for gst billing and tax compliance",
-    "recurring billing and gst compliance with real-time analytics"
+    "benefits of e-invoicing for businesses",
+    "e-invoicing improves cash flow management",
+    "automated invoice reporting for tax compliance",
+    "how e-invoicing reduces processing costs",
+    "e-invoicing automation reduces manual errors",
+    "e-invoicing compliance requirements india",
+    "impact of e-invoicing on financial transparency",
+    "e-invoicing accelerates payment cycles",
+    "choosing the right e-invoicing solution",
+    "e-invoicing trends 2024 india",
+    "e-invoicing real time tax data capture",
+    "e-invoicing benefits for small businesses",
+    "e-invoicing and invoice status visibility",
+    "e-invoicing implementation tips for msmes",
+    "automated invoice validation and reporting"
   ],
   "passed": [
-    "how to integrate real-time sales data with gst compliance",
-    "benefits of real-time reporting for gst invoicing",
-    "automate gst invoicing using sales analytics tools",
-    "gst billing platform with live sales tracking",
-    "real-time sales insights for indian msme gst filing",
-    "gstin validation with real-time sales data integration",
-    "improve cash flow with real-time gst invoicing analytics",
-    "best practices for real-time gst billing automation india"
+    "benefits of e-invoicing for businesses",
+    "e-invoicing improves cash flow management",
+    "automated invoice reporting for tax compliance",
+    "how e-invoicing reduces processing costs",
+    "e-invoicing automation reduces manual errors",
+    "e-invoicing compliance requirements india",
+    "impact of e-invoicing on financial transparency",
+    "e-invoicing accelerates payment cycles",
+    "choosing the right e-invoicing solution",
+    "e-invoicing trends 2024 india",
+    "e-invoicing real time tax data capture",
+    "e-invoicing benefits for small businesses",
+    "e-invoicing and invoice status visibility",
+    "e-invoicing implementation tips for msmes",
+    "automated invoice validation and reporting"
   ],
-  "maybe": [
-    "real-time sales analytics for gst billing india",
-    "gst invoicing software with live sales updates",
-    "real-time dashboard for gst billing and tax compliance",
-    "recurring billing and gst compliance with real-time analytics"
-  ],
+  "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "real-time sales analytics for gst billing india",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "vasy.ai",
-        "busy.in",
-        "tallyatcloud.com",
-        "tallysolutions.com",
-        "profitbooks.net"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "gst invoicing software with live sales updates",
-      "verdict": "MAYBE",
-      "score": 5,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net",
-        "techjockey.com"
-      ],
-      "top_5_domains": [
-        "gogstbill.com",
-        "gimbooks.com",
-        "zoho.com",
-        "saleson.co.in",
-        "raseedapp.com"
-      ],
-      "reason": "Moderate competition (score=5). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net, techjockey.com. Winnable with strong content."
-    },
-    {
-      "keyword": "how to integrate real-time sales data with gst compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "proanalyser.in",
-        "taxone.vyapar.com",
-        "masterbrains.co.in",
-        "taxilla.com",
-        "zenodo.org"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "benefits of real-time reporting for gst invoicing",
+      "keyword": "benefits of e-invoicing for businesses",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -94,121 +45,127 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "fonoa.com",
-        "gsthero.com",
-        "gimbooks.com",
+        "tallysolutions.com",
+        "basware.com",
+        "ec.europa.eu",
+        "editelgroup.com",
+        "truecommerce.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "e-invoicing improves cash flow management",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "binarysemantics.com",
+        "europe.thomsonreuters.com",
+        "flick.network",
+        "tallysolutions.com",
+        "truecommerce.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automated invoice reporting for tax compliance",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "linkedin.com",
+        "epm.adaptit.tech",
+        "europe.thomsonreuters.com",
+        "tipalti.com",
+        "quaderno.io"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "how e-invoicing reduces processing costs",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "staple.ai",
+        "sap.com",
+        "europe.thomsonreuters.com",
+        "blog.basware.com",
+        "opentext.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "e-invoicing automation reduces manual errors",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "snitechnology.net",
+        "akgvg.com",
+        "blog.symtrax.com",
+        "opentext.com",
+        "researchgate.net"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "e-invoicing compliance requirements india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
         "avalara.com",
-        "tallysolutions.com"
+        "edicomgroup.com",
+        "tax2win.in",
+        "basware.com",
+        "pwc.in"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "real-time dashboard for gst billing and tax compliance",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "cleartax.in",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "cleartax.in",
-        "profitbooks.net",
-        "myndsolution.com",
-        "cygnet.one",
-        "mybillbook.in"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: cleartax.in, tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "automate gst invoicing using sales analytics tools",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "agaraminfotech.com",
-        "vasy.ai",
-        "tallysolutions.com",
-        "taxone.vyapar.com",
-        "taxilla.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gst billing platform with live sales tracking",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "techjockey.com"
-      ],
-      "top_5_domains": [
-        "gogstbill.com",
-        "busy.in",
-        "business.jhattse.com",
-        "instagram.com",
-        "khatabilling.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "real-time sales insights for indian msme gst filing",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "cleartax.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "scoreme.in",
-        "elixir-books.com",
-        "facebook.com",
-        "webledger.in",
-        "cleartax.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "recurring billing and gst compliance with real-time analytics",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "refrens.com",
-        "logicerp.com",
-        "tallysolutions.com",
-        "profitbooks.net",
-        "gimbooks.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "gstin validation with real-time sales data integration",
+      "keyword": "impact of e-invoicing on financial transparency",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "ginesys.in",
-        "perione.in",
-        "cashfree.com",
-        "sepfust.com",
-        "aopay.in"
+        "researchgate.net",
+        "ijirp.org",
+        "rtcsuite.com",
+        "linkedin.com",
+        "asia.viseo.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "improve cash flow with real-time gst invoicing analytics",
+      "keyword": "e-invoicing accelerates payment cycles",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "nrdcompanies.com",
+        "truecommerce.com",
+        "highradius.com",
+        "dddinvoices.com",
+        "monite.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "choosing the right e-invoicing solution",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -216,26 +173,105 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
+        "avalara.com",
+        "blog.symtrax.com",
         "tallysolutions.com",
-        "cashflo.io",
-        "fractal.ai",
-        "gimbooks.com",
-        "invohydra.com"
+        "tax.thomsonreuters.com",
+        "truecommerce.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "best practices for real-time gst billing automation india",
+      "keyword": "e-invoicing trends 2024 india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "raseedapp.com",
+        "storecove.com",
+        "pwc.in",
+        "opentext.com",
+        "zycus.com",
+        "vertexinc.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "e-invoicing real time tax data capture",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "europe.thomsonreuters.com",
+        "rtcsuite.com",
+        "fonoa.com",
+        "kotak.bank.in",
+        "oecd.org"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "e-invoicing benefits for small businesses",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "basware.com",
+        "smallbusinesscommissioner.gov.uk",
+        "truecommerce.com",
+        "ec.europa.eu",
+        "gsthero.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "e-invoicing and invoice status visibility",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "europe.thomsonreuters.com",
+        "einvoice1.gst.gov.in",
+        "medius.com",
+        "opentext.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "e-invoicing implementation tips for msmes",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
         "vasy.ai",
-        "optechsoft.com",
-        "khatabilling.com",
-        "taxone.vyapar.com"
+        "cygnet.one",
+        "ec.europa.eu",
+        "rsisinternational.org",
+        "blog.symtrax.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automated invoice validation and reporting",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ibm.com",
+        "tipalti.com",
+        "neil.e42.ai",
+        "precoro.com",
+        "rossum.ai"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
