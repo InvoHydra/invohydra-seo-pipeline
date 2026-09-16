@@ -1,279 +1,354 @@
 {
   "surviving_keywords": [
-    "benefits of e-invoicing for businesses",
-    "e-invoicing improves cash flow management",
-    "automated invoice reporting for tax compliance",
-    "how e-invoicing reduces processing costs",
-    "e-invoicing automation reduces manual errors",
-    "e-invoicing compliance requirements india",
-    "impact of e-invoicing on financial transparency",
-    "e-invoicing accelerates payment cycles",
-    "choosing the right e-invoicing solution",
-    "e-invoicing trends 2024 india",
-    "e-invoicing real time tax data capture",
-    "e-invoicing benefits for small businesses",
-    "e-invoicing and invoice status visibility",
-    "e-invoicing implementation tips for msmes",
-    "automated invoice validation and reporting"
+    "ai chatbot invoice automation india",
+    "voice ai agents for invoice processing",
+    "automated invoice handling with ai chatbot",
+    "ai powered customer support for indian businesses",
+    "multilingual ai voice assistants for billing",
+    "how to implement ai chatbot for invoicing",
+    "benefits of ai chatbots in invoice management",
+    "ai voice bot for payment assistance india",
+    "ai chatbot for gst invoice compliance",
+    "step by step ai voice agent setup india",
+    "ai chatbot use cases in indian billing",
+    "best practices for ai invoice automation india",
+    "ai driven invoice tracking chatbot",
+    "voice ai for order tracking and invoicing",
+    "ai chatbot for recurring billing india",
+    "how to choose ai voice assistant for invoice handling",
+    "ai chatbot integration with gst compliance india",
+    "ai voice assistant for customer support india",
+    "automated invoice reminders using ai chatbot",
+    "ai chatbot for small business invoicing india"
   ],
   "passed": [
-    "benefits of e-invoicing for businesses",
-    "e-invoicing improves cash flow management",
-    "automated invoice reporting for tax compliance",
-    "how e-invoicing reduces processing costs",
-    "e-invoicing automation reduces manual errors",
-    "e-invoicing compliance requirements india",
-    "impact of e-invoicing on financial transparency",
-    "e-invoicing accelerates payment cycles",
-    "choosing the right e-invoicing solution",
-    "e-invoicing trends 2024 india",
-    "e-invoicing real time tax data capture",
-    "e-invoicing benefits for small businesses",
-    "e-invoicing and invoice status visibility",
-    "e-invoicing implementation tips for msmes",
-    "automated invoice validation and reporting"
+    "ai chatbot invoice automation india",
+    "voice ai agents for invoice processing",
+    "automated invoice handling with ai chatbot",
+    "ai powered customer support for indian businesses",
+    "multilingual ai voice assistants for billing",
+    "how to implement ai chatbot for invoicing",
+    "benefits of ai chatbots in invoice management",
+    "ai voice bot for payment assistance india",
+    "ai chatbot for gst invoice compliance",
+    "step by step ai voice agent setup india",
+    "ai chatbot use cases in indian billing",
+    "best practices for ai invoice automation india",
+    "ai driven invoice tracking chatbot",
+    "voice ai for order tracking and invoicing",
+    "ai chatbot for recurring billing india",
+    "how to choose ai voice assistant for invoice handling",
+    "ai chatbot integration with gst compliance india",
+    "ai voice assistant for customer support india",
+    "automated invoice reminders using ai chatbot",
+    "ai chatbot for small business invoicing india"
   ],
   "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "benefits of e-invoicing for businesses",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "basware.com",
-        "ec.europa.eu",
-        "editelgroup.com",
-        "truecommerce.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "e-invoicing improves cash flow management",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "binarysemantics.com",
-        "europe.thomsonreuters.com",
-        "flick.network",
-        "tallysolutions.com",
-        "truecommerce.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "automated invoice reporting for tax compliance",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "linkedin.com",
-        "epm.adaptit.tech",
-        "europe.thomsonreuters.com",
-        "tipalti.com",
-        "quaderno.io"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how e-invoicing reduces processing costs",
+      "keyword": "ai chatbot invoice automation india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "staple.ai",
-        "sap.com",
-        "europe.thomsonreuters.com",
-        "blog.basware.com",
-        "opentext.com"
+        "oracle.com",
+        "clear.in",
+        "finifi.io",
+        "flickai.in",
+        "tipalti.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "e-invoicing automation reduces manual errors",
+      "keyword": "voice ai agents for invoice processing",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "snitechnology.net",
-        "akgvg.com",
-        "blog.symtrax.com",
-        "opentext.com",
-        "researchgate.net"
+        "domo.com",
+        "stealthagents.com",
+        "tungstenautomation.com",
+        "klippa.com",
+        "lyzr.ai"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "e-invoicing compliance requirements india",
+      "keyword": "automated invoice handling with ai chatbot",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "learn.microsoft.com",
+        "vic.ai",
+        "rossum.ai",
+        "action.deloitte.com",
+        "rillion.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai powered customer support for indian businesses",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "rootle.ai",
+        "zendesk.com",
+        "instagram.com",
+        "snohai.com",
+        "supportgpt.app"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "multilingual ai voice assistants for billing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "bland.ai",
+        "girikon.ai",
+        "retellai.com",
+        "bolna.ai",
+        "awaaz.ai"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to implement ai chatbot for invoicing",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "tallysolutions.com"
+        "hubspot.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "avalara.com",
-        "edicomgroup.com",
-        "tax2win.in",
-        "basware.com",
-        "pwc.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "impact of e-invoicing on financial transparency",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "researchgate.net",
-        "ijirp.org",
-        "rtcsuite.com",
-        "linkedin.com",
-        "asia.viseo.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e-invoicing accelerates payment cycles",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "nrdcompanies.com",
-        "truecommerce.com",
+        "learn.microsoft.com",
+        "youtube.com",
+        "fatooraonline.com",
         "highradius.com",
-        "dddinvoices.com",
-        "monite.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "choosing the right e-invoicing solution",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "avalara.com",
-        "blog.symtrax.com",
-        "tallysolutions.com",
-        "tax.thomsonreuters.com",
-        "truecommerce.com"
+        "retalk.bot"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "e-invoicing trends 2024 india",
+      "keyword": "benefits of ai chatbots in invoice management",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "storecove.com",
-        "pwc.in",
-        "opentext.com",
-        "zycus.com",
-        "vertexinc.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e-invoicing real time tax data capture",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "europe.thomsonreuters.com",
-        "rtcsuite.com",
-        "fonoa.com",
-        "kotak.bank.in",
-        "oecd.org"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e-invoicing benefits for small businesses",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "basware.com",
-        "smallbusinesscommissioner.gov.uk",
-        "truecommerce.com",
-        "ec.europa.eu",
-        "gsthero.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "e-invoicing and invoice status visibility",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "europe.thomsonreuters.com",
-        "einvoice1.gst.gov.in",
-        "medius.com",
-        "opentext.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "e-invoicing implementation tips for msmes",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "vasy.ai",
-        "cygnet.one",
-        "ec.europa.eu",
-        "rsisinternational.org",
-        "blog.symtrax.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "automated invoice validation and reporting",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
+        "medium.com",
+        "rossum.ai",
         "ibm.com",
-        "tipalti.com",
-        "neil.e42.ai",
-        "precoro.com",
-        "rossum.ai"
+        "cherrywork.com",
+        "zendesk.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai voice bot for payment assistance india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "mcube.com",
+        "awaaz.ai",
+        "squadstack.ai",
+        "cloudconnect.in",
+        "floatbot.ai"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai chatbot for gst invoice compliance",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "taxbotgpt.ai",
+        "taxilla.com",
+        "taxone.vyapar.com",
+        "facebook.com",
+        "ai.icai.org"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "step by step ai voice agent setup india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "youtube.com",
+        "help.gohighlevel.com",
+        "appinventiv.com",
+        "youtube.com",
+        "pulse.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai chatbot use cases in indian billing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "decipherconsultancy.in",
+        "redpulsesoftware.in",
+        "deloitte.com",
+        "salesforce.com",
+        "zendesk.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "best practices for ai invoice automation india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "rossum.ai",
+        "clear.in",
+        "cygnet.one",
+        "docsumo.com",
+        "pazy.io"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai driven invoice tracking chatbot",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zapier.com",
+        "n8n.io",
+        "yoroflow.com",
+        "blueprism.com",
+        "medium.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "voice ai for order tracking and invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "usefini.com",
+        "parloa.com",
+        "ieeexplore.ieee.org",
+        "peakflo.co",
+        "youtube.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai chatbot for recurring billing india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "play.google.com",
+        "facebook.com",
+        "chatbot.com",
+        "payu.in",
+        "decipherconsultancy.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to choose ai voice assistant for invoice handling",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "servicenow.com",
+        "bland.ai",
+        "awaz.ai",
+        "rasa.com",
+        "youtube.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai chatbot integration with gst compliance india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "government.economictimes.indiatimes.com",
+        "taxbotgpt.ai",
+        "scribd.com",
+        "researchgate.net",
+        "taxilla.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai voice assistant for customer support india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "bolna.ai",
+        "voiceflow.com",
+        "assembled.com",
+        "squadstack.ai",
+        "zendesk.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automated invoice reminders using ai chatbot",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zapier.com",
+        "n8n.io",
+        "justpaid.ai",
+        "aioktopus.com",
+        "youtube.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai chatbot for small business invoicing india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "hubspot.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "redpulsesoftware.in",
+        "instagram.com",
+        "vegavid.com",
+        "aircoding.in",
+        "theaiquest.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     }
   ]
 }

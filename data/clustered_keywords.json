@@ -1,42 +1,46 @@
 {
   "clusters": [
     {
-      "hub_topic": "e-invoicing benefits and business impact",
+      "hub_topic": "AI Chatbot for Invoice Automation",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra delivers true e-invoicing generation, real-time payment tracking, invoice status tracking, and automated tax calculations, directly enabling cash‑flow improvements, cost reductions, error minimisation, financial transparency and faster payment cycles highlighted in these queries.",
+      "product_fit_rationale": "InvoHydra offers ai_chatbot and ai_assistant capabilities, automated_recurring_invoices, automated_payment_reminders, and smart_invoice_management, enabling AI-driven invoice creation, tracking, and reminder automation for Indian businesses.",
       "keywords": [
-        "benefits of e-invoicing for businesses",
-        "e-invoicing improves cash flow management",
-        "how e-invoicing reduces processing costs",
-        "e-invoicing automation reduces manual errors",
-        "impact of e-invoicing on financial transparency",
-        "e-invoicing accelerates payment cycles",
-        "e-invoicing benefits for small businesses",
-        "e-invoicing and invoice status visibility"
+        "ai chatbot invoice automation india",
+        "automated invoice handling with ai chatbot",
+        "how to implement ai chatbot for invoicing",
+        "benefits of ai chatbots in invoice management",
+        "ai chatbot use cases in indian billing",
+        "best practices for ai invoice automation india",
+        "ai driven invoice tracking chatbot",
+        "ai chatbot for recurring billing india",
+        "automated invoice reminders using ai chatbot",
+        "ai chatbot for small business invoicing india"
       ]
     },
     {
-      "hub_topic": "e-invoicing compliance and reporting automation",
-      "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "Our platform includes automated invoice reporting, invoice validation, real‑time tax data capture, one‑click GSTR reports, GST compliance, and IRN automation, satisfying the compliance, tax‑reporting and validation needs expressed in these searches.",
-      "keywords": [
-        "automated invoice reporting for tax compliance",
-        "e-invoicing compliance requirements india",
-        "automated invoice validation and reporting",
-        "e-invoicing real time tax data capture"
-      ]
-    },
-    {
-      "hub_topic": "e-invoicing implementation, selection and market trends",
+      "hub_topic": "AI Voice Assistant for Billing & Payment Support",
       "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra offers customizable invoice templates, multi‑currency billing, payment‑gateway integration (Razorpay), and robust GST‑compliant e‑invoicing, making it a strong candidate for businesses evaluating solutions, seeking implementation guidance, or tracking industry trends.",
+      "product_fit_rationale": "InvoHydra supports ai_voice_assistant and ai_native_crm, along with multi_payment_methods, real_time_payment_tracking, and customer_management, allowing voice-driven invoice processing, payment assistance, and order tracking in multiple Indian languages.",
       "keywords": [
-        "choosing the right e-invoicing solution",
-        "e-invoicing implementation tips for msmes",
-        "e-invoicing trends 2024 india"
+        "voice ai agents for invoice processing",
+        "multilingual ai voice assistants for billing",
+        "ai voice bot for payment assistance india",
+        "step by step ai voice agent setup india",
+        "voice ai for order tracking and invoicing",
+        "how to choose ai voice assistant for invoice handling",
+        "ai voice assistant for customer support india"
+      ]
+    },
+    {
+      "hub_topic": "AI-Enhanced GST Compliance",
+      "demand": "High",
+      "intent": "Transactional",
+      "product_fit_rationale": "InvoHydra provides gst_compliance, gst_invoice_generation, automatic_tax_calculations, and ai_chatbot integration, enabling AI to validate GST numbers, auto‑fetch GSTIN, and ensure correct tax calculations on invoices.",
+      "keywords": [
+        "ai chatbot for gst invoice compliance",
+        "ai chatbot integration with gst compliance india"
       ]
     }
   ],
