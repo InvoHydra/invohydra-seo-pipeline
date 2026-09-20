@@ -1,354 +1,371 @@
 {
   "surviving_keywords": [
-    "ai chatbot invoice automation india",
-    "voice ai agents for invoice processing",
-    "automated invoice handling with ai chatbot",
-    "ai powered customer support for indian businesses",
-    "multilingual ai voice assistants for billing",
-    "how to implement ai chatbot for invoicing",
-    "benefits of ai chatbots in invoice management",
-    "ai voice bot for payment assistance india",
-    "ai chatbot for gst invoice compliance",
-    "step by step ai voice agent setup india",
-    "ai chatbot use cases in indian billing",
-    "best practices for ai invoice automation india",
-    "ai driven invoice tracking chatbot",
-    "voice ai for order tracking and invoicing",
-    "ai chatbot for recurring billing india",
-    "how to choose ai voice assistant for invoice handling",
-    "ai chatbot integration with gst compliance india",
-    "ai voice assistant for customer support india",
-    "automated invoice reminders using ai chatbot",
-    "ai chatbot for small business invoicing india"
+    "gst e-invoicing workflow automation",
+    "irn generation api integration guide",
+    "how to automate gst reconciliation",
+    "gst e-invoice irn and qr code process",
+    "best practices for gst e-invoicing automation",
+    "reduce gst filing errors with automation",
+    "gst e-invoice validation and irn management",
+    "automated gst payment reconciliation software india",
+    "gst e-invoicing compliance checklist 2026",
+    "how to set up irn generation for gst invoices",
+    "gst e-invoicing bulk generation options",
+    "gst e-invoice reconciliation tool browser based",
+    "gst e-invoicing and bank statement automation",
+    "gst e-invoicing workflow challenges and solutions",
+    "gst e-invoice irn generation options api gsp bulk",
+    "gst e-invoicing qr code verification process",
+    "gst e-invoicing real-time tracking and tax payments",
+    "automate gst e-invoice creation and irn sync",
+    "bank feed reconciliation for gst compliance",
+    "gst e-invoicing irp sync steps"
   ],
   "passed": [
-    "ai chatbot invoice automation india",
-    "voice ai agents for invoice processing",
-    "automated invoice handling with ai chatbot",
-    "ai powered customer support for indian businesses",
-    "multilingual ai voice assistants for billing",
-    "how to implement ai chatbot for invoicing",
-    "benefits of ai chatbots in invoice management",
-    "ai voice bot for payment assistance india",
-    "ai chatbot for gst invoice compliance",
-    "step by step ai voice agent setup india",
-    "ai chatbot use cases in indian billing",
-    "best practices for ai invoice automation india",
-    "ai driven invoice tracking chatbot",
-    "voice ai for order tracking and invoicing",
-    "ai chatbot for recurring billing india",
-    "how to choose ai voice assistant for invoice handling",
-    "ai chatbot integration with gst compliance india",
-    "ai voice assistant for customer support india",
-    "automated invoice reminders using ai chatbot",
-    "ai chatbot for small business invoicing india"
+    "gst e-invoicing workflow automation",
+    "irn generation api integration guide",
+    "how to automate gst reconciliation",
+    "gst e-invoice irn and qr code process",
+    "best practices for gst e-invoicing automation",
+    "reduce gst filing errors with automation",
+    "gst e-invoice validation and irn management",
+    "automated gst payment reconciliation software india",
+    "gst e-invoicing compliance checklist 2026",
+    "how to set up irn generation for gst invoices",
+    "gst e-invoicing bulk generation options",
+    "gst e-invoice reconciliation tool browser based",
+    "gst e-invoicing and bank statement automation",
+    "gst e-invoicing workflow challenges and solutions",
+    "gst e-invoice irn generation options api gsp bulk",
+    "gst e-invoicing qr code verification process",
+    "gst e-invoicing real-time tracking and tax payments",
+    "automate gst e-invoice creation and irn sync"
   ],
-  "maybe": [],
+  "maybe": [
+    "bank feed reconciliation for gst compliance",
+    "gst e-invoicing irp sync steps"
+  ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "ai chatbot invoice automation india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "oracle.com",
-        "clear.in",
-        "finifi.io",
-        "flickai.in",
-        "tipalti.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "voice ai agents for invoice processing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "domo.com",
-        "stealthagents.com",
-        "tungstenautomation.com",
-        "klippa.com",
-        "lyzr.ai"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "automated invoice handling with ai chatbot",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "learn.microsoft.com",
-        "vic.ai",
-        "rossum.ai",
-        "action.deloitte.com",
-        "rillion.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai powered customer support for indian businesses",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "rootle.ai",
-        "zendesk.com",
-        "instagram.com",
-        "snohai.com",
-        "supportgpt.app"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "multilingual ai voice assistants for billing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "bland.ai",
-        "girikon.ai",
-        "retellai.com",
-        "bolna.ai",
-        "awaaz.ai"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to implement ai chatbot for invoicing",
+      "keyword": "gst e-invoicing workflow automation",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "hubspot.com"
+        "tallysolutions.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "learn.microsoft.com",
-        "youtube.com",
-        "fatooraonline.com",
-        "highradius.com",
-        "retalk.bot"
+        "symtrax.com",
+        "tallysolutions.com",
+        "gsthero.com",
+        "einvoice1.gst.gov.in",
+        "taxone.vyapar.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "benefits of ai chatbots in invoice management",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "medium.com",
-        "rossum.ai",
-        "ibm.com",
-        "cherrywork.com",
-        "zendesk.com"
+      "keyword": "bank feed reconciliation for gst compliance",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "kotak.bank.in",
+        "tallysolutions.com",
+        "eztax.in",
+        "linkedin.com",
+        "computaxonline.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
     },
     {
-      "keyword": "ai voice bot for payment assistance india",
+      "keyword": "irn generation api integration guide",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "mcube.com",
-        "awaaz.ai",
-        "squadstack.ai",
-        "cloudconnect.in",
-        "floatbot.ai"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai chatbot for gst invoice compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "taxbotgpt.ai",
-        "taxilla.com",
-        "taxone.vyapar.com",
-        "facebook.com",
-        "ai.icai.org"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "step by step ai voice agent setup india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "youtube.com",
-        "help.gohighlevel.com",
-        "appinventiv.com",
-        "youtube.com",
-        "pulse.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai chatbot use cases in indian billing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "decipherconsultancy.in",
-        "redpulsesoftware.in",
-        "deloitte.com",
-        "salesforce.com",
-        "zendesk.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "best practices for ai invoice automation india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "rossum.ai",
-        "clear.in",
-        "cygnet.one",
-        "docsumo.com",
-        "pazy.io"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai driven invoice tracking chatbot",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zapier.com",
-        "n8n.io",
-        "yoroflow.com",
-        "blueprism.com",
-        "medium.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "voice ai for order tracking and invoicing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "usefini.com",
-        "parloa.com",
-        "ieeexplore.ieee.org",
-        "peakflo.co",
-        "youtube.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai chatbot for recurring billing india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "play.google.com",
-        "facebook.com",
-        "chatbot.com",
-        "payu.in",
-        "decipherconsultancy.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to choose ai voice assistant for invoice handling",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "servicenow.com",
-        "bland.ai",
-        "awaz.ai",
-        "rasa.com",
-        "youtube.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai chatbot integration with gst compliance india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "government.economictimes.indiatimes.com",
-        "taxbotgpt.ai",
+        "einv-apisandbox.nic.in",
+        "taxpro.co.in",
+        "gsthelp.charteredinfo.com",
         "scribd.com",
-        "researchgate.net",
-        "taxilla.com"
+        "gsthero.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "ai voice assistant for customer support india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "bolna.ai",
-        "voiceflow.com",
-        "assembled.com",
-        "squadstack.ai",
-        "zendesk.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "automated invoice reminders using ai chatbot",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zapier.com",
-        "n8n.io",
-        "justpaid.ai",
-        "aioktopus.com",
-        "youtube.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai chatbot for small business invoicing india",
+      "keyword": "how to automate gst reconciliation",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "hubspot.com"
+        "caclubindia.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "redpulsesoftware.in",
-        "instagram.com",
-        "vegavid.com",
-        "aircoding.in",
-        "theaiquest.in"
+        "caclubindia.com",
+        "linkedin.com",
+        "youtube.com",
+        "taxone.vyapar.com",
+        "aiaccountant.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "gst e-invoice irn and qr code process",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "tutorial.gst.gov.in",
+        "youtube.com",
+        "gstn.org.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "best practices for gst e-invoicing automation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "avalara.com",
+        "logicerp.com",
+        "symtrax.com",
+        "einvoice1.gst.gov.in",
+        "happay.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst e-invoicing irp sync steps",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "logicerp.com",
+        "busy.in",
+        "tutorial.gst.gov.in",
+        "indiafilings.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+    },
+    {
+      "keyword": "reduce gst filing errors with automation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "webtel.in",
+        "ledgers.cloud",
+        "taxone.vyapar.com",
+        "gimbooks.com",
+        "progst.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst e-invoice validation and irn management",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "logicerp.com",
+        "gstn.org.in",
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automated gst payment reconciliation software india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "cleartax.in"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "optotax.com",
+        "expressgst.com",
+        "taxone.vyapar.com",
+        "store.pwc.in",
+        "cleartax.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "gst e-invoicing compliance checklist 2026",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "systecherp.com",
+        "corientbs.com",
+        "smfgindiacredit.com",
+        "credlix.com",
+        "coraa.ai"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to set up irn generation for gst invoices",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "youtube.com",
+        "tutorial.gst.gov.in",
+        "gstn.org.in",
+        "einv-apisandbox.nic.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst e-invoicing bulk generation options",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "youtube.com",
+        "saral.pro",
+        "mybillbook.in"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "gst e-invoice reconciliation tool browser based",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "linkedin.com",
+        "finexo.in",
+        "gstzen.in",
+        "gsthero.com",
+        "einvoice1.gst.gov.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst e-invoicing and bank statement automation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "hisabkitab.co",
+        "onebooksgst.in",
+        "einvoice1.gst.gov.in",
+        "cashflo.io",
+        "taxone.vyapar.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst e-invoicing workflow challenges and solutions",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "avalara.com",
+        "logicerp.com",
+        "linkedin.com",
+        "gsthero.com",
+        "ijrcms.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "gst e-invoice irn generation options api gsp bulk",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einv-apisandbox.nic.in",
+        "ugsp.listany.com",
+        "taxpro.co.in",
+        "developer.sandbox.co.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst e-invoicing qr code verification process",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "apps.apple.com",
+        "tutorial.gst.gov.in",
+        "play.google.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "gst e-invoicing real-time tracking and tax payments",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "fonoa.com",
+        "kotak.bank.in",
+        "symtrax.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automate gst e-invoice creation and irn sync",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "logicerp.com",
+        "whitebooks.in",
+        "einvoice1.gst.gov.in",
+        "busy.in",
+        "einv-apisandbox.nic.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
   ]
 }

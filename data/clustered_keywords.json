@@ -1,46 +1,52 @@
 {
   "clusters": [
     {
-      "hub_topic": "AI Chatbot for Invoice Automation",
-      "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "InvoHydra offers ai_chatbot and ai_assistant capabilities, automated_recurring_invoices, automated_payment_reminders, and smart_invoice_management, enabling AI-driven invoice creation, tracking, and reminder automation for Indian businesses.",
-      "keywords": [
-        "ai chatbot invoice automation india",
-        "automated invoice handling with ai chatbot",
-        "how to implement ai chatbot for invoicing",
-        "benefits of ai chatbots in invoice management",
-        "ai chatbot use cases in indian billing",
-        "best practices for ai invoice automation india",
-        "ai driven invoice tracking chatbot",
-        "ai chatbot for recurring billing india",
-        "automated invoice reminders using ai chatbot",
-        "ai chatbot for small business invoicing india"
-      ]
-    },
-    {
-      "hub_topic": "AI Voice Assistant for Billing & Payment Support",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "InvoHydra supports ai_voice_assistant and ai_native_crm, along with multi_payment_methods, real_time_payment_tracking, and customer_management, allowing voice-driven invoice processing, payment assistance, and order tracking in multiple Indian languages.",
-      "keywords": [
-        "voice ai agents for invoice processing",
-        "multilingual ai voice assistants for billing",
-        "ai voice bot for payment assistance india",
-        "step by step ai voice agent setup india",
-        "voice ai for order tracking and invoicing",
-        "how to choose ai voice assistant for invoice handling",
-        "ai voice assistant for customer support india"
-      ]
-    },
-    {
-      "hub_topic": "AI-Enhanced GST Compliance",
+      "hub_topic": "GST e-invoicing automation tools",
       "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra provides gst_compliance, gst_invoice_generation, automatic_tax_calculations, and ai_chatbot integration, enabling AI to validate GST numbers, auto‑fetch GSTIN, and ensure correct tax calculations on invoices.",
+      "product_fit_rationale": "Leverages e_invoicing_generation, automated_tax_calculations, qr_code_generation, real_time_payment_tracking and smart_invoice_management to let users create, bulk‑generate, verify QR codes and track GST e‑invoices instantly",
       "keywords": [
-        "ai chatbot for gst invoice compliance",
-        "ai chatbot integration with gst compliance india"
+        "gst e-invoicing workflow automation",
+        "gst e-invoicing bulk generation options",
+        "gst e-invoicing qr code verification process",
+        "gst e-invoicing real-time tracking and tax payments",
+        "automate gst e-invoice creation and irn sync"
+      ]
+    },
+    {
+      "hub_topic": "IRN generation API integration",
+      "demand": "High",
+      "intent": "Transactional",
+      "product_fit_rationale": "Supported by irn_automation, api_access and e_invoicing_generation, enabling developers to integrate IRN creation, configure API calls and automate bulk IRN issuance for GST invoices",
+      "keywords": [
+        "irn generation api integration guide",
+        "how to set up irn generation for gst invoices",
+        "gst e-invoice irn generation options api gsp bulk"
+      ]
+    },
+    {
+      "hub_topic": "GST reconciliation automation",
+      "demand": "Medium",
+      "intent": "Transactional",
+      "product_fit_rationale": "Combines automated_tax_calculations, bank_feed_reconciliation, gst_compliance and e_invoicing_generation to reconcile GST payments, match invoices with bank statements and streamline filing",
+      "keywords": [
+        "how to automate gst reconciliation",
+        "automated gst payment reconciliation software india",
+        "gst e-invoicing and bank statement automation",
+        "gst e-invoice reconciliation tool browser based",
+        "bank feed reconciliation for gst compliance"
+      ]
+    },
+    {
+      "hub_topic": "GST e-invoicing best practices & compliance guides",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "Draws on gst_compliance, e_invoicing_generation, smart_insights and reports_and_analytics to provide checklists, error‑reduction tips and workflow advice for compliant GST e‑invoicing",
+      "keywords": [
+        "best practices for gst e-invoicing automation",
+        "reduce gst filing errors with automation",
+        "gst e-invoicing compliance checklist 2026",
+        "gst e-invoicing workflow challenges and solutions"
       ]
     }
   ],
