@@ -1,52 +1,23 @@
 {
   "clusters": [
     {
-      "hub_topic": "GST e-invoicing automation tools",
+      "hub_topic": "Real-time financial dashboard for cash flow and business insights",
       "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Leverages e_invoicing_generation, automated_tax_calculations, qr_code_generation, real_time_payment_tracking and smart_invoice_management to let users create, bulk‑generate, verify QR codes and track GST e‑invoices instantly",
-      "keywords": [
-        "gst e-invoicing workflow automation",
-        "gst e-invoicing bulk generation options",
-        "gst e-invoicing qr code verification process",
-        "gst e-invoicing real-time tracking and tax payments",
-        "automate gst e-invoice creation and irn sync"
-      ]
-    },
-    {
-      "hub_topic": "IRN generation API integration",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Supported by irn_automation, api_access and e_invoicing_generation, enabling developers to integrate IRN creation, configure API calls and automate bulk IRN issuance for GST invoices",
-      "keywords": [
-        "irn generation api integration guide",
-        "how to set up irn generation for gst invoices",
-        "gst e-invoice irn generation options api gsp bulk"
-      ]
-    },
-    {
-      "hub_topic": "GST reconciliation automation",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "Combines automated_tax_calculations, bank_feed_reconciliation, gst_compliance and e_invoicing_generation to reconcile GST payments, match invoices with bank statements and streamline filing",
-      "keywords": [
-        "how to automate gst reconciliation",
-        "automated gst payment reconciliation software india",
-        "gst e-invoicing and bank statement automation",
-        "gst e-invoice reconciliation tool browser based",
-        "bank feed reconciliation for gst compliance"
-      ]
-    },
-    {
-      "hub_topic": "GST e-invoicing best practices & compliance guides",
-      "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "Draws on gst_compliance, e_invoicing_generation, smart_insights and reports_and_analytics to provide checklists, error‑reduction tips and workflow advice for compliant GST e‑invoicing",
+      "product_fit_rationale": "InvoHydra offers a real_time_business_dashboard, smart_insights, and reports_and_analytics that provide instant financial visibility, cash‑flow monitoring, and live data integration—all matching the needs expressed in these keywords.",
       "keywords": [
-        "best practices for gst e-invoicing automation",
-        "reduce gst filing errors with automation",
-        "gst e-invoicing compliance checklist 2026",
-        "gst e-invoicing workflow challenges and solutions"
+        "real-time cash flow dashboard for small business",
+        "how to build a cash flow dashboard",
+        "benefits of real-time financial dashboards",
+        "instant financial insights dashboard design",
+        "real-time data integration for financial dashboards",
+        "live financial dashboard for decision making",
+        "business intelligence dashboard cash flow metrics",
+        "real-time dashboard alerts for cash flow",
+        "best practices for financial dashboard visualization",
+        "how real-time dashboards improve business performance",
+        "dynamic data dashboard for instant insights",
+        "real-time financial visibility for startups"
       ]
     }
   ],
