@@ -1,212 +1,390 @@
 {
   "surviving_keywords": [
-    "real-time cash flow dashboard for small business",
-    "how to build a cash flow dashboard",
-    "benefits of real-time financial dashboards",
-    "instant financial insights dashboard design",
-    "real-time data integration for financial dashboards",
-    "live financial dashboard for decision making",
-    "business intelligence dashboard cash flow metrics",
-    "real-time dashboard alerts for cash flow",
-    "best practices for financial dashboard visualization",
-    "how real-time dashboards improve business performance",
-    "dynamic data dashboard for instant insights",
-    "real-time financial visibility for startups"
+    "invoice bulk upload guide",
+    "e-invoice bulk upload india process",
+    "how to bulk upload invoice backlog",
+    "how to bulk upload invoices excel",
+    "bulk upload documents csv format",
+    "bulk invoice generator importer workflow",
+    "invoice processing software indian enterprises",
+    "generating bulk irn e-invoice json",
+    "import hundreds of invoices bulk",
+    "batch import bulk invoices",
+    "excel tool generate irn numbers",
+    "generate bulk invoice reference numbers",
+    "best e-invoicing software indian businesses",
+    "gst e-invoice system",
+    "bulk upload e-invoices import csv",
+    "bulk gst e-invoice generation process",
+    "bulk upload e-invoice india tool",
+    "multiple gst e-invoices bulk generation",
+    "choose right invoicing software india"
   ],
   "passed": [
-    "real-time cash flow dashboard for small business",
-    "how to build a cash flow dashboard",
-    "benefits of real-time financial dashboards",
-    "instant financial insights dashboard design",
-    "real-time data integration for financial dashboards",
-    "live financial dashboard for decision making",
-    "business intelligence dashboard cash flow metrics",
-    "real-time dashboard alerts for cash flow",
-    "best practices for financial dashboard visualization",
-    "how real-time dashboards improve business performance",
-    "dynamic data dashboard for instant insights",
-    "real-time financial visibility for startups"
+    "invoice bulk upload guide",
+    "e-invoice bulk upload india process",
+    "how to bulk upload invoice backlog",
+    "how to bulk upload invoices excel",
+    "bulk upload documents csv format",
+    "bulk invoice generator importer workflow",
+    "invoice processing software indian enterprises",
+    "generating bulk irn e-invoice json",
+    "import hundreds of invoices bulk",
+    "batch import bulk invoices",
+    "excel tool generate irn numbers",
+    "generate bulk invoice reference numbers",
+    "best e-invoicing software indian businesses",
+    "gst e-invoice system",
+    "bulk upload e-invoices import csv"
   ],
-  "maybe": [],
-  "failed": [],
+  "maybe": [
+    "bulk gst e-invoice generation process",
+    "bulk upload e-invoice india tool",
+    "multiple gst e-invoices bulk generation",
+    "choose right invoicing software india"
+  ],
+  "failed": [
+    "gst bulk invoice generation tools"
+  ],
   "full_report": [
     {
-      "keyword": "real-time cash flow dashboard for small business",
+      "keyword": "invoice bulk upload guide",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "customcpa.ca",
-        "qlik.com",
-        "business.com",
-        "thoughtspot.com",
-        "mypulse.io"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to build a cash flow dashboard",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "thoughtspot.com",
-        "geckoboard.com",
-        "coupler.io",
+        "einvoice1.gst.gov.in",
+        "busy.in",
         "youtube.com",
-        "highradius.com"
+        "stampli.com",
+        "saral.pro"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "benefits of real-time financial dashboards",
+      "keyword": "e-invoice bulk upload india process",
       "verdict": "PASS",
-      "score": 0,
+      "score": 1,
       "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "hyperbots.com",
-        "fusioncharts.com",
-        "oracle.com",
-        "mypulse.io",
-        "tgg-accounting.com"
+      "tier2_hits": [
+        "indiafilings.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "saral.pro",
+        "logicerp.com",
+        "mastersindia.co"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "instant financial insights dashboard design",
+      "keyword": "how to bulk upload invoice backlog",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
+      "score": 3,
+      "tier1_hits": [
+        "quickbooks.intuit.com"
+      ],
       "tier2_hits": [],
       "top_5_domains": [
-        "eleken.co",
+        "stampli.com",
         "youtube.com",
-        "qlik.com",
-        "dribbble.com",
-        "tailadmin.com"
+        "help.zoho.com",
+        "ledgers.cloud",
+        "smallbusiness.autobooks.co"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "real-time data integration for financial dashboards",
+      "keyword": "bulk gst e-invoice generation process",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "youtube.com",
+        "logicerp.com",
+        "tallysolutions.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+    },
+    {
+      "keyword": "how to bulk upload invoices excel",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "qlik.com",
-        "thoughtspot.com",
-        "perceptive-analytics.com",
-        "hyperbots.com",
-        "researchgate.net"
+        "youtube.com",
+        "community.concur.com",
+        "invoicingbuilder.com",
+        "help.sap.com",
+        "community.myob.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "live financial dashboard for decision making",
+      "keyword": "gst bulk invoice generation tools",
+      "verdict": "FAIL",
+      "score": 10,
+      "tier1_hits": [
+        "taxguru.in",
+        "zoho.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "taxguru.in",
+        "youtube.com",
+        "einvoice2.gst.gov.in",
+        "zoho.com"
+      ],
+      "reason": "Too competitive (score=10). Tier 1 giants: taxguru.in, zoho.com, tallysolutions.com | Tier 2 strong: indiafilings.com. Unlikely to rank page 1."
+    },
+    {
+      "keyword": "bulk upload documents csv format",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "thoughtspot.com",
-        "qlik.com",
-        "lucid.now",
-        "chatfin.ai",
-        "klipfolio.com"
+        "learn.microsoft.com",
+        "youtube.com",
+        "condens.io",
+        "docuseal.com",
+        "csvbox.io"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "business intelligence dashboard cash flow metrics",
+      "keyword": "bulk invoice generator importer workflow",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "madrasaccountancy.com",
-        "thoughtspot.com",
-        "cobit-solutions.com",
-        "netsuite.com",
-        "wynenterprise.com"
+        "marketplace.stripe.com",
+        "invoicingbuilder.com",
+        "youtube.com",
+        "trydoku.com",
+        "einvoicegenerator.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real-time dashboard alerts for cash flow",
+      "keyword": "invoice processing software indian enterprises",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "thoughtspot.com",
-        "highradius.com",
-        "krisolinfosoft.com",
-        "quoreka.com",
-        "linkedin.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "best practices for financial dashboard visualization",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "qlik.com",
-        "corporatefinanceinstitute.com",
-        "rib-software.com",
-        "eleken.co",
-        "cubesoftware.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how real-time dashboards improve business performance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "researchgate.net",
-        "go.christiansteven.com",
-        "thoughtspot.com",
-        "tinybird.co",
-        "sage.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "dynamic data dashboard for instant insights",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "quickbase.com",
-        "mapline.com",
-        "bootstrapdash.com",
+        "finifi.io",
+        "vyaparapp.in",
         "linkedin.com",
-        "thoughtspot.com"
+        "suntecindia.com",
+        "mysa.io"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real-time financial visibility for startups",
+      "keyword": "generating bulk irn e-invoice json",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "tutorial.gst.gov.in",
+        "youtube.com",
+        "mybillbook.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "import hundreds of invoices bulk",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "quickbooks.intuit.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "marketplace.stripe.com",
+        "quickbooks.intuit.com",
+        "community.myob.com",
+        "youtube.com",
+        "community.hubspot.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "bulk upload e-invoice india tool",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "taxguru.in"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "youtube.com",
+        "busy.in",
+        "taxguru.in"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+    },
+    {
+      "keyword": "batch import bulk invoices",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "quickbooks.intuit.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "community.dynamics.com",
+        "stampli.com",
+        "support.ariba.com",
+        "help.zoho.com",
+        "youtube.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "multiple gst e-invoices bulk generation",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "einvoice1.gst.gov.in",
+        "youtube.com",
+        "busy.in",
+        "saral.pro"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+    },
+    {
+      "keyword": "excel tool generate irn numbers",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "taxguru.in"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "gstzen.in",
+        "youtube.com",
+        "tallyconnects.com",
+        "taxguru.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "generate bulk invoice reference numbers",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "mybillbook.in",
+        "refrens.com",
+        "virtualstaffer.ph",
+        "indiafilings.com",
+        "logicerp.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "best e-invoicing software indian businesses",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "busy.in",
+        "tallysolutions.com",
+        "mastergst.com",
+        "linkedin.com",
+        "vasy.ai"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "choose right invoicing software india",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "salesforce.com",
+        "zoho.com",
+        "logicerp.com",
+        "tallysolutions.com",
+        "profitbooks.net"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: zoho.com, tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "gst e-invoice system",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "kotak.bank.in",
+        "gstn.org.in",
+        "einv-apisandbox.nic.in",
+        "digitalindia.gov.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "bulk upload e-invoices import csv",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "finmo.net",
-        "linkedin.com",
-        "lucid.now",
-        "dealhub.io",
-        "svb.com"
+        "einvoice1.gst.gov.in",
+        "youtube.com",
+        "marketplace.stripe.com",
+        "care.margcompusoft.com",
+        "mastersindia.co"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }

@@ -1,23 +1,47 @@
 {
   "clusters": [
     {
-      "hub_topic": "Real-time financial dashboard for cash flow and business insights",
+      "hub_topic": "Bulk Invoice Upload & Import",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra offers a real_time_business_dashboard, smart_insights, and reports_and_analytics that provide instant financial visibility, cash‑flow monitoring, and live data integration—all matching the needs expressed in these keywords.",
+      "product_fit_rationale": "InvoHydra supports bulk_csv_upload, advanced_filters and multi_device_access, enabling users to import large batches of invoices via CSV or Excel, matching the bulk upload queries.",
       "keywords": [
-        "real-time cash flow dashboard for small business",
-        "how to build a cash flow dashboard",
-        "benefits of real-time financial dashboards",
-        "instant financial insights dashboard design",
-        "real-time data integration for financial dashboards",
-        "live financial dashboard for decision making",
-        "business intelligence dashboard cash flow metrics",
-        "real-time dashboard alerts for cash flow",
-        "best practices for financial dashboard visualization",
-        "how real-time dashboards improve business performance",
-        "dynamic data dashboard for instant insights",
-        "real-time financial visibility for startups"
+        "invoice bulk upload guide",
+        "how to bulk upload invoice backlog",
+        "how to bulk upload invoices excel",
+        "bulk upload documents csv format",
+        "bulk invoice generator importer workflow",
+        "import hundreds of invoices bulk",
+        "batch import bulk invoices",
+        "generate bulk invoice reference numbers"
+      ]
+    },
+    {
+      "hub_topic": "E‑Invoicing Bulk Generation (IRN)",
+      "demand": "High",
+      "intent": "Transactional",
+      "product_fit_rationale": "Features like e_invoicing_generation, irn_automation, gst_invoice_generation, automatic_tax_calculations and gst_compliance let customers generate, validate and file GST‑compliant e‑invoices in bulk, directly addressing these search terms.",
+      "keywords": [
+        "e-invoice bulk upload india process",
+        "generating bulk irn e-invoice json",
+        "excel tool generate irn numbers",
+        "bulk upload e-invoices import csv",
+        "bulk gst e-invoice generation process",
+        "bulk upload e-invoice india tool",
+        "multiple gst e-invoices bulk generation",
+        "gst e-invoice system",
+        "best e-invoicing software indian businesses"
+      ]
+    },
+    {
+      "hub_topic": "Invoicing Software Selection for Indian Enterprises",
+      "demand": "Medium",
+      "intent": "Transactional",
+      "product_fit_rationale": "InvoHydra offers a full suite of Indian‑specific capabilities—auto_gst_calculation, gstin_auto_fetch, gst_compliance, multi_currency_billing, payment_link_sharing, and mobile_app_access—making it a strong candidate for businesses evaluating invoicing solutions.",
+      "keywords": [
+        "invoice processing software indian enterprises",
+        "choose right invoicing software india",
+        "best e-invoicing software indian businesses"
       ]
     }
   ],
