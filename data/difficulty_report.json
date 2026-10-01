@@ -1,390 +1,352 @@
 {
   "surviving_keywords": [
-    "invoice bulk upload guide",
-    "e-invoice bulk upload india process",
-    "how to bulk upload invoice backlog",
-    "how to bulk upload invoices excel",
-    "bulk upload documents csv format",
-    "bulk invoice generator importer workflow",
-    "invoice processing software indian enterprises",
-    "generating bulk irn e-invoice json",
-    "import hundreds of invoices bulk",
-    "batch import bulk invoices",
-    "excel tool generate irn numbers",
-    "generate bulk invoice reference numbers",
-    "best e-invoicing software indian businesses",
-    "gst e-invoice system",
-    "bulk upload e-invoices import csv",
-    "bulk gst e-invoice generation process",
-    "bulk upload e-invoice india tool",
-    "multiple gst e-invoices bulk generation",
-    "choose right invoicing software india"
+    "what is an invoicing api",
+    "e invoice api integration india",
+    "irn generation api gst automation",
+    "unified invoicing api multi country compliance",
+    "top invoice api automate invoicing business",
+    "e invoicing rest api integration guide",
+    "invoice api benefits and how it works",
+    "integrate irn generation api for gst e invoicing",
+    "gst e invoicing api access requirements",
+    "how to set up e invoice api india",
+    "choosing right e invoicing api for business",
+    "api integration modes for e invoicing",
+    "automate invoicing inventory sales workflows api",
+    "discover api integration revolutionizing invoice processing india",
+    "configure api calls issue irns real time",
+    "gst einvoicing api generate electronic invoices india",
+    "sandbox testing for e invoice api integration",
+    "gstin lookup api for invoice compliance",
+    "best practices for e invoice api documentation",
+    "secure invoice api integration with ERP systems"
   ],
   "passed": [
-    "invoice bulk upload guide",
-    "e-invoice bulk upload india process",
-    "how to bulk upload invoice backlog",
-    "how to bulk upload invoices excel",
-    "bulk upload documents csv format",
-    "bulk invoice generator importer workflow",
-    "invoice processing software indian enterprises",
-    "generating bulk irn e-invoice json",
-    "import hundreds of invoices bulk",
-    "batch import bulk invoices",
-    "excel tool generate irn numbers",
-    "generate bulk invoice reference numbers",
-    "best e-invoicing software indian businesses",
-    "gst e-invoice system",
-    "bulk upload e-invoices import csv"
+    "what is an invoicing api",
+    "e invoice api integration india",
+    "irn generation api gst automation",
+    "unified invoicing api multi country compliance",
+    "top invoice api automate invoicing business",
+    "e invoicing rest api integration guide",
+    "invoice api benefits and how it works",
+    "integrate irn generation api for gst e invoicing",
+    "gst e invoicing api access requirements",
+    "how to set up e invoice api india",
+    "choosing right e invoicing api for business",
+    "api integration modes for e invoicing",
+    "automate invoicing inventory sales workflows api",
+    "discover api integration revolutionizing invoice processing india",
+    "configure api calls issue irns real time",
+    "gst einvoicing api generate electronic invoices india",
+    "sandbox testing for e invoice api integration",
+    "gstin lookup api for invoice compliance",
+    "best practices for e invoice api documentation",
+    "secure invoice api integration with ERP systems"
   ],
-  "maybe": [
-    "bulk gst e-invoice generation process",
-    "bulk upload e-invoice india tool",
-    "multiple gst e-invoices bulk generation",
-    "choose right invoicing software india"
-  ],
-  "failed": [
-    "gst bulk invoice generation tools"
-  ],
+  "maybe": [],
+  "failed": [],
   "full_report": [
     {
-      "keyword": "invoice bulk upload guide",
+      "keyword": "what is an invoicing api",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "busy.in",
-        "youtube.com",
-        "stampli.com",
-        "saral.pro"
+        "merge.dev",
+        "bill.com",
+        "invoicingapi.com",
+        "einv-apisandbox.nic.in",
+        "klippa.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "e-invoice bulk upload india process",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "einvoice1.gst.gov.in",
-        "saral.pro",
-        "logicerp.com",
-        "mastersindia.co"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "how to bulk upload invoice backlog",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "quickbooks.intuit.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "stampli.com",
-        "youtube.com",
-        "help.zoho.com",
-        "ledgers.cloud",
-        "smallbusiness.autobooks.co"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "bulk gst e-invoice generation process",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "einvoice1.gst.gov.in",
-        "youtube.com",
-        "logicerp.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: indiafilings.com. Winnable with strong content."
-    },
-    {
-      "keyword": "how to bulk upload invoices excel",
+      "keyword": "e invoice api integration india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "youtube.com",
-        "community.concur.com",
-        "invoicingbuilder.com",
-        "help.sap.com",
-        "community.myob.com"
+        "einv-apisandbox.nic.in",
+        "perione.in",
+        "mastergst.com",
+        "gstzen.in",
+        "einvoice6.gst.gov.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "gst bulk invoice generation tools",
-      "verdict": "FAIL",
-      "score": 10,
-      "tier1_hits": [
-        "taxguru.in",
-        "zoho.com",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
+      "keyword": "irn generation api gst automation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
       "top_5_domains": [
+        "einv-apisandbox.nic.in",
+        "gstzen.in",
         "einvoice1.gst.gov.in",
-        "taxguru.in",
-        "youtube.com",
-        "einvoice2.gst.gov.in",
-        "zoho.com"
-      ],
-      "reason": "Too competitive (score=10). Tier 1 giants: taxguru.in, zoho.com, tallysolutions.com | Tier 2 strong: indiafilings.com. Unlikely to rank page 1."
-    },
-    {
-      "keyword": "bulk upload documents csv format",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "learn.microsoft.com",
-        "youtube.com",
-        "condens.io",
-        "docuseal.com",
-        "csvbox.io"
+        "mastergst.com",
+        "perione.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "bulk invoice generator importer workflow",
+      "keyword": "unified invoicing api multi country compliance",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "marketplace.stripe.com",
-        "invoicingbuilder.com",
-        "youtube.com",
-        "trydoku.com",
-        "einvoicegenerator.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "invoice processing software indian enterprises",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "finifi.io",
-        "vyaparapp.in",
+        "dddinvoices.com",
         "linkedin.com",
-        "suntecindia.com",
-        "mysa.io"
+        "taxually.com",
+        "taxilla.com",
+        "goroute.ai"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "generating bulk irn e-invoice json",
+      "keyword": "top invoice api automate invoicing business",
       "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
+      "score": 0,
+      "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "einvoice1.gst.gov.in",
-        "tutorial.gst.gov.in",
-        "youtube.com",
-        "mybillbook.in"
+        "refrens.com",
+        "mindsprint.com",
+        "salesforce.com",
+        "worksbuddy.ai",
+        "finbite.eu"
       ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "import hundreds of invoices bulk",
+      "keyword": "e invoicing rest api integration guide",
       "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "quickbooks.intuit.com"
-      ],
+      "score": 0,
+      "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "marketplace.stripe.com",
-        "quickbooks.intuit.com",
-        "community.myob.com",
-        "youtube.com",
-        "community.hubspot.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "bulk upload e-invoice india tool",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "einvoice1.gst.gov.in",
-        "youtube.com",
-        "busy.in",
-        "taxguru.in"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: taxguru.in | Tier 2 domains present: indiafilings.com. Winnable with strong content."
-    },
-    {
-      "keyword": "batch import bulk invoices",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "quickbooks.intuit.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "community.dynamics.com",
-        "stampli.com",
-        "support.ariba.com",
-        "help.zoho.com",
+        "linkedin.com",
+        "dddinvoices.com",
+        "einv-apisandbox.nic.in",
+        "orchidatax.com",
         "youtube.com"
       ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "multiple gst e-invoices bulk generation",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "einvoice1.gst.gov.in",
-        "youtube.com",
-        "busy.in",
-        "saral.pro"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: indiafilings.com. Winnable with strong content."
-    },
-    {
-      "keyword": "excel tool generate irn numbers",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "gstzen.in",
-        "youtube.com",
-        "tallyconnects.com",
-        "taxguru.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "generate bulk invoice reference numbers",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "mybillbook.in",
-        "refrens.com",
-        "virtualstaffer.ph",
-        "indiafilings.com",
-        "logicerp.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "best e-invoicing software indian businesses",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "busy.in",
-        "tallysolutions.com",
-        "mastergst.com",
-        "linkedin.com",
-        "vasy.ai"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "choose right invoicing software india",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "zoho.com",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "salesforce.com",
-        "zoho.com",
-        "logicerp.com",
-        "tallysolutions.com",
-        "profitbooks.net"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: zoho.com, tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "gst e-invoice system",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "kotak.bank.in",
-        "gstn.org.in",
-        "einv-apisandbox.nic.in",
-        "digitalindia.gov.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "bulk upload e-invoices import csv",
+      "keyword": "invoice api benefits and how it works",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
+        "bill.com",
+        "developer.squareup.com",
+        "b2brouter.net",
+        "hyperbots.com",
+        "refrens.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "integrate irn generation api for gst e invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einv-apisandbox.nic.in",
         "einvoice1.gst.gov.in",
+        "gstzen.in",
+        "mastergst.com",
+        "whitebooks.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst e invoicing api access requirements",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einv-apisandbox.nic.in",
+        "mastergst.com",
+        "gstzen.in",
+        "mybillbook.in",
+        "tutorial.gst.gov.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to set up e invoice api india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einv-apisandbox.nic.in",
         "youtube.com",
-        "marketplace.stripe.com",
-        "care.margcompusoft.com",
-        "mastersindia.co"
+        "mastergst.com",
+        "perione.in",
+        "einvoice1.gst.gov.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "choosing right e invoicing api for business",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "storecove.com",
+        "gstzen.in",
+        "b2brouter.net",
+        "einv-apisandbox.nic.in",
+        "mastergst.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "api integration modes for e invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einv-apisandbox.nic.in",
+        "gstzen.in",
+        "mastergst.com",
+        "mastersindia.co",
+        "mybillbook.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "automate invoicing inventory sales workflows api",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "refrens.com",
+        "salesforce.com",
+        "hyperbots.com",
+        "unified.to",
+        "rossum.ai"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "discover api integration revolutionizing invoice processing india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "perione.in",
+        "tight.com",
+        "linkedin.com",
+        "merge.dev",
+        "researchgate.net"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "configure api calls issue irns real time",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "community.f5.com",
+        "gravitee.io",
+        "forum.rasa.com",
+        "youtube.com",
+        "pubnub.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst einvoicing api generate electronic invoices india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einv-apisandbox.nic.in",
+        "einvoice1.gst.gov.in",
+        "gstzen.in",
+        "mastergst.com",
+        "mybillbook.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "sandbox testing for e invoice api integration",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einv-apisandbox.nic.in",
+        "einv-apisandbox.nic.in",
+        "sandbox.co.in",
+        "einvoice1.gst.gov.in",
+        "zoho.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "gstin lookup api for invoice compliance",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einv-apisandbox.nic.in",
+        "gstinapi.in",
+        "developer.gst.gov.in",
+        "gstzen.in",
+        "cashfree.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "best practices for e invoice api documentation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "einv-apisandbox.nic.in",
+        "einv-apisandbox.nic.in",
+        "mastergst.com",
+        "einvoice1.gst.gov.in",
+        "whitebooks.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "secure invoice api integration with ERP systems",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "youtube.com",
+        "etimologiera.gr",
+        "melasoft.com",
+        "taxpro.co.in",
+        "busy.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
