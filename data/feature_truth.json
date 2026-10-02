@@ -99,5 +99,7 @@
   "smart_insights": true,
   "bank_feed_reconciliation": true,
   "irn_automation": true,
-  "ai_assistant": true
+  "ai_assistant": true,
+  "real_time_sync": true,
+  "irp_integration": true
 }
