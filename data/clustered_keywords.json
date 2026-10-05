@@ -1,63 +1,54 @@
 {
   "clusters": [
     {
-      "hub_topic": "Invoicing API Overview & Benefits",
+      "hub_topic": "Credit Note Management & GST Compliance",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "Our platform offers full API access, enabling developers to retrieve invoice data, create invoices programmatically, and leverage smart invoice management and automated tax calculations.",
+      "product_fit_rationale": "Supports credit_debit_notes, gst_compliance, gst_invoice_generation, invoice_template_customization and gstin_auto_fetch for creating, customizing, and ensuring GST‑compliant credit notes.",
       "keywords": [
-        "what is an invoicing api",
-        "invoice api benefits and how it works",
-        "top invoice api automate invoicing business",
-        "discover api integration revolutionizing invoice processing india",
-        "api integration modes for e invoicing"
+        "gst compliant credit note template download",
+        "managing credit and debit notes in accounts payable",
+        "automated credit note generation in billing software",
+        "credit note reconciliation process in accounting software",
+        "best software features for credit note management",
+        "how to manage credit notes in invoicing software",
+        "credit note issuance process for gst compliance",
+        "differences between credit note and debit note gst",
+        "how to issue credit notes for overbilling corrections",
+        "credit note handling for returned goods gst",
+        "compliance tips for credit note issuance gst"
       ]
     },
     {
-      "hub_topic": "E‑Invoicing API Integration in India",
+      "hub_topic": "Debit Note Creation & Workflow",
       "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Supports e‑invoicing generation, IRN automation, GST invoice generation and secure API integration, matching the needs of Indian businesses seeking end‑to‑end e‑invoice workflows.",
+      "intent": "Informational",
+      "product_fit_rationale": "Leverages credit_debit_notes and gst_compliance to create, track, and workflow debit notes for purchase returns and invoice adjustments.",
       "keywords": [
-        "e invoice api integration india",
-        "e invoicing rest api integration guide",
-        "how to set up e invoice api india",
-        "choosing right e invoicing api for business",
-        "secure invoice api integration with ERP systems",
-        "sandbox testing for e invoice api integration",
-        "best practices for e invoice api documentation"
+        "best practices for debit note management india",
+        "steps to create debit notes for purchase returns",
+        "debit note workflow for small businesses india",
+        "guide to creating debit notes without cancelling invoice",
+        "gst invoice adjustments using debit notes"
       ]
     },
     {
-      "hub_topic": "IRN Generation & GST Automation API",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Leverages our IRN automation, GST invoice generation, and automatic tax calculation engine, providing real‑time IRN issuance and compliance through a robust API.",
-      "keywords": [
-        "irn generation api gst automation",
-        "integrate irn generation api for gst e invoicing",
-        "configure api calls issue irns real time",
-        "gst einvoicing api generate electronic invoices india",
-        "gst e invoicing api access requirements"
-      ]
-    },
-    {
-      "hub_topic": "GSTIN Lookup & Compliance API",
+      "hub_topic": "Recurring Billing with Credit/Debit Note Adjustments",
       "demand": "Medium",
       "intent": "Transactional",
-      "product_fit_rationale": "Utilizes the GSTIN auto‑fetch capability and GST compliance engine, allowing seamless validation of client GSTINs via API calls.",
+      "product_fit_rationale": "Combines recurring_invoice_profiles, automated_recurring_invoices and credit_debit_notes to automate periodic billing and apply credit or debit note adjustments automatically.",
       "keywords": [
-        "gstin lookup api for invoice compliance"
+        "recurring billing and credit note adjustments",
+        "gst invoice adjustments using debit notes"
       ]
     },
     {
-      "hub_topic": "Automated Invoicing & Inventory Sales Workflow API",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "Combines smart billing automation, inventory management, multi‑currency billing and API access to automate end‑to‑end invoicing across sales and inventory workflows, even for multi‑country compliance.",
+      "hub_topic": "GSTIN Validation on Credit Notes",
+      "demand": "Low",
+      "intent": "Informational",
+      "product_fit_rationale": "Utilizes gstin_auto_fetch to automatically verify GSTIN numbers when issuing credit notes, ensuring GST compliance.",
       "keywords": [
-        "automate invoicing inventory sales workflows api",
-        "unified invoicing api multi country compliance"
+        "how to validate gstin on credit notes"
       ]
     }
   ],

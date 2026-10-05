@@ -1,233 +1,245 @@
 {
   "surviving_keywords": [
-    "what is an invoicing api",
-    "e invoice api integration india",
-    "irn generation api gst automation",
-    "unified invoicing api multi country compliance",
-    "top invoice api automate invoicing business",
-    "e invoicing rest api integration guide",
-    "invoice api benefits and how it works",
-    "integrate irn generation api for gst e invoicing",
-    "gst e invoicing api access requirements",
-    "how to set up e invoice api india",
-    "choosing right e invoicing api for business",
-    "api integration modes for e invoicing",
-    "automate invoicing inventory sales workflows api",
-    "discover api integration revolutionizing invoice processing india",
-    "configure api calls issue irns real time",
-    "gst einvoicing api generate electronic invoices india",
-    "sandbox testing for e invoice api integration",
-    "gstin lookup api for invoice compliance",
-    "best practices for e invoice api documentation",
-    "secure invoice api integration with ERP systems"
+    "best practices for debit note management india",
+    "steps to create debit notes for purchase returns",
+    "gst compliant credit note template download",
+    "managing credit and debit notes in accounts payable",
+    "automated credit note generation in billing software",
+    "debit note workflow for small businesses india",
+    "recurring billing and credit note adjustments",
+    "gst invoice adjustments using debit notes",
+    "credit note reconciliation process in accounting software",
+    "best software features for credit note management",
+    "guide to creating debit notes without cancelling invoice",
+    "compliance tips for credit note issuance gst",
+    "how to manage credit notes in invoicing software",
+    "credit note issuance process for gst compliance",
+    "differences between credit note and debit note gst",
+    "how to issue credit notes for overbilling corrections",
+    "credit note handling for returned goods gst",
+    "how to validate gstin on credit notes"
   ],
   "passed": [
-    "what is an invoicing api",
-    "e invoice api integration india",
-    "irn generation api gst automation",
-    "unified invoicing api multi country compliance",
-    "top invoice api automate invoicing business",
-    "e invoicing rest api integration guide",
-    "invoice api benefits and how it works",
-    "integrate irn generation api for gst e invoicing",
-    "gst e invoicing api access requirements",
-    "how to set up e invoice api india",
-    "choosing right e invoicing api for business",
-    "api integration modes for e invoicing",
-    "automate invoicing inventory sales workflows api",
-    "discover api integration revolutionizing invoice processing india",
-    "configure api calls issue irns real time",
-    "gst einvoicing api generate electronic invoices india",
-    "sandbox testing for e invoice api integration",
-    "gstin lookup api for invoice compliance",
-    "best practices for e invoice api documentation",
-    "secure invoice api integration with ERP systems"
+    "best practices for debit note management india",
+    "steps to create debit notes for purchase returns",
+    "gst compliant credit note template download",
+    "managing credit and debit notes in accounts payable",
+    "automated credit note generation in billing software",
+    "debit note workflow for small businesses india",
+    "recurring billing and credit note adjustments",
+    "gst invoice adjustments using debit notes",
+    "credit note reconciliation process in accounting software",
+    "best software features for credit note management",
+    "guide to creating debit notes without cancelling invoice",
+    "compliance tips for credit note issuance gst"
   ],
-  "maybe": [],
+  "maybe": [
+    "how to manage credit notes in invoicing software",
+    "credit note issuance process for gst compliance",
+    "differences between credit note and debit note gst",
+    "how to issue credit notes for overbilling corrections",
+    "credit note handling for returned goods gst",
+    "how to validate gstin on credit notes"
+  ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "what is an invoicing api",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
+      "keyword": "how to manage credit notes in invoicing software",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
       "tier2_hits": [],
       "top_5_domains": [
-        "merge.dev",
-        "bill.com",
-        "invoicingapi.com",
-        "einv-apisandbox.nic.in",
-        "klippa.com"
+        "tabs.com",
+        "stripe.com",
+        "tallysolutions.com",
+        "razorpay.com",
+        "invoiceoffice.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
     },
     {
-      "keyword": "e invoice api integration india",
+      "keyword": "best practices for debit note management india",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "perione.in",
-        "mastergst.com",
-        "gstzen.in",
-        "einvoice6.gst.gov.in"
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "irn generation api gst automation",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "gstzen.in",
-        "einvoice1.gst.gov.in",
-        "mastergst.com",
-        "perione.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "unified invoicing api multi country compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "dddinvoices.com",
-        "linkedin.com",
-        "taxually.com",
-        "taxilla.com",
-        "goroute.ai"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "top invoice api automate invoicing business",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
+        "razorpay.com",
+        "pazy.io",
         "refrens.com",
-        "mindsprint.com",
-        "salesforce.com",
-        "worksbuddy.ai",
-        "finbite.eu"
+        "logicerp.com",
+        "billingsoftware.in"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "e invoicing rest api integration guide",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "linkedin.com",
-        "dddinvoices.com",
-        "einv-apisandbox.nic.in",
-        "orchidatax.com",
-        "youtube.com"
+      "keyword": "credit note issuance process for gst compliance",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "taxguru.in"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "tier2_hits": [
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "stashfin.com",
+        "gstcouncil.gov.in",
+        "taxinformation.cbic.gov.in",
+        "tallysolutions.com",
+        "taxguru.in"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, taxguru.in | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
     },
     {
-      "keyword": "invoice api benefits and how it works",
+      "keyword": "steps to create debit notes for purchase returns",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "bill.com",
-        "developer.squareup.com",
-        "b2brouter.net",
-        "hyperbots.com",
-        "refrens.com"
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "integrate irn generation api for gst e invoicing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "einvoice1.gst.gov.in",
-        "gstzen.in",
-        "mastergst.com",
-        "whitebooks.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst e invoicing api access requirements",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "mastergst.com",
-        "gstzen.in",
+        "help.tallysolutions.com",
         "mybillbook.in",
-        "tutorial.gst.gov.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to set up e invoice api india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einv-apisandbox.nic.in",
+        "gstcouncil.gov.in",
         "youtube.com",
-        "mastergst.com",
-        "perione.in",
-        "einvoice1.gst.gov.in"
+        "razorpay.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "choosing right e invoicing api for business",
+      "keyword": "gst compliant credit note template download",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "mybillbook.in",
+        "gimbooks.com",
+        "invoicemint.in",
+        "gstcouncil.gov.in",
+        "gogstbill.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "managing credit and debit notes in accounts payable",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "myndsolution.com",
+        "linkedin.com",
+        "investopedia.com",
+        "revv.so",
+        "adobe.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automated credit note generation in billing software",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "storecove.com",
-        "gstzen.in",
-        "b2brouter.net",
-        "einv-apisandbox.nic.in",
-        "mastergst.com"
+        "invoicefree.in",
+        "fastbillingsoftware.com",
+        "finifi.io",
+        "community.sap.com",
+        "busy.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "api integration modes for e invoicing",
+      "keyword": "differences between credit note and debit note gst",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "ratnaafin.com",
+        "tax2win.in",
+        "tallysolutions.com",
+        "razorpay.com",
+        "ltfinance.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
+    },
+    {
+      "keyword": "how to issue credit notes for overbilling corrections",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "invoicemonk.com",
+        "bajajfinserv.in",
+        "easybill.de",
+        "facebook.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
+    },
+    {
+      "keyword": "debit note workflow for small businesses india",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
+      "score": 3,
+      "tier1_hits": [
+        "investopedia.com"
+      ],
       "tier2_hits": [],
       "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "gstzen.in",
-        "mastergst.com",
-        "mastersindia.co",
-        "mybillbook.in"
+        "razorpay.com",
+        "sleekbill.in",
+        "finifi.io",
+        "busy.in",
+        "investopedia.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "automate invoicing inventory sales workflows api",
+      "keyword": "credit note handling for returned goods gst",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "gstcouncil.gov.in",
+        "vatupdate.com",
+        "stashfin.com",
+        "tallysolutions.com",
+        "tax2win.in"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
+    },
+    {
+      "keyword": "recurring billing and credit note adjustments",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -235,120 +247,109 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "refrens.com",
-        "salesforce.com",
+        "chargebee.com",
+        "stripe.com",
+        "invoicemonk.com",
+        "zenskar.com",
+        "tallysolutions.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "gst invoice adjustments using debit notes",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ratnaafin.com",
+        "tax2win.in",
+        "pazy.io",
+        "sleekbill.in",
+        "airtel.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "credit note reconciliation process in accounting software",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ledgers.cloud",
+        "facebook.com",
         "hyperbots.com",
-        "unified.to",
-        "rossum.ai"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "discover api integration revolutionizing invoice processing india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "perione.in",
-        "tight.com",
-        "linkedin.com",
-        "merge.dev",
-        "researchgate.net"
+        "stripe.com",
+        "finifi.io"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "configure api calls issue irns real time",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "community.f5.com",
-        "gravitee.io",
-        "forum.rasa.com",
-        "youtube.com",
-        "pubnub.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst einvoicing api generate electronic invoices india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "einvoice1.gst.gov.in",
-        "gstzen.in",
-        "mastergst.com",
-        "mybillbook.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "sandbox testing for e invoice api integration",
-      "verdict": "PASS",
-      "score": 3,
+      "keyword": "how to validate gstin on credit notes",
+      "verdict": "MAYBE",
+      "score": 6,
       "tier1_hits": [
-        "zoho.com"
+        "cleartax.in",
+        "tallysolutions.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "einv-apisandbox.nic.in",
-        "sandbox.co.in",
-        "einvoice1.gst.gov.in",
-        "zoho.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gstin lookup api for invoice compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "gstinapi.in",
-        "developer.gst.gov.in",
-        "gstzen.in",
+        "cleartax.in",
+        "gstcouncil.gov.in",
+        "tallysolutions.com",
+        "busy.in",
         "cashfree.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Moderate competition (score=6). Tier 1 domains present: cleartax.in, tallysolutions.com. Winnable with strong content."
     },
     {
-      "keyword": "best practices for e invoice api documentation",
+      "keyword": "best software features for credit note management",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "einv-apisandbox.nic.in",
-        "einv-apisandbox.nic.in",
-        "mastergst.com",
-        "einvoice1.gst.gov.in",
-        "whitebooks.in"
+        "tabs.com",
+        "erpag.com",
+        "invoiceoffice.com",
+        "affinda.com",
+        "esker.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "secure invoice api integration with ERP systems",
+      "keyword": "guide to creating debit notes without cancelling invoice",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "youtube.com",
-        "etimologiera.gr",
-        "melasoft.com",
-        "taxpro.co.in",
-        "busy.in"
+        "manage.whois.com",
+        "refrens.com",
+        "pazy.io",
+        "sleekbill.in",
+        "gstcouncil.gov.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "compliance tips for credit note issuance gst",
+      "verdict": "PASS",
+      "score": 2,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com",
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "stashfin.com",
+        "taxilla.com",
+        "gstcouncil.gov.in",
+        "invoicemonk.com",
+        "indiafilings.com"
+      ],
+      "reason": "Low authority presence (score=2). Winnable with quality content."
     }
   ]
 }
