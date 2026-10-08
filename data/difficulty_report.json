@@ -1,355 +1,269 @@
 {
   "surviving_keywords": [
-    "best practices for debit note management india",
-    "steps to create debit notes for purchase returns",
-    "gst compliant credit note template download",
-    "managing credit and debit notes in accounts payable",
-    "automated credit note generation in billing software",
-    "debit note workflow for small businesses india",
-    "recurring billing and credit note adjustments",
-    "gst invoice adjustments using debit notes",
-    "credit note reconciliation process in accounting software",
-    "best software features for credit note management",
-    "guide to creating debit notes without cancelling invoice",
-    "compliance tips for credit note issuance gst",
-    "how to manage credit notes in invoicing software",
-    "credit note issuance process for gst compliance",
-    "differences between credit note and debit note gst",
-    "how to issue credit notes for overbilling corrections",
-    "credit note handling for returned goods gst",
-    "how to validate gstin on credit notes"
+    "ai crm invoicing automation india",
+    "ai crm gst billing integration india",
+    "how ai crm automates invoice generation",
+    "benefits of ai crm for gst compliance",
+    "ai crm for indian msme invoicing",
+    "best ai crm features for billing india",
+    "ai crm vs traditional crm invoicing",
+    "ai crm lead scoring and invoice creation",
+    "ai crm automated gst invoice workflow",
+    "ai crm tools for indian small business billing",
+    "ai crm and erp unified invoicing india",
+    "ai crm auto capture emails for invoicing",
+    "ai crm for recurring billing india",
+    "ai crm gstin validation automation",
+    "ai crm invoice generation use cases india"
   ],
   "passed": [
-    "best practices for debit note management india",
-    "steps to create debit notes for purchase returns",
-    "gst compliant credit note template download",
-    "managing credit and debit notes in accounts payable",
-    "automated credit note generation in billing software",
-    "debit note workflow for small businesses india",
-    "recurring billing and credit note adjustments",
-    "gst invoice adjustments using debit notes",
-    "credit note reconciliation process in accounting software",
-    "best software features for credit note management",
-    "guide to creating debit notes without cancelling invoice",
-    "compliance tips for credit note issuance gst"
+    "ai crm invoicing automation india",
+    "ai crm gst billing integration india",
+    "how ai crm automates invoice generation",
+    "benefits of ai crm for gst compliance",
+    "ai crm for indian msme invoicing",
+    "best ai crm features for billing india",
+    "ai crm vs traditional crm invoicing",
+    "ai crm lead scoring and invoice creation",
+    "ai crm automated gst invoice workflow",
+    "ai crm tools for indian small business billing",
+    "ai crm and erp unified invoicing india",
+    "ai crm auto capture emails for invoicing",
+    "ai crm for recurring billing india",
+    "ai crm gstin validation automation",
+    "ai crm invoice generation use cases india"
   ],
-  "maybe": [
-    "how to manage credit notes in invoicing software",
-    "credit note issuance process for gst compliance",
-    "differences between credit note and debit note gst",
-    "how to issue credit notes for overbilling corrections",
-    "credit note handling for returned goods gst",
-    "how to validate gstin on credit notes"
-  ],
+  "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "how to manage credit notes in invoicing software",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tabs.com",
-        "stripe.com",
-        "tallysolutions.com",
-        "razorpay.com",
-        "invoiceoffice.com"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
-    },
-    {
-      "keyword": "best practices for debit note management india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "razorpay.com",
-        "pazy.io",
-        "refrens.com",
-        "logicerp.com",
-        "billingsoftware.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "credit note issuance process for gst compliance",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "taxguru.in"
-      ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "stashfin.com",
-        "gstcouncil.gov.in",
-        "taxinformation.cbic.gov.in",
-        "tallysolutions.com",
-        "taxguru.in"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, taxguru.in | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "steps to create debit notes for purchase returns",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "help.tallysolutions.com",
-        "mybillbook.in",
-        "gstcouncil.gov.in",
-        "youtube.com",
-        "razorpay.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gst compliant credit note template download",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "mybillbook.in",
-        "gimbooks.com",
-        "invoicemint.in",
-        "gstcouncil.gov.in",
-        "gogstbill.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "managing credit and debit notes in accounts payable",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "myndsolution.com",
-        "linkedin.com",
-        "investopedia.com",
-        "revv.so",
-        "adobe.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "automated credit note generation in billing software",
+      "keyword": "ai crm invoicing automation india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "invoicefree.in",
-        "fastbillingsoftware.com",
-        "finifi.io",
-        "community.sap.com",
-        "busy.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "differences between credit note and debit note gst",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "ratnaafin.com",
-        "tax2win.in",
-        "tallysolutions.com",
-        "razorpay.com",
-        "ltfinance.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "how to issue credit notes for overbilling corrections",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "invoicemonk.com",
-        "bajajfinserv.in",
-        "easybill.de",
-        "facebook.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "debit note workflow for small businesses india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "investopedia.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "razorpay.com",
-        "sleekbill.in",
-        "finifi.io",
-        "busy.in",
-        "investopedia.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "credit note handling for returned goods gst",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "gstcouncil.gov.in",
-        "vatupdate.com",
-        "stashfin.com",
-        "tallysolutions.com",
-        "tax2win.in"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "recurring billing and credit note adjustments",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "chargebee.com",
-        "stripe.com",
-        "invoicemonk.com",
-        "zenskar.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gst invoice adjustments using debit notes",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ratnaafin.com",
-        "tax2win.in",
-        "pazy.io",
-        "sleekbill.in",
-        "airtel.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "credit note reconciliation process in accounting software",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ledgers.cloud",
-        "facebook.com",
-        "hyperbots.com",
-        "stripe.com",
+        "clear.in",
+        "nonivision.in",
+        "theeazy.io",
+        "keydynamicssolutions.com",
         "finifi.io"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "how to validate gstin on credit notes",
-      "verdict": "MAYBE",
-      "score": 6,
+      "keyword": "ai crm gst billing integration india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "theeazy.io",
+        "vasy.ai",
+        "billtick.in",
+        "facebook.com",
+        "digifysoft.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how ai crm automates invoice generation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "toxsl.com",
+        "precoro.com",
+        "tyasuite.com",
+        "domo.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "benefits of ai crm for gst compliance",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "taxilla.com",
+        "cac.net.in",
+        "rjwave.org",
+        "aiaccount.com",
+        "ledgers.cloud"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai crm for indian msme invoicing",
+      "verdict": "PASS",
+      "score": 3,
       "tier1_hits": [
-        "cleartax.in",
         "tallysolutions.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "cleartax.in",
-        "gstcouncil.gov.in",
-        "tallysolutions.com",
-        "busy.in",
-        "cashfree.com"
+        "groweon.com",
+        "finifi.io",
+        "fohmss.in",
+        "bookmypartner.com",
+        "saleslyt.com"
       ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: cleartax.in, tallysolutions.com. Winnable with strong content."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "best software features for credit note management",
+      "keyword": "best ai crm features for billing india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "tabs.com",
-        "erpag.com",
-        "invoiceoffice.com",
-        "affinda.com",
-        "esker.com"
+        "finifi.io",
+        "groweon.com",
+        "elitemindz.co",
+        "youtube.com",
+        "worktual.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "guide to creating debit notes without cancelling invoice",
+      "keyword": "ai crm vs traditional crm invoicing",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "manage.whois.com",
-        "refrens.com",
-        "pazy.io",
-        "sleekbill.in",
-        "gstcouncil.gov.in"
+        "salesforce.com",
+        "sap.com",
+        "convergehub.com",
+        "saleoid.com",
+        "vtiger.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "compliance tips for credit note issuance gst",
+      "keyword": "ai crm lead scoring and invoice creation",
       "verdict": "PASS",
-      "score": 2,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com",
-        "bajajfinserv.in"
+      "score": 3,
+      "tier1_hits": [
+        "hubspot.com"
       ],
+      "tier2_hits": [],
       "top_5_domains": [
-        "stashfin.com",
+        "salesforce.com",
+        "creatio.com",
+        "msdynamicsworld.com",
+        "hubspot.com",
+        "bitrix24.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "ai crm automated gst invoice workflow",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
         "taxilla.com",
-        "gstcouncil.gov.in",
-        "invoicemonk.com",
-        "indiafilings.com"
+        "atlas.kpmg.com",
+        "tipalti.com",
+        "tyasuite.com",
+        "instagram.com"
       ],
-      "reason": "Low authority presence (score=2). Winnable with quality content."
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai crm tools for indian small business billing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "finifi.io",
+        "fuzen.io",
+        "redpulsesoftware.in",
+        "youtube.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai crm and erp unified invoicing india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cantechnologies.co.in",
+        "saasworx.ai",
+        "vapstech.com",
+        "quarto-erp.com",
+        "theeazy.io"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai crm auto capture emails for invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gennai.io",
+        "sanso.ai",
+        "youtube.com",
+        "reddit.com",
+        "linkedin.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai crm for recurring billing india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "revenuebase.ai",
+        "transactbridge.com",
+        "recurly.com",
+        "younium.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai crm gstin validation automation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "manras.com",
+        "codenicelystudio.com",
+        "linkedin.com",
+        "taxone.vyapar.com",
+        "ubikon.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "ai crm invoice generation use cases india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "cygnet.one",
+        "salesforce.com",
+        "reddit.com",
+        "reddit.com",
+        "quora.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
   ]
 }
