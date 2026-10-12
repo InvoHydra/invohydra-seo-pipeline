@@ -101,5 +101,9 @@
   "irn_automation": true,
   "ai_assistant": true,
   "real_time_sync": true,
-  "irp_integration": true
+  "irp_integration": true,
+  "hrms": true,
+  "hrms_payroll": true,
+  "delivery_challan": true,
+  "stock_alerts": true
 }
