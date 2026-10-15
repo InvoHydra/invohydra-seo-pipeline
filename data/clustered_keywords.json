@@ -1,66 +1,30 @@
 {
   "clusters": [
     {
-      "hub_topic": "AI CRM for invoicing automation and GST compliance",
-      "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "Our platform combines ai_native_crm with automated_tax_calculations, gst_compliance, gst_invoice_generation, invoice_template_customization and real_time_payment_tracking, enabling AI‑driven invoice creation, GST handling and template flexibility for Indian businesses.",
-      "keywords": [
-        "ai crm invoicing automation india",
-        "how ai crm automates invoice generation",
-        "benefits of ai crm for gst compliance",
-        "ai crm for indian msme invoicing",
-        "best ai crm features for billing india",
-        "ai crm vs traditional crm invoicing",
-        "ai crm automated gst invoice workflow",
-        "ai crm invoice generation use cases india"
-      ]
-    },
-    {
-      "hub_topic": "AI CRM integration with GST billing and validation",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "We support gst_invoice_generation, gstin_auto_fetch, automatic_tax_calculations and ai_native_crm, allowing seamless AI‑CRM integration with GST billing and automatic GSTIN validation for Indian enterprises.",
-      "keywords": [
-        "ai crm gst billing integration india",
-        "ai crm gstin validation automation"
-      ]
-    },
-    {
-      "hub_topic": "AI CRM for recurring billing and lead‑to‑invoice automation",
+      "hub_topic": "GST billing analytics & automation",
       "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "Features like recurring_invoice_profiles, automated_recurring_invoices, ai_native_crm and multi_payment_methods let the AI CRM automatically convert leads into recurring invoices and manage repeat billing cycles.",
+      "product_fit_rationale": "InvoHydra offers GST compliance, automated tax calculations, smart insights, reports and analytics, and customizable invoice templates, enabling data-driven invoicing and compliance automation for SMEs and small businesses.",
       "keywords": [
-        "ai crm for recurring billing india",
-        "ai crm lead scoring and invoice creation"
+        "gst compliant invoicing with smart insights",
+        "automated gst invoicing for data-driven decisions",
+        "gst compliance automation for smes using data",
+        "gst billing software for smes data analytics",
+        "gst invoicing platform with analytics dashboard",
+        "best gst billing features for small businesses",
+        "setup gst billing software for data-driven growth"
       ]
     },
     {
-      "hub_topic": "AI CRM & ERP unified invoicing solution",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Through api_access, ai_native_crm, e_invoicing_generation and invoice_reporting_automation, our system can unify AI‑CRM data with ERP workflows for end‑to‑end invoicing.",
-      "keywords": [
-        "ai crm and erp unified invoicing india"
-      ]
-    },
-    {
-      "hub_topic": "AI CRM auto‑capture emails for invoice creation",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "ai_native_crm paired with smart_invoice_management and automatic_tax_calculations enables automatic email parsing and instant invoice generation.",
-      "keywords": [
-        "ai crm auto capture emails for invoicing"
-      ]
-    },
-    {
-      "hub_topic": "AI CRM tools for Indian small business billing",
-      "demand": "Medium",
+      "hub_topic": "Real-time sync GST invoicing solutions",
+      "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "Our solution offers ai_native_crm, gst_compliance, multi_currency_billing, mobile_app_access and branded_templates, tailored for Indian SMBs needing AI‑enhanced billing.",
+      "product_fit_rationale": "InvoHydra provides real-time sync across devices, smart GST billing, business intelligence integration, and instant data updates, meeting the need for live GST invoicing tools that stay synchronized with business operations.",
       "keywords": [
-        "ai crm tools for indian small business billing"
+        "how to integrate gst billing with business intelligence",
+        "gst invoicing app with real-time sync india",
+        "real-time sync gst invoicing tool india",
+        "data-driven gst billing workflow for startups"
       ]
     }
   ],

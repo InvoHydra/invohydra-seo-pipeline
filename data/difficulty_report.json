@@ -1,267 +1,245 @@
 {
   "surviving_keywords": [
-    "ai crm invoicing automation india",
-    "ai crm gst billing integration india",
-    "how ai crm automates invoice generation",
-    "benefits of ai crm for gst compliance",
-    "ai crm for indian msme invoicing",
-    "best ai crm features for billing india",
-    "ai crm vs traditional crm invoicing",
-    "ai crm lead scoring and invoice creation",
-    "ai crm automated gst invoice workflow",
-    "ai crm tools for indian small business billing",
-    "ai crm and erp unified invoicing india",
-    "ai crm auto capture emails for invoicing",
-    "ai crm for recurring billing india",
-    "ai crm gstin validation automation",
-    "ai crm invoice generation use cases india"
+    "how to integrate gst billing with business intelligence",
+    "gst compliant invoicing with smart insights",
+    "automated gst invoicing for data-driven decisions",
+    "gst compliance automation for smes using data",
+    "gst invoicing app with real-time sync india",
+    "data-driven gst billing workflow for startups",
+    "gst billing software for smes data analytics",
+    "real-time sync gst invoicing tool india",
+    "gst invoicing platform with analytics dashboard",
+    "best gst billing features for small businesses",
+    "setup gst billing software for data-driven growth"
   ],
   "passed": [
-    "ai crm invoicing automation india",
-    "ai crm gst billing integration india",
-    "how ai crm automates invoice generation",
-    "benefits of ai crm for gst compliance",
-    "ai crm for indian msme invoicing",
-    "best ai crm features for billing india",
-    "ai crm vs traditional crm invoicing",
-    "ai crm lead scoring and invoice creation",
-    "ai crm automated gst invoice workflow",
-    "ai crm tools for indian small business billing",
-    "ai crm and erp unified invoicing india",
-    "ai crm auto capture emails for invoicing",
-    "ai crm for recurring billing india",
-    "ai crm gstin validation automation",
-    "ai crm invoice generation use cases india"
+    "how to integrate gst billing with business intelligence",
+    "gst compliant invoicing with smart insights",
+    "automated gst invoicing for data-driven decisions",
+    "gst compliance automation for smes using data",
+    "gst invoicing app with real-time sync india",
+    "data-driven gst billing workflow for startups"
   ],
-  "maybe": [],
-  "failed": [],
+  "maybe": [
+    "gst billing software for smes data analytics",
+    "real-time sync gst invoicing tool india",
+    "gst invoicing platform with analytics dashboard",
+    "best gst billing features for small businesses",
+    "setup gst billing software for data-driven growth"
+  ],
+  "failed": [
+    "recurring billing gst software with real-time reporting"
+  ],
   "full_report": [
     {
-      "keyword": "ai crm invoicing automation india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "clear.in",
-        "nonivision.in",
-        "theeazy.io",
-        "keydynamicssolutions.com",
-        "finifi.io"
+      "keyword": "gst billing software for smes data analytics",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "desuntechnology.in",
+        "chapter1.finance",
+        "busy.in",
+        "proanalyser.in"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
     },
     {
-      "keyword": "ai crm gst billing integration india",
+      "keyword": "real-time sync gst invoicing tool india",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "gogstbill.com",
+        "busy.in",
+        "udyogbill.com",
+        "zoho.com",
+        "profitbooks.net"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "how to integrate gst billing with business intelligence",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "cygnet.one",
+        "logicerp.com",
+        "invohydra.com",
+        "businessbookplus.com",
+        "gstn.org.in"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "gst compliant invoicing with smart insights",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "theeazy.io",
-        "vasy.ai",
-        "billtick.in",
+        "taxosmart.com",
+        "invohydra.com",
         "facebook.com",
-        "digifysoft.in"
+        "instagram.com",
+        "desuntechnology.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "how ai crm automates invoice generation",
+      "keyword": "automated gst invoicing for data-driven decisions",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "salesforce.com",
-        "toxsl.com",
-        "precoro.com",
-        "tyasuite.com",
-        "domo.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "benefits of ai crm for gst compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "taxilla.com",
-        "cac.net.in",
+        "proanalyser.in",
+        "cygnet.one",
+        "kpmg.com",
         "rjwave.org",
-        "aiaccount.com",
-        "ledgers.cloud"
+        "elitemindz.co"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "ai crm for indian msme invoicing",
+      "keyword": "recurring billing gst software with real-time reporting",
+      "verdict": "FAIL",
+      "score": 10,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com",
+        "cleartax.in"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "zoho.com",
+        "refrens.com",
+        "retailwhizz.com",
+        "gogstbill.com",
+        "profitbooks.net"
+      ],
+      "reason": "Too competitive (score=10). Tier 1 giants: zoho.com, tallysolutions.com, cleartax.in | Tier 2 strong: profitbooks.net. Unlikely to rank page 1."
+    },
+    {
+      "keyword": "gst invoicing platform with analytics dashboard",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "zoho.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "zoho.com",
+        "razorpay.com",
+        "codezion.com",
+        "khatabilling.com",
+        "registrationwala.com"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: zoho.com, zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "best gst billing features for small businesses",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "caclubindia.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "gogstbill.com",
+        "profitbooks.net",
+        "mooninvoice.com",
+        "reddit.com",
+        "caclubindia.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: caclubindia.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "gst compliance automation for smes using data",
       "verdict": "PASS",
-      "score": 3,
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "taxone.vyapar.com",
+        "mysa.io",
+        "webtel.in",
+        "ledgers.cloud",
+        "ieeexplore.ieee.org"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "setup gst billing software for data-driven growth",
+      "verdict": "MAYBE",
+      "score": 4,
       "tier1_hits": [
         "tallysolutions.com"
       ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "groweon.com",
-        "finifi.io",
-        "fohmss.in",
-        "bookmypartner.com",
-        "saleslyt.com"
+      "tier2_hits": [
+        "profitbooks.net"
       ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "best ai crm features for billing india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
       "top_5_domains": [
-        "finifi.io",
-        "groweon.com",
+        "tallysolutions.com",
         "elitemindz.co",
-        "youtube.com",
-        "worktual.in"
+        "retailwhizz.com",
+        "logicerp.com",
+        "chapter1.finance"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
     },
     {
-      "keyword": "ai crm vs traditional crm invoicing",
+      "keyword": "gst invoicing app with real-time sync india",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "vyaparapp.in",
+        "gogstbill.com",
+        "gimbooks.com",
+        "profitbooks.net",
+        "udyogbill.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "data-driven gst billing workflow for startups",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "salesforce.com",
-        "sap.com",
-        "convergehub.com",
-        "saleoid.com",
-        "vtiger.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai crm lead scoring and invoice creation",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "hubspot.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "creatio.com",
-        "msdynamicsworld.com",
-        "hubspot.com",
-        "bitrix24.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "ai crm automated gst invoice workflow",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "taxilla.com",
-        "atlas.kpmg.com",
-        "tipalti.com",
-        "tyasuite.com",
-        "instagram.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai crm tools for indian small business billing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "finifi.io",
-        "fuzen.io",
-        "redpulsesoftware.in",
-        "youtube.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai crm and erp unified invoicing india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cantechnologies.co.in",
-        "saasworx.ai",
-        "vapstech.com",
-        "quarto-erp.com",
-        "theeazy.io"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai crm auto capture emails for invoicing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gennai.io",
-        "sanso.ai",
-        "youtube.com",
-        "reddit.com",
-        "linkedin.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai crm for recurring billing india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "revenuebase.ai",
-        "transactbridge.com",
-        "recurly.com",
-        "younium.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai crm gstin validation automation",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "manras.com",
-        "codenicelystudio.com",
-        "linkedin.com",
-        "taxone.vyapar.com",
-        "ubikon.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai crm invoice generation use cases india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cygnet.one",
-        "salesforce.com",
-        "reddit.com",
-        "reddit.com",
-        "quora.com"
+        "elitemindz.co",
+        "logicerp.com",
+        "chapter1.finance",
+        "startupkhata.com",
+        "gopareto.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
