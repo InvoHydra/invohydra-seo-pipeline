@@ -1,30 +1,32 @@
 {
   "clusters": [
     {
-      "hub_topic": "GST billing analytics & automation",
+      "hub_topic": "HRMS Payroll and GST Invoicing Integration Guides",
       "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra offers GST compliance, automated tax calculations, smart insights, reports and analytics, and customizable invoice templates, enabling data-driven invoicing and compliance automation for SMEs and small businesses.",
+      "intent": "Informational",
+      "product_fit_rationale": "Our platform supports HRMS and HRMS payroll modules (hrms, hrms_payroll) combined with full GST compliance features (gst_compliance, gst_invoice_generation, auto_gst_calculation, gstin_auto_fetch, invoice_validation, smart_gst_billing). This enables users to connect payroll data to GST‑ready invoices, export data, and follow best‑practice checklists directly within InvoHydra.",
       "keywords": [
-        "gst compliant invoicing with smart insights",
-        "automated gst invoicing for data-driven decisions",
-        "gst compliance automation for smes using data",
-        "gst billing software for smes data analytics",
-        "gst invoicing platform with analytics dashboard",
-        "best gst billing features for small businesses",
-        "setup gst billing software for data-driven growth"
+        "integrate hrms payroll with gst invoicing india",
+        "how to connect payroll software to gst billing system",
+        "best practices for hrms and gst invoicing integration",
+        "hrms payroll integration checklist for gst compliance",
+        "steps to automate gst invoicing from payroll data",
+        "faq on hrms payroll gst invoicing integration india",
+        "seamless hrms payroll and gst invoice sync for small business",
+        "cloud hrms payroll integration with gst billing software"
       ]
     },
     {
-      "hub_topic": "Real-time sync GST invoicing solutions",
-      "demand": "High",
+      "hub_topic": "HRMS Payroll Automation for GST Compliance",
+      "demand": "Medium",
       "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra provides real-time sync across devices, smart GST billing, business intelligence integration, and instant data updates, meeting the need for live GST invoicing tools that stay synchronized with business operations.",
+      "product_fit_rationale": "InvoHydra offers automated recurring invoicing (recurring_invoice_profiles, automated_recurring_invoices), automated tax calculations (automated_tax_calculations, automatic_tax_calculations), bulk CSV upload for payroll data export, and GST‑specific validation (gst_invoice_generation, gstin_auto_fetch, invoice_validation). These capabilities let SMEs automate GST‑compliant billing directly from payroll systems.",
       "keywords": [
-        "how to integrate gst billing with business intelligence",
-        "gst invoicing app with real-time sync india",
-        "real-time sync gst invoicing tool india",
-        "data-driven gst billing workflow for startups"
+        "recurring billing with hrms payroll and gst compliance",
+        "gst invoicing automation using payroll management system",
+        "gst compliant payroll and invoicing solution for smes",
+        "how to validate gstin in payroll generated invoices",
+        "hrms payroll data export for gst invoice generation"
       ]
     }
   ],
