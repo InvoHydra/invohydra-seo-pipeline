@@ -1,286 +1,271 @@
 {
   "surviving_keywords": [
-    "integrate hrms payroll with gst invoicing india",
-    "hrms payroll integration for gst compliant invoicing",
-    "how to connect payroll software to gst billing system",
-    "best practices for hrms and gst invoicing integration",
-    "hrms payroll data export for gst invoice generation",
-    "recurring billing with hrms payroll and gst compliance",
-    "gst invoicing workflow using hrms payroll integration",
-    "faq on hrms payroll gst invoicing integration india",
-    "gst invoicing automation using payroll management system",
-    "hrms payroll integration checklist for gst compliance",
-    "seamless hrms payroll and gst invoice sync for small business",
-    "cloud hrms payroll integration with gst billing software",
-    "gst compliant payroll and invoicing solution for smes",
-    "steps to automate gst invoicing from payroll data",
-    "how to validate gstin in payroll generated invoices"
+    "real time inventory synchronization benefits",
+    "how to set up real time inventory alerts",
+    "real time stock alerts for retail",
+    "multi channel inventory synchronization guide",
+    "real time inventory management best practices",
+    "reduce stockouts with real time inventory",
+    "real time inventory tracking for ecommerce",
+    "inventory synchronization across sales channels",
+    "real time inventory visibility and reporting",
+    "real time inventory management software features",
+    "real time inventory forecasting using data",
+    "real time inventory alerts for low stock",
+    "real time inventory management case study",
+    "real time inventory integration with rfid",
+    "real time inventory management for multi location"
   ],
   "passed": [
-    "integrate hrms payroll with gst invoicing india",
-    "hrms payroll integration for gst compliant invoicing",
-    "how to connect payroll software to gst billing system",
-    "best practices for hrms and gst invoicing integration",
-    "hrms payroll data export for gst invoice generation",
-    "recurring billing with hrms payroll and gst compliance",
-    "gst invoicing workflow using hrms payroll integration",
-    "faq on hrms payroll gst invoicing integration india",
-    "gst invoicing automation using payroll management system",
-    "hrms payroll integration checklist for gst compliance",
-    "seamless hrms payroll and gst invoice sync for small business",
-    "cloud hrms payroll integration with gst billing software"
+    "real time inventory synchronization benefits",
+    "how to set up real time inventory alerts",
+    "real time stock alerts for retail",
+    "multi channel inventory synchronization guide",
+    "real time inventory management best practices",
+    "reduce stockouts with real time inventory",
+    "real time inventory tracking for ecommerce",
+    "inventory synchronization across sales channels",
+    "real time inventory visibility and reporting",
+    "real time inventory management software features",
+    "real time inventory forecasting using data",
+    "real time inventory alerts for low stock",
+    "real time inventory management case study",
+    "real time inventory integration with rfid",
+    "real time inventory management for multi location"
   ],
-  "maybe": [
-    "gst compliant payroll and invoicing solution for smes",
-    "steps to automate gst invoicing from payroll data",
-    "how to validate gstin in payroll generated invoices"
-  ],
+  "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "integrate hrms payroll with gst invoicing india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "easy-gst.in",
-        "bharatpayroll.com",
-        "mhcognition.com",
-        "webtel.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "hrms payroll integration for gst compliant invoicing",
+      "keyword": "real time inventory synchronization benefits",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "tallyvizag.com",
-        "blog.saginfotech.com",
-        "easy-gst.in",
-        "entries.ai",
-        "webtel.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to connect payroll software to gst billing system",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tutorial.gst.gov.in",
-        "logicerp.com",
-        "elitemindz.co",
-        "gogstbill.com",
-        "tutorial.gst.gov.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "best practices for hrms and gst invoicing integration",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "logicerp.com",
-        "billingsoftwareindia.in",
-        "invohydra.com",
-        "busy.in",
-        "blog.saginfotech.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst compliant payroll and invoicing solution for smes",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "cleartax.in"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "gopareto.com",
-        "invohydra.com",
-        "hisabkitab.co",
-        "facebook.com"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, cleartax.in | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "steps to automate gst invoicing from payroll data",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "logicerp.com",
-        "cygnet.one",
-        "tutorial.gst.gov.in",
-        "tallysolutions.com",
-        "symtrax.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "hrms payroll data export for gst invoice generation",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "logicerp.com",
-        "refrens.com",
-        "aiaccountant.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "recurring billing with hrms payroll and gst compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "saptta.com",
-        "tallyvizag.com",
-        "entries.ai",
-        "uknowva.com",
-        "mhcognition.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst invoicing workflow using hrms payroll integration",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "invohydra.com",
-        "blog.saginfotech.com",
-        "employwise.com",
-        "blog.dapplon.com",
-        "entries.ai"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "faq on hrms payroll gst invoicing integration india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "hrmantra.com",
-        "bharatpayroll.com",
-        "mhcognition.com",
-        "indpayroll.com",
-        "hrmssoftwareinindia.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst invoicing automation using payroll management system",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "razorpay.com",
-        "tallysolutions.com",
-        "pactsoft.in",
-        "spectracompunet.com",
-        "mybillbook.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "hrms payroll integration checklist for gst compliance",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "savvyhrms.com",
-        "comply360.in",
-        "myndsolution.com",
+        "anchanto.com",
+        "unicommerce.com",
         "linkedin.com",
-        "accountx.in"
+        "skuplugs.com",
+        "dominickm.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "how to validate gstin in payroll generated invoices",
-      "verdict": "MAYBE",
-      "score": 6,
+      "keyword": "how to set up real time inventory alerts",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "clappia.com",
+        "help.talech.com",
+        "barcloud.com",
+        "wolfesystems.com.au",
+        "erpsoftwareblog.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time stock alerts for retail",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "moneycontrol.com"
+      ],
+      "top_5_domains": [
+        "apps.apple.com",
+        "stockalarm.io",
+        "play.google.com",
+        "reddit.com",
+        "market-pulse.in"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "multi channel inventory synchronization guide",
+      "verdict": "PASS",
+      "score": 3,
       "tier1_hits": [
-        "cleartax.in",
-        "tallysolutions.com"
+        "zoho.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "cleartax.in",
-        "erpgroup.in",
-        "gimbooks.com",
-        "tallysolutions.com",
+        "xorosoft.com",
+        "skunexus.com",
+        "cin7.com",
+        "zoho.com",
+        "gofrugal.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "real time inventory management best practices",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "baserow.io",
+        "linkedin.com",
+        "netsuite.com",
+        "optiproerp.com",
+        "throughput.world"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "reduce stockouts with real time inventory",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "researchgate.net",
+        "mitti.com",
+        "shiptify.com",
+        "jrtcse.com",
+        "sranalytics.io"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time inventory tracking for ecommerce",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zoho.com",
+        "shipbob.com",
+        "netsuite.com",
+        "o2vend.com",
+        "unicommerce.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "inventory synchronization across sales channels",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gofrugal.com",
+        "api2cart.com",
+        "cin7.com",
+        "aroopaapps.com",
+        "kistechnology.org"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time inventory visibility and reporting",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "netsuite.com",
+        "tcs.com",
+        "hyperbots.com",
+        "learn.microsoft.com",
         "linkedin.com"
       ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: cleartax.in, tallysolutions.com. Winnable with strong content."
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "seamless hrms payroll and gst invoice sync for small business",
+      "keyword": "real time inventory management software features",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "tallysolutions.com"
+        "zoho.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "invohydra.com",
-        "instanceit.com",
-        "tallysolutions.com",
-        "easy-gst.in",
-        "elitemindz.co"
+        "zoho.com",
+        "rfgen.com",
+        "youtube.com",
+        "unicommerce.com",
+        "matiyas.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "cloud hrms payroll integration with gst billing software",
+      "keyword": "real time inventory forecasting using data",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "hrmssoftwareinindia.com",
-        "tezzsoft.com",
-        "trilliantsoftware.com",
-        "elitemindz.co",
-        "blog.saginfotech.com"
+        "conversight.ai",
+        "rbmsoft.com",
+        "netstock.com",
+        "lowrysolutions.com",
+        "simon-kucher.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time inventory alerts for low stock",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "starapps.io",
+        "cin7.com",
+        "genie.io",
+        "sumtracker.com",
+        "apps.shopify.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time inventory management case study",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "jobaajlearnings.com",
+        "anylogic.com",
+        "linkedin.com",
+        "mdpi.com",
+        "slideshare.net"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time inventory integration with rfid",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "preprints.org",
+        "dreamzcmms.com",
+        "oxmaint.com",
+        "logicerp.com",
+        "barcodeindia.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time inventory management for multi location",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "mrpeasy.com",
+        "netstock.com",
+        "priority-software.com",
+        "inventory-planner.com",
+        "kladana.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }

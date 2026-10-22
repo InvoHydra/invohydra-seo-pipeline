@@ -1,32 +1,26 @@
 {
   "clusters": [
     {
-      "hub_topic": "HRMS Payroll and GST Invoicing Integration Guides",
+      "hub_topic": "Real-time Inventory Management & Synchronization",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "Our platform supports HRMS and HRMS payroll modules (hrms, hrms_payroll) combined with full GST compliance features (gst_compliance, gst_invoice_generation, auto_gst_calculation, gstin_auto_fetch, invoice_validation, smart_gst_billing). This enables users to connect payroll data to GST‑ready invoices, export data, and follow best‑practice checklists directly within InvoHydra.",
+      "product_fit_rationale": "InvoHydra supports inventory_management, inventory_synchronization, stock_alerts, real_time_sync, and real_time_business_dashboard. These capabilities enable real-time inventory tracking, multi-channel sync, low‑stock alerts, and visibility across locations, directly matching the search intent of users looking for benefits, setup guides, best practices, and case studies.",
       "keywords": [
-        "integrate hrms payroll with gst invoicing india",
-        "how to connect payroll software to gst billing system",
-        "best practices for hrms and gst invoicing integration",
-        "hrms payroll integration checklist for gst compliance",
-        "steps to automate gst invoicing from payroll data",
-        "faq on hrms payroll gst invoicing integration india",
-        "seamless hrms payroll and gst invoice sync for small business",
-        "cloud hrms payroll integration with gst billing software"
-      ]
-    },
-    {
-      "hub_topic": "HRMS Payroll Automation for GST Compliance",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra offers automated recurring invoicing (recurring_invoice_profiles, automated_recurring_invoices), automated tax calculations (automated_tax_calculations, automatic_tax_calculations), bulk CSV upload for payroll data export, and GST‑specific validation (gst_invoice_generation, gstin_auto_fetch, invoice_validation). These capabilities let SMEs automate GST‑compliant billing directly from payroll systems.",
-      "keywords": [
-        "recurring billing with hrms payroll and gst compliance",
-        "gst invoicing automation using payroll management system",
-        "gst compliant payroll and invoicing solution for smes",
-        "how to validate gstin in payroll generated invoices",
-        "hrms payroll data export for gst invoice generation"
+        "real time inventory synchronization benefits",
+        "how to set up real time inventory alerts",
+        "real time stock alerts for retail",
+        "multi channel inventory synchronization guide",
+        "real time inventory management best practices",
+        "reduce stockouts with real time inventory",
+        "real time inventory tracking for ecommerce",
+        "inventory synchronization across sales channels",
+        "real time inventory visibility and reporting",
+        "real time inventory management software features",
+        "real time inventory forecasting using data",
+        "real time inventory alerts for low stock",
+        "real time inventory management case study",
+        "real time inventory integration with rfid",
+        "real time inventory management for multi location"
       ]
     }
   ],
