@@ -1,26 +1,34 @@
 {
   "clusters": [
     {
-      "hub_topic": "Real-time Inventory Management & Synchronization",
+      "hub_topic": "GST billing software selection & comparison",
+      "demand": "High",
+      "intent": "Transactional",
+      "product_fit_rationale": "InvoHydra offers full GST invoice generation, smart GST billing, customizable invoice templates, multi‑currency billing, detailed reports & analytics, and pricing/feature transparency, matching users seeking to compare, evaluate pricing, and choose a compliant billing solution.",
+      "keywords": [
+        "best gst billing software india 2026",
+        "gst billing software for retail shops guide",
+        "gst billing software features comparison",
+        "gst billing software pricing features benefits",
+        "how to choose gst billing software checklist",
+        "gst invoicing software small business growth"
+      ]
+    },
+    {
+      "hub_topic": "GST discount management and automation",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra supports inventory_management, inventory_synchronization, stock_alerts, real_time_sync, and real_time_business_dashboard. These capabilities enable real-time inventory tracking, multi-channel sync, low‑stock alerts, and visibility across locations, directly matching the search intent of users looking for benefits, setup guides, best practices, and case studies.",
+      "product_fit_rationale": "InvoHydra supports GST discount management, automated tax calculations, discount rule setup, validation reporting, analytics dashboards, and smart invoicing automation, enabling businesses to implement and monitor discount strategies within a compliant GST framework.",
       "keywords": [
-        "real time inventory synchronization benefits",
-        "how to set up real time inventory alerts",
-        "real time stock alerts for retail",
-        "multi channel inventory synchronization guide",
-        "real time inventory management best practices",
-        "reduce stockouts with real time inventory",
-        "real time inventory tracking for ecommerce",
-        "inventory synchronization across sales channels",
-        "real time inventory visibility and reporting",
-        "real time inventory management software features",
-        "real time inventory forecasting using data",
-        "real time inventory alerts for low stock",
-        "real time inventory management case study",
-        "real time inventory integration with rfid",
-        "real time inventory management for multi location"
+        "advanced gst discount management strategies",
+        "smart invoicing platform discount automation",
+        "gst invoice discounting for liquidity",
+        "gst discount management best practices",
+        "gst invoice discount analytics dashboard",
+        "gst invoice discount validation reporting",
+        "automated gst discount calculations billing software",
+        "gst compliant invoicing with discount handling",
+        "set up gst discount rules invoicing software"
       ]
     }
   ],

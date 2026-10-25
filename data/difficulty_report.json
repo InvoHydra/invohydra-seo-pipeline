@@ -1,273 +1,295 @@
 {
   "surviving_keywords": [
-    "real time inventory synchronization benefits",
-    "how to set up real time inventory alerts",
-    "real time stock alerts for retail",
-    "multi channel inventory synchronization guide",
-    "real time inventory management best practices",
-    "reduce stockouts with real time inventory",
-    "real time inventory tracking for ecommerce",
-    "inventory synchronization across sales channels",
-    "real time inventory visibility and reporting",
-    "real time inventory management software features",
-    "real time inventory forecasting using data",
-    "real time inventory alerts for low stock",
-    "real time inventory management case study",
-    "real time inventory integration with rfid",
-    "real time inventory management for multi location"
+    "best gst billing software india 2026",
+    "advanced gst discount management strategies",
+    "smart invoicing platform discount automation",
+    "gst invoice discounting for liquidity",
+    "gst discount management best practices",
+    "gst billing software for retail shops guide",
+    "gst billing software features comparison",
+    "gst invoice discount analytics dashboard",
+    "gst billing software pricing features benefits",
+    "how to choose gst billing software checklist",
+    "gst invoice discount validation reporting",
+    "automated gst discount calculations billing software",
+    "gst compliant invoicing with discount handling",
+    "set up gst discount rules invoicing software",
+    "gst invoicing software small business growth"
   ],
   "passed": [
-    "real time inventory synchronization benefits",
-    "how to set up real time inventory alerts",
-    "real time stock alerts for retail",
-    "multi channel inventory synchronization guide",
-    "real time inventory management best practices",
-    "reduce stockouts with real time inventory",
-    "real time inventory tracking for ecommerce",
-    "inventory synchronization across sales channels",
-    "real time inventory visibility and reporting",
-    "real time inventory management software features",
-    "real time inventory forecasting using data",
-    "real time inventory alerts for low stock",
-    "real time inventory management case study",
-    "real time inventory integration with rfid",
-    "real time inventory management for multi location"
+    "best gst billing software india 2026",
+    "advanced gst discount management strategies",
+    "smart invoicing platform discount automation",
+    "gst invoice discounting for liquidity",
+    "gst discount management best practices",
+    "gst billing software for retail shops guide",
+    "gst billing software features comparison",
+    "gst invoice discount analytics dashboard",
+    "gst billing software pricing features benefits",
+    "how to choose gst billing software checklist",
+    "gst invoice discount validation reporting"
   ],
-  "maybe": [],
+  "maybe": [
+    "automated gst discount calculations billing software",
+    "gst compliant invoicing with discount handling",
+    "set up gst discount rules invoicing software",
+    "gst invoicing software small business growth"
+  ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "real time inventory synchronization benefits",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "anchanto.com",
-        "unicommerce.com",
-        "linkedin.com",
-        "skuplugs.com",
-        "dominickm.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to set up real time inventory alerts",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "clappia.com",
-        "help.talech.com",
-        "barcloud.com",
-        "wolfesystems.com.au",
-        "erpsoftwareblog.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time stock alerts for retail",
+      "keyword": "best gst billing software india 2026",
       "verdict": "PASS",
       "score": 1,
       "tier1_hits": [],
       "tier2_hits": [
-        "moneycontrol.com"
+        "profitbooks.net"
       ],
       "top_5_domains": [
-        "apps.apple.com",
-        "stockalarm.io",
-        "play.google.com",
-        "reddit.com",
-        "market-pulse.in"
+        "gogstbill.com",
+        "profitbooks.net",
+        "billingsoftwareindia.in",
+        "ledgerx.biz",
+        "chapter1.finance"
       ],
       "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "multi channel inventory synchronization guide",
+      "keyword": "advanced gst discount management strategies",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "zoho.com"
+        "tallysolutions.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "xorosoft.com",
-        "skunexus.com",
-        "cin7.com",
-        "zoho.com",
-        "gofrugal.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "real time inventory management best practices",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "baserow.io",
-        "linkedin.com",
-        "netsuite.com",
-        "optiproerp.com",
-        "throughput.world"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "reduce stockouts with real time inventory",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "researchgate.net",
-        "mitti.com",
-        "shiptify.com",
-        "jrtcse.com",
-        "sranalytics.io"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time inventory tracking for ecommerce",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "shipbob.com",
-        "netsuite.com",
-        "o2vend.com",
-        "unicommerce.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "inventory synchronization across sales channels",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gofrugal.com",
-        "api2cart.com",
-        "cin7.com",
-        "aroopaapps.com",
-        "kistechnology.org"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time inventory visibility and reporting",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "netsuite.com",
-        "tcs.com",
-        "hyperbots.com",
-        "learn.microsoft.com",
+        "tallysolutions.com",
+        "gsthero.com",
+        "shriramfinance.in",
+        "in.knavcpa.com",
         "linkedin.com"
       ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "smart invoicing platform discount automation",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "rossum.ai",
+        "youtube.com",
+        "chargebee.com",
+        "v7labs.com",
+        "psohub.com"
+      ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real time inventory management software features",
+      "keyword": "gst invoice discounting for liquidity",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "zoho.com"
+        "tallysolutions.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "zoho.com",
-        "rfgen.com",
-        "youtube.com",
-        "unicommerce.com",
-        "matiyas.com"
+        "kredx.com",
+        "clear.in",
+        "credlix.com",
+        "tallysolutions.com",
+        "finagg.in"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "real time inventory forecasting using data",
+      "keyword": "automated gst discount calculations billing software",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "billingsoftwareindia.in",
+        "invoicefree.in",
+        "khatabilling.com",
+        "optechsoft.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "gst compliant invoicing with discount handling",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "sleekbill.in",
+        "invoicera.com",
+        "tallysolutions.com",
+        "razorpay.com",
+        "einvoice6.gst.gov.in"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
+    },
+    {
+      "keyword": "set up gst discount rules invoicing software",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "refrens.com",
+        "tutorial.gst.gov.in",
+        "zoho.com",
+        "accountune.com"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "gst discount management best practices",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "conversight.ai",
-        "rbmsoft.com",
-        "netstock.com",
-        "lowrysolutions.com",
-        "simon-kucher.com"
+        "raaas.com",
+        "gstlawyers.in",
+        "gsthero.com",
+        "cbic-gst.gov.in",
+        "cashflo.io"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real time inventory alerts for low stock",
+      "keyword": "gst billing software for retail shops guide",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "starapps.io",
-        "cin7.com",
-        "genie.io",
-        "sumtracker.com",
-        "apps.shopify.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time inventory management case study",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "jobaajlearnings.com",
-        "anylogic.com",
-        "linkedin.com",
-        "mdpi.com",
-        "slideshare.net"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time inventory integration with rfid",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "preprints.org",
-        "dreamzcmms.com",
-        "oxmaint.com",
+        "mybillbook.in",
+        "retailwhizz.com",
+        "accountune.com",
         "logicerp.com",
-        "barcodeindia.com"
+        "marksoftware.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real time inventory management for multi location",
+      "keyword": "gst invoicing software small business growth",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "mybillbook.in",
+        "zoho.com",
+        "invoicefree.in",
+        "profitbooks.net",
+        "khatabilling.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "gst billing software features comparison",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "profitbooks.net",
+        "udyogbill.com",
+        "elitemindz.co",
+        "gogstbill.com",
+        "raseedapp.com"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "gst invoice discount analytics dashboard",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "mrpeasy.com",
-        "netstock.com",
-        "priority-software.com",
-        "inventory-planner.com",
-        "kladana.com"
+        "business.amazon.in",
+        "invohydra.com",
+        "fireai.in",
+        "instagram.com",
+        "nacin.gov.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst billing software pricing features benefits",
+      "verdict": "PASS",
+      "score": 2,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com",
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "gogstbill.com",
+        "logicerp.com",
+        "elitemindz.co",
+        "indiafilings.com",
+        "ledgerx.biz"
+      ],
+      "reason": "Low authority presence (score=2). Winnable with quality content."
+    },
+    {
+      "keyword": "how to choose gst billing software checklist",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "pos.nammabilling.com",
+        "retailwhizz.com",
+        "elitemindz.co",
+        "ordrio.com",
+        "tutorial.gst.gov.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst invoice discount validation reporting",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gstcouncil.gov.in",
+        "gimbooks.com",
+        "mybillbook.in",
+        "cbic-gst.gov.in",
+        "ginesys.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     }
   ]
 }
