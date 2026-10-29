@@ -1,36 +1,56 @@
 {
   "clusters": [
     {
-      "hub_topic": "GST billing software selection & comparison",
+      "hub_topic": "AI-powered CRM for GST Billing",
       "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra offers full GST invoice generation, smart GST billing, customizable invoice templates, multi‑currency billing, detailed reports & analytics, and pricing/feature transparency, matching users seeking to compare, evaluate pricing, and choose a compliant billing solution.",
+      "product_fit_rationale": "Our AI-native CRM (ai_native_crm, ai_assistant) combined with real-time GST compliance features (auto_gst_calculation, gstin_auto_fetch, automatic_tax_calculations) enables businesses to manage clients and generate GST‑compliant invoices instantly.",
       "keywords": [
-        "best gst billing software india 2026",
-        "gst billing software for retail shops guide",
-        "gst billing software features comparison",
-        "gst billing software pricing features benefits",
-        "how to choose gst billing software checklist",
-        "gst invoicing software small business growth"
+        "ai crm gst billing real time validation india b2b",
+        "ai crm automates invoicing gst indian msmes"
       ]
     },
     {
-      "hub_topic": "GST discount management and automation",
+      "hub_topic": "Automated GST-compliant Invoicing",
       "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "InvoHydra supports GST discount management, automated tax calculations, discount rule setup, validation reporting, analytics dashboards, and smart invoicing automation, enabling businesses to implement and monitor discount strategies within a compliant GST framework.",
+      "intent": "Transactional",
+      "product_fit_rationale": "Features such as automated_recurring_invoices, smart_invoice_management, irn_automation, qr_code_generation, and automated_tax_calculations let users create, send and track GST‑compliant invoices at scale.",
       "keywords": [
-        "advanced gst discount management strategies",
-        "smart invoicing platform discount automation",
-        "gst invoice discounting for liquidity",
-        "gst discount management best practices",
-        "gst invoice discount analytics dashboard",
-        "gst invoice discount validation reporting",
-        "automated gst discount calculations billing software",
-        "gst compliant invoicing with discount handling",
-        "set up gst discount rules invoicing software"
+        "invoice automation gst compliance at scale",
+        "gst invoicing automation save time with ai",
+        "automated gst compliant invoice creation instant irn qr code",
+        "gst billing software invoicing gst compliance",
+        "automate gst invoices at scale improve itc reconciliation",
+        "automate gst billing retail shops"
+      ]
+    },
+    {
+      "hub_topic": "GSTIN Validation and Tax Rate Checks",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "gstin_auto_fetch and automatic_tax_calculations provide real‑time GSTIN verification, duplicate detection via advanced_filters, and accurate tax rate application.",
+      "keywords": [
+        "gstin validation duplicate detection tax rate checks",
+        "e invoice registration gstin otp verification steps"
+      ]
+    },
+    {
+      "hub_topic": "E-way Bill and E-invoicing Generation",
+      "demand": "High",
+      "intent": "Transactional",
+      "product_fit_rationale": "e_way_bill_generation and e_invoicing_generation together with irn_automation and qr_code_generation allow seamless creation of e‑invoices and e‑way bills directly from the platform.",
+      "keywords": [
+        "how billing software automatically generates e way bills",
+        "gst billing software e way bill integration automatic generation",
+        "best e invoicing software gst compliance india",
+        "how to generate gst compliant e invoices"
       ]
     }
   ],
-  "rejected_keywords": []
+  "rejected_keywords": [
+    {
+      "original": "best gst automation software return filing",
+      "reason": "Feature 'return filing' is not supported in our product capability map."
+    }
+  ]
 }
