@@ -105,5 +105,9 @@
   "hrms": true,
   "hrms_payroll": true,
   "delivery_challan": true,
-  "stock_alerts": true
+  "stock_alerts": true,
+  "attendance_management": true,
+  "recruitment_management": true,
+  "performance_management": true,
+  "business_intelligence": true
 }
