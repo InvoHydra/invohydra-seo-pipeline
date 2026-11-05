@@ -1,210 +1,323 @@
 {
   "surviving_keywords": [
-    "ai crm gst billing real time validation india b2b",
-    "invoice automation gst compliance at scale",
-    "how billing software automatically generates e way bills",
-    "gstin validation duplicate detection tax rate checks",
-    "gst billing software e way bill integration automatic generation",
-    "e invoice registration gstin otp verification steps",
-    "automate gst invoices at scale improve itc reconciliation",
-    "ai crm automates invoicing gst indian msmes",
-    "best gst automation software return filing",
-    "automate gst billing retail shops",
-    "gst invoicing automation save time with ai",
-    "automated gst compliant invoice creation instant irn qr code",
-    "gst billing software invoicing gst compliance",
-    "best e invoicing software gst compliance india",
-    "how to generate gst compliant e invoices"
+    "whatsapp invoice sharing small business india",
+    "how to share invoices via whatsapp instantly",
+    "whatsapp invoice generator free pdf",
+    "whatsapp invoicing guide indian msmes 2026",
+    "automate invoice sending whatsapp faster payments",
+    "share gst invoice on whatsapp get paid faster",
+    "complete guide whatsapp invoice sharing india 2026",
+    "instant invoice sharing whatsapp workflow fast payments",
+    "automated whatsapp invoicing collect upi payments gst compliance",
+    "whatsapp invoice pdf delivery payment links",
+    "whatsapp payment reminders invoice sharing",
+    "share invoice links whatsapp reduce manual file sharing",
+    "whatsapp invoice sharing sms integration",
+    "step by step whatsapp invoice sharing tutorial",
+    "automate whatsapp invoice sending add payment link",
+    "whatsapp instant pdf invoice download",
+    "whatsapp e-invoice sending for msmes",
+    "billing software send invoices via whatsapp",
+    "send invoices on whatsapp instantly",
+    "whatsapp invoice sharing software faster billing"
   ],
   "passed": [
-    "ai crm gst billing real time validation india b2b",
-    "invoice automation gst compliance at scale",
-    "how billing software automatically generates e way bills",
-    "gstin validation duplicate detection tax rate checks",
-    "gst billing software e way bill integration automatic generation",
-    "e invoice registration gstin otp verification steps",
-    "automate gst invoices at scale improve itc reconciliation",
-    "ai crm automates invoicing gst indian msmes",
-    "best gst automation software return filing",
-    "automate gst billing retail shops",
-    "gst invoicing automation save time with ai",
-    "automated gst compliant invoice creation instant irn qr code"
+    "whatsapp invoice sharing small business india",
+    "how to share invoices via whatsapp instantly",
+    "whatsapp invoice generator free pdf",
+    "whatsapp invoicing guide indian msmes 2026",
+    "automate invoice sending whatsapp faster payments",
+    "share gst invoice on whatsapp get paid faster",
+    "complete guide whatsapp invoice sharing india 2026",
+    "instant invoice sharing whatsapp workflow fast payments",
+    "automated whatsapp invoicing collect upi payments gst compliance",
+    "whatsapp invoice pdf delivery payment links",
+    "whatsapp payment reminders invoice sharing",
+    "share invoice links whatsapp reduce manual file sharing",
+    "whatsapp invoice sharing sms integration",
+    "step by step whatsapp invoice sharing tutorial",
+    "automate whatsapp invoice sending add payment link",
+    "whatsapp instant pdf invoice download",
+    "whatsapp e-invoice sending for msmes"
   ],
   "maybe": [
-    "gst billing software invoicing gst compliance",
-    "best e invoicing software gst compliance india",
-    "how to generate gst compliant e invoices"
+    "billing software send invoices via whatsapp",
+    "send invoices on whatsapp instantly",
+    "whatsapp invoice sharing software faster billing"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "ai crm gst billing real time validation india b2b",
+      "keyword": "whatsapp invoice sharing small business india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "erpgroup.in",
+        "reddit.com",
+        "reddit.com",
+        "busy.in",
+        "invoice-maker.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "how to share invoices via whatsapp instantly",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zoho.com",
+        "gimbooks.com",
+        "bonrix.co.in",
+        "zoko.io",
+        "getswipe.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "whatsapp invoice generator free pdf",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "whautomate.com",
+        "canva.com",
+        "create.onlineinvoices.com",
+        "invoice-maker.in",
+        "invoicehome.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "billing software send invoices via whatsapp",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "khatabuddy.ai",
+        "zoho.com",
+        "billfree.in",
+        "gimbooks.com",
+        "tallysolutions.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
+    },
+    {
+      "keyword": "whatsapp invoicing guide indian msmes 2026",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "erpgroup.in",
+        "facebook.com",
+        "bknexoratech.in",
+        "wa.expert"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automate invoice sending whatsapp faster payments",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "getgabs.com",
+        "whautomate.com",
+        "justbilling.in",
+        "zoko.io",
+        "facebook.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "send invoices on whatsapp instantly",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zoho.com",
+        "zoko.io",
+        "youtube.com",
+        "bonrix.co.in",
+        "gimbooks.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
+    },
+    {
+      "keyword": "whatsapp invoice sharing software faster billing",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "zoho.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "khatabuddy.ai",
+        "znicrm.com",
+        "busy.in",
+        "zoho.com",
+        "getswipe.in"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
+    },
+    {
+      "keyword": "share gst invoice on whatsapp get paid faster",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
-      "top_5_domains": [
-        "invohydra.com",
-        "vasy.ai",
-        "optechsoft.com",
-        "facebook.com",
-        "erpgroup.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst billing software invoicing gst compliance",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
       "top_5_domains": [
         "gimbooks.com",
-        "tutorial.gst.gov.in",
-        "gogstbill.com",
-        "gstn.org.in",
-        "profitbooks.net"
+        "accountune.com",
+        "khatabilling.com",
+        "erpgroup.in",
+        "sharkinvoice.com"
       ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "best e invoicing software gst compliance india",
-      "verdict": "MAYBE",
-      "score": 4,
+      "keyword": "complete guide whatsapp invoice sharing india 2026",
+      "verdict": "PASS",
+      "score": 3,
       "tier1_hits": [
         "tallysolutions.com"
       ],
-      "tier2_hits": [
-        "profitbooks.net"
+      "tier2_hits": [],
+      "top_5_domains": [
+        "erpgroup.in",
+        "tallysolutions.com",
+        "apnainvoice.com",
+        "udyogbook.in",
+        "busy.in"
       ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "instant invoice sharing whatsapp workflow fast payments",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "instagram.com",
+        "getgabs.com",
+        "getswipe.in",
+        "instagram.com",
+        "erpgroup.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automated whatsapp invoicing collect upi payments gst compliance",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "erpgroup.in",
+        "tallysolutions.com",
+        "facebook.com",
+        "khatabilling.com",
+        "wa.expert"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "whatsapp invoice pdf delivery payment links",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "getswipe.in",
+        "help.tallysolutions.com",
+        "paynivo.in",
+        "getgabs.com",
+        "techtrio.net"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "whatsapp payment reminders invoice sharing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "pickyassist.com",
+        "aisensy.com",
+        "finfloh.com",
+        "mybillbook.in",
+        "pabbly.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "share invoice links whatsapp reduce manual file sharing",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
       "top_5_domains": [
         "busy.in",
-        "tallysolutions.com",
-        "vasy.ai",
-        "mastergst.com",
-        "pactsoft.in"
+        "getswipe.in",
+        "erpgroup.in",
+        "gimbooks.com",
+        "vyaparapp.in"
       ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "how to generate gst compliant e invoices",
-      "verdict": "MAYBE",
-      "score": 4,
+      "keyword": "whatsapp invoice sharing sms integration",
+      "verdict": "PASS",
+      "score": 3,
       "tier1_hits": [
         "tallysolutions.com"
       ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
+      "tier2_hits": [],
       "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "tutorial.gst.gov.in",
+        "zoko.io",
+        "tallysolutions.com",
+        "erpgroup.in",
         "youtube.com",
-        "logicerp.com",
-        "bajajfinserv.in"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "invoice automation gst compliance at scale",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cygnet.one",
-        "khatabilling.com",
-        "hyperbots.com",
-        "pazy.io",
-        "tallysolutions.com"
+        "vyaparapp.in"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "how billing software automatically generates e way bills",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gogstbill.com",
-        "logicerp.com",
-        "webtel.in",
-        "invoicera.com",
-        "mastergst.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gstin validation duplicate detection tax rate checks",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "cleartax.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cleartax.in",
-        "services.gst.gov.in",
-        "taxone.vyapar.com",
-        "my.gstzen.in",
-        "ledgers.cloud"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gst billing software e way bill integration automatic generation",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "mybillbook.in",
-        "webtel.in",
-        "logicerp.com",
-        "mastergst.com",
-        "binarysemantics.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e invoice registration gstin otp verification steps",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "einvoice1.gst.gov.in",
-        "mybillbook.in",
-        "einvoice1.gst.gov.in",
-        "binarysemantics.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "automate gst invoices at scale improve itc reconciliation",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cygnet.one",
-        "linkedin.com",
-        "taxilla.com",
-        "coraa.ai",
-        "entries.ai"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "ai crm automates invoicing gst indian msmes",
+      "keyword": "step by step whatsapp invoice sharing tutorial",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -212,77 +325,60 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "invohydra.com",
-        "linkedin.com",
-        "groweon.com",
+        "getbilling.co",
+        "facebook.com",
+        "erpgroup.in",
+        "gimbooks.com",
+        "vinimay.sharda.co.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automate whatsapp invoice sending add payment link",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "getgabs.com",
+        "developers.facebook.com",
+        "gallabox.com",
+        "youtube.com",
+        "gammal.tech"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "whatsapp instant pdf invoice download",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "vyaparapp.in",
+        "bonrix.co.in",
+        "invoice-maker.in",
+        "gimbooks.com",
+        "zoko.io"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "whatsapp e-invoice sending for msmes",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
         "tallysolutions.com",
-        "finifi.io"
+        "zoko.io",
+        "getswipe.in",
+        "peakflo.co",
+        "facebook.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "best gst automation software return filing",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "cleartax.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "computaxonline.com",
-        "gstzen.in",
-        "cleartax.in",
-        "sepfust.com",
-        "blog.saginfotech.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "automate gst billing retail shops",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "retailwhizz.com",
-        "hisabkitab.co",
-        "khatabilling.com",
-        "wacto.in",
-        "raseedapp.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst invoicing automation save time with ai",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "ubikon.in",
-        "instagram.com",
-        "optechsoft.com",
-        "aiworkflowindia.com",
-        "zerotoai.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "automated gst compliant invoice creation instant irn qr code",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "goeffortless.ai",
-        "bizmitra.io",
-        "invoicefree.in",
-        "ubikon.in",
-        "cbic-gst.gov.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
   ]
 }

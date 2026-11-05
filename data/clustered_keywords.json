@@ -1,56 +1,49 @@
 {
   "clusters": [
     {
-      "hub_topic": "AI-powered CRM for GST Billing",
+      "hub_topic": "WhatsApp invoice sharing guides & basics",
       "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Our AI-native CRM (ai_native_crm, ai_assistant) combined with real-time GST compliance features (auto_gst_calculation, gstin_auto_fetch, automatic_tax_calculations) enables businesses to manage clients and generate GST‑compliant invoices instantly.",
-      "keywords": [
-        "ai crm gst billing real time validation india b2b",
-        "ai crm automates invoicing gst indian msmes"
-      ]
-    },
-    {
-      "hub_topic": "Automated GST-compliant Invoicing",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Features such as automated_recurring_invoices, smart_invoice_management, irn_automation, qr_code_generation, and automated_tax_calculations let users create, send and track GST‑compliant invoices at scale.",
-      "keywords": [
-        "invoice automation gst compliance at scale",
-        "gst invoicing automation save time with ai",
-        "automated gst compliant invoice creation instant irn qr code",
-        "gst billing software invoicing gst compliance",
-        "automate gst invoices at scale improve itc reconciliation",
-        "automate gst billing retail shops"
-      ]
-    },
-    {
-      "hub_topic": "GSTIN Validation and Tax Rate Checks",
-      "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "gstin_auto_fetch and automatic_tax_calculations provide real‑time GSTIN verification, duplicate detection via advanced_filters, and accurate tax rate application.",
+      "product_fit_rationale": "InvoHydra enables instant WhatsApp sharing, branded templates and multi‑device access, allowing users to quickly learn and adopt WhatsApp invoice distribution for small businesses and MSMEs.",
       "keywords": [
-        "gstin validation duplicate detection tax rate checks",
-        "e invoice registration gstin otp verification steps"
+        "whatsapp invoice sharing small business india",
+        "how to share invoices via whatsapp instantly",
+        "whatsapp invoicing guide indian msmes 2026",
+        "complete guide whatsapp invoice sharing india 2026",
+        "instant invoice sharing whatsapp workflow fast payments",
+        "whatsapp invoice sharing sms integration",
+        "step by step whatsapp invoice sharing tutorial"
       ]
     },
     {
-      "hub_topic": "E-way Bill and E-invoicing Generation",
+      "hub_topic": "Automated WhatsApp invoicing & payment link integration",
       "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "e_way_bill_generation and e_invoicing_generation together with irn_automation and qr_code_generation allow seamless creation of e‑invoices and e‑way bills directly from the platform.",
+      "product_fit_rationale": "The platform offers automated invoice dispatch, payment‑link sharing, GST compliance checks, UPI collection, and automated payment reminders—all fully integrated with WhatsApp sharing.",
       "keywords": [
-        "how billing software automatically generates e way bills",
-        "gst billing software e way bill integration automatic generation",
-        "best e invoicing software gst compliance india",
-        "how to generate gst compliant e invoices"
+        "automate invoice sending whatsapp faster payments",
+        "automated whatsapp invoicing collect upi payments gst compliance",
+        "whatsapp payment reminders invoice sharing",
+        "share invoice links whatsapp reduce manual file sharing",
+        "automate whatsapp invoice sending add payment link",
+        "billing software send invoices via whatsapp",
+        "send invoices on whatsapp instantly",
+        "whatsapp invoice sharing software faster billing"
+      ]
+    },
+    {
+      "hub_topic": "Instant PDF/E‑Invoice delivery via WhatsApp",
+      "demand": "Medium",
+      "intent": "Transactional",
+      "product_fit_rationale": "InvoHydra provides e‑invoicing generation, GST invoice creation, instant PDF download and direct payment‑link embedding, all of which can be shared instantly through WhatsApp.",
+      "keywords": [
+        "whatsapp invoice generator free pdf",
+        "share gst invoice on whatsapp get paid faster",
+        "whatsapp invoice pdf delivery payment links",
+        "whatsapp instant pdf invoice download",
+        "whatsapp e-invoice sending for msmes"
       ]
     }
   ],
-  "rejected_keywords": [
-    {
-      "original": "best gst automation software return filing",
-      "reason": "Feature 'return filing' is not supported in our product capability map."
-    }
-  ]
+  "rejected_keywords": []
 }
