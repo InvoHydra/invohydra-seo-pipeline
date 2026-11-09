@@ -1,47 +1,53 @@
 {
   "clusters": [
     {
-      "hub_topic": "WhatsApp invoice sharing guides & basics",
+      "hub_topic": "Secure Session & Access Control for Invoicing",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "Supported by active_session_control, data_security_and_encryption, and client_management features which provide role‑based access, session timeout controls and secure data handling for invoicing platforms.",
+      "keywords": [
+        "active session control for invoicing india",
+        "how to enable role based access invoicing",
+        "guide to active session control in billing systems",
+        "secure session management for gst billing",
+        "guide to multi user invoicing software india"
+      ]
+    },
+    {
+      "hub_topic": "Multi-Device Access & Collaboration",
+      "demand": "High",
+      "intent": "Transactional",
+      "product_fit_rationale": "Enabled by multi_device_access, real_time_sync, mobile_app_access and cloud_backup, allowing users to create, edit and approve invoices from any device while keeping data synchronized instantly.",
+      "keywords": [
+        "how to set up multi device invoicing access",
+        "benefits of multi device invoicing for smes",
+        "multi device access invoicing software india"
+      ]
+    },
+    {
+      "hub_topic": "GST e-Invoicing Implementation & Compliance",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra enables instant WhatsApp sharing, branded templates and multi‑device access, allowing users to quickly learn and adopt WhatsApp invoice distribution for small businesses and MSMEs.",
+      "product_fit_rationale": "Covered by e_invoicing_generation, gst_invoice_generation, gst_compliance, automatic_tax_calculations, irn_automation and one_click_gstr_reports, which together automate IRN creation, tax calculation and GSTR‑1 filing for Indian businesses.",
       "keywords": [
-        "whatsapp invoice sharing small business india",
-        "how to share invoices via whatsapp instantly",
-        "whatsapp invoicing guide indian msmes 2026",
-        "complete guide whatsapp invoice sharing india 2026",
-        "instant invoice sharing whatsapp workflow fast payments",
-        "whatsapp invoice sharing sms integration",
-        "step by step whatsapp invoice sharing tutorial"
+        "gst e-invoicing implementation challenges smes",
+        "best practices for gst compliant invoicing india",
+        "implementing e-invoicing for indian small business",
+        "e-invoicing impact on tax compliance smes",
+        "gst e-invoicing security mechanisms token generation",
+        "e-invoicing compliance checklist for indian smes",
+        "steps to configure gst e-invoicing feature"
       ]
     },
     {
-      "hub_topic": "Automated WhatsApp invoicing & payment link integration",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "The platform offers automated invoice dispatch, payment‑link sharing, GST compliance checks, UPI collection, and automated payment reminders—all fully integrated with WhatsApp sharing.",
-      "keywords": [
-        "automate invoice sending whatsapp faster payments",
-        "automated whatsapp invoicing collect upi payments gst compliance",
-        "whatsapp payment reminders invoice sharing",
-        "share invoice links whatsapp reduce manual file sharing",
-        "automate whatsapp invoice sending add payment link",
-        "billing software send invoices via whatsapp",
-        "send invoices on whatsapp instantly",
-        "whatsapp invoice sharing software faster billing"
-      ]
-    },
-    {
-      "hub_topic": "Instant PDF/E‑Invoice delivery via WhatsApp",
+      "hub_topic": "Secure & Offline Invoicing Solutions",
       "demand": "Medium",
       "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra provides e‑invoicing generation, GST invoice creation, instant PDF download and direct payment‑link embedding, all of which can be shared instantly through WhatsApp.",
+      "product_fit_rationale": "Supported by data_security_and_encryption, secure_data_storage, cloud_backup and gst_compliance, providing encrypted offline‑ready invoicing, secure workflow controls and compliance‑ready export formats.",
       "keywords": [
-        "whatsapp invoice generator free pdf",
-        "share gst invoice on whatsapp get paid faster",
-        "whatsapp invoice pdf delivery payment links",
-        "whatsapp instant pdf invoice download",
-        "whatsapp e-invoice sending for msmes"
+        "secure invoicing workflow for indian smes",
+        "offline invoicing software gst compliance india",
+        "how to choose secure invoicing software india"
       ]
     }
   ],
