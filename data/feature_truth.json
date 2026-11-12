@@ -109,5 +109,6 @@
   "attendance_management": true,
   "recruitment_management": true,
   "performance_management": true,
-  "business_intelligence": true
+  "business_intelligence": true,
+  "smart_invoice_reports": true
 }
