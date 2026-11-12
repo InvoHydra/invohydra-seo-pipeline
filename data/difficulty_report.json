@@ -1,50 +1,65 @@
 {
   "surviving_keywords": [
-    "active session control for invoicing india",
-    "gst e-invoicing implementation challenges smes",
-    "how to enable role based access invoicing",
-    "best practices for gst compliant invoicing india",
-    "implementing e-invoicing for indian small business",
-    "e-invoicing impact on tax compliance smes",
-    "how to set up multi device invoicing access",
-    "gst e-invoicing security mechanisms token generation",
-    "benefits of multi device invoicing for smes",
-    "guide to active session control in billing systems",
-    "e-invoicing compliance checklist for indian smes",
-    "multi device access invoicing software india",
-    "secure invoicing workflow for indian smes",
-    "guide to multi user invoicing software india",
-    "secure session management for gst billing",
-    "offline invoicing software gst compliance india",
-    "steps to configure gst e-invoicing feature",
-    "how to choose secure invoicing software india"
+    "dynamic pricing software for manufacturers india",
+    "tiered pricing and volume discounts invoicing software",
+    "how to set up dynamic pricing in billing software",
+    "product variant pricing management in invoicing",
+    "real time price adjustment invoicing for msme",
+    "managing product variants in gst invoicing software",
+    "best practices for dynamic pricing in manufacturing invoices",
+    "step by step guide tiered pricing billing india",
+    "dynamic pricing algorithms for indian manufacturers",
+    "real time pricing updates in gst billing system",
+    "how to configure volume discounts in invoicing software",
+    "dynamic pricing and gst compliance for small manufacturers",
+    "pricing rules automation in invoicing platform india",
+    "managing multiple price lists in gst invoicing",
+    "dynamic pricing use cases for manufacturing invoices",
+    "setting up product bundles and pricing in billing software",
+    "gst compliant dynamic pricing invoicing solution",
+    "invoicing software with product variant support india"
   ],
   "passed": [
-    "active session control for invoicing india",
-    "gst e-invoicing implementation challenges smes",
-    "how to enable role based access invoicing",
-    "best practices for gst compliant invoicing india",
-    "implementing e-invoicing for indian small business",
-    "e-invoicing impact on tax compliance smes",
-    "how to set up multi device invoicing access",
-    "gst e-invoicing security mechanisms token generation",
-    "benefits of multi device invoicing for smes",
-    "guide to active session control in billing systems",
-    "e-invoicing compliance checklist for indian smes"
+    "dynamic pricing software for manufacturers india",
+    "tiered pricing and volume discounts invoicing software",
+    "how to set up dynamic pricing in billing software",
+    "product variant pricing management in invoicing",
+    "real time price adjustment invoicing for msme",
+    "managing product variants in gst invoicing software",
+    "best practices for dynamic pricing in manufacturing invoices",
+    "step by step guide tiered pricing billing india",
+    "dynamic pricing algorithms for indian manufacturers",
+    "real time pricing updates in gst billing system",
+    "how to configure volume discounts in invoicing software",
+    "dynamic pricing and gst compliance for small manufacturers",
+    "pricing rules automation in invoicing platform india",
+    "managing multiple price lists in gst invoicing",
+    "dynamic pricing use cases for manufacturing invoices",
+    "setting up product bundles and pricing in billing software"
   ],
   "maybe": [
-    "multi device access invoicing software india",
-    "secure invoicing workflow for indian smes",
-    "guide to multi user invoicing software india",
-    "secure session management for gst billing",
-    "offline invoicing software gst compliance india",
-    "steps to configure gst e-invoicing feature",
-    "how to choose secure invoicing software india"
+    "gst compliant dynamic pricing invoicing solution",
+    "invoicing software with product variant support india"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "active session control for invoicing india",
+      "keyword": "dynamic pricing software for manufacturers india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "yieldigo.com",
+        "revenueanalytics.com",
+        "hypersonix.ai",
+        "technologycounter.com",
+        "priceshape.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "tiered pricing and volume discounts invoicing software",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -52,34 +67,65 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
+        "chargebee.com",
         "tallysolutions.com",
-        "elitebilling.in",
-        "thomsonreuters.in",
-        "salesforce.com",
-        "avalara.com"
+        "billingplatform.com",
+        "flexprice.io",
+        "openmeter.io"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "multi device access invoicing software india",
-      "verdict": "MAYBE",
-      "score": 6,
+      "keyword": "how to set up dynamic pricing in billing software",
+      "verdict": "PASS",
+      "score": 3,
       "tier1_hits": [
-        "zoho.com",
         "tallysolutions.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "zoho.com",
-        "outputbooks.com",
-        "mybillbook.in",
-        "themunim.com",
-        "elitebilling.in"
+        "billingplatform.com",
+        "tallysolutions.com",
+        "salesforce.com",
+        "getlago.com",
+        "paddle.com"
       ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: zoho.com, tallysolutions.com. Winnable with strong content."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "secure invoicing workflow for indian smes",
+      "keyword": "product variant pricing management in invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "apps.odoo.com",
+        "chargebee.com",
+        "hyperbots.com",
+        "invoiceoffice.com",
+        "apps.shopify.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time price adjustment invoicing for msme",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "pib.gov.in",
+        "invoicemart.com",
+        "zoho.com",
+        "gsthero.com",
+        "dealhub.io"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "gst compliant dynamic pricing invoicing solution",
       "verdict": "MAYBE",
       "score": 4,
       "tier1_hits": [
@@ -89,31 +135,16 @@
         "profitbooks.net"
       ],
       "top_5_domains": [
-        "pazy.io",
+        "refrens.com",
         "tallysolutions.com",
-        "smaket.ai",
-        "hellobooks.ai",
-        "profitbooks.net"
+        "base.com",
+        "profitbooks.net",
+        "innoventrysoftware.com"
       ],
       "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
     },
     {
-      "keyword": "gst e-invoicing implementation challenges smes",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tijer.org",
-        "grantthornton.in",
-        "linkedin.com",
-        "researchgate.net",
-        "corpzo.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to enable role based access invoicing",
+      "keyword": "managing product variants in gst invoicing software",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -121,237 +152,192 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "hyperbots.com",
+        "busy.in",
+        "saniiro.com",
+        "ledgerx.biz",
         "tallysolutions.com",
-        "oloid.com",
-        "ledgers.cloud",
+        "vasy.ai"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "best practices for dynamic pricing in manufacturing invoices",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "paddle.com",
+        "flexprice.io",
+        "latentview.com",
+        "markt-pilot.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "step by step guide tiered pricing billing india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "billingplatform.com",
+        "kinde.com",
+        "flexprice.io",
+        "chargebee.com",
+        "mypos.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "dynamic pricing algorithms for indian manufacturers",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "griddynamics.com",
+        "indiacorplaw.in",
+        "ijltemas.in",
+        "flipkartcommercecloud.com",
+        "en.wikipedia.org"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "invoicing software with product variant support india",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "zoho.com",
+        "sleekbill.in",
+        "hyperdrivesolutions.com",
+        "refrens.com",
+        "linkedin.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "real time pricing updates in gst billing system",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "gst.gov.in"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "khatabilling.com",
+        "refrens.com",
+        "optechsoft.com",
+        "retailwhizz.com",
+        "gstpad.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "how to configure volume discounts in invoicing software",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "flexprice.io",
+        "thomsonreuters.com",
+        "chargebee.com",
+        "webinone.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "dynamic pricing and gst compliance for small manufacturers",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "zenodo.org",
+        "cashflo.io",
+        "tallysolutions.com",
+        "tijer.org",
+        "gst.karnataka.gov.in"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "pricing rules automation in invoicing platform india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "billingplatform.com",
+        "flexprice.io",
+        "ignitionapp.com",
+        "pazy.io"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "managing multiple price lists in gst invoicing",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "youtube.com",
+        "gogstbill.com",
+        "scribd.com",
+        "blog.petpooja.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "dynamic pricing use cases for manufacturing invoices",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "salesforce.com",
+        "markt-pilot.com",
+        "latentview.com",
+        "billingplatform.com",
+        "simon-kucher.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "setting up product bundles and pricing in billing software",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "docs.work365apps.com",
+        "docs.zuora.com",
+        "salesforce.com",
+        "base.com",
         "learn.microsoft.com"
       ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "best practices for gst compliant invoicing india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cbic-gst.gov.in",
-        "invoicera.com",
-        "dmifinance.in",
-        "sovos.com",
-        "systecherp.com"
-      ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "guide to multi user invoicing software india",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "outputbooks.com",
-        "gimbooks.com",
-        "zoho.com",
-        "getfieldy.com",
-        "logicerp.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "implementing e-invoicing for indian small business",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "cygnetirp.in",
-        "storecove.com",
-        "avalara.com",
-        "tallysolutions.com",
-        "snitechnology.net"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "secure session management for gst billing",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "freelancer.in",
-        "profitbooks.net",
-        "tallysolutions.com",
-        "github.com",
-        "erpgroup.in"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "offline invoicing software gst compliance india",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "billingsoftwareindia.in",
-        "sleekbill.in",
-        "zoho.com",
-        "invoiso.co.in",
-        "profitbooks.net"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "e-invoicing impact on tax compliance smes",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "dl.acm.org",
-        "researchgate.net",
-        "iprojectmaster.com",
-        "marketingjournal.net",
-        "cleartax.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to set up multi device invoicing access",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "elitebilling.in",
-        "youtube.com",
-        "outputbooks.com",
-        "vyaparapp.in",
-        "invoiceocean.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst e-invoicing security mechanisms token generation",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "community.sap.com",
-        "developer.sandbox.co.in",
-        "gsthero.com",
-        "carajput.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "steps to configure gst e-invoicing feature",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "tutorial.gst.gov.in",
-        "help.tallysolutions.com",
-        "logicerp.com",
-        "einvoice1.gst.gov.in"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "benefits of multi device invoicing for smes",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "truecommerce.com",
-        "binarysemantics.com",
-        "tallysolutions.com",
-        "salesforce.com",
-        "ec.europa.eu"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to choose secure invoicing software india",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "forbes.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "profitbooks.net",
-        "blog.symtrax.com",
-        "logicerp.com",
-        "nextbill.io"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: tallysolutions.com, forbes.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "guide to active session control in billing systems",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "elitebilling.in",
-        "clerk.com",
-        "docs.cloudblue.com",
-        "hyperbots.com",
-        "getstream.io"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "e-invoicing compliance checklist for indian smes",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "systecherp.com",
-        "storecove.com",
-        "aassurecomply.com",
-        "innoventrysoftware.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
     }
   ]
 }

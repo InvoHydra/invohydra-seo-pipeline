@@ -1,53 +1,45 @@
 {
   "clusters": [
     {
-      "hub_topic": "Secure Session & Access Control for Invoicing",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Supported by active_session_control, data_security_and_encryption, and client_management features which provide role‑based access, session timeout controls and secure data handling for invoicing platforms.",
-      "keywords": [
-        "active session control for invoicing india",
-        "how to enable role based access invoicing",
-        "guide to active session control in billing systems",
-        "secure session management for gst billing",
-        "guide to multi user invoicing software india"
-      ]
-    },
-    {
-      "hub_topic": "Multi-Device Access & Collaboration",
+      "hub_topic": "Dynamic Pricing & Flexible Discount Management",
       "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "Enabled by multi_device_access, real_time_sync, mobile_app_access and cloud_backup, allowing users to create, edit and approve invoices from any device while keeping data synchronized instantly.",
+      "product_fit_rationale": "InvoHydra supports flexible_discount_models, product_pricing_management, and automated_tax_calculations, enabling tiered pricing, volume discounts, real‑time price adjustments, and rule‑based pricing automation—all essential for dynamic pricing use cases.",
       "keywords": [
-        "how to set up multi device invoicing access",
-        "benefits of multi device invoicing for smes",
-        "multi device access invoicing software india"
+        "dynamic pricing software for manufacturers india",
+        "tiered pricing and volume discounts invoicing software",
+        "how to set up dynamic pricing in billing software",
+        "real time price adjustment invoicing for msme",
+        "best practices for dynamic pricing in manufacturing invoices",
+        "step by step guide tiered pricing billing india",
+        "dynamic pricing algorithms for indian manufacturers",
+        "how to configure volume discounts in invoicing software",
+        "pricing rules automation in invoicing platform india",
+        "dynamic pricing use cases for manufacturing invoices"
       ]
     },
     {
-      "hub_topic": "GST e-Invoicing Implementation & Compliance",
+      "hub_topic": "Product Variant and Bundle Pricing Management",
       "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "Covered by e_invoicing_generation, gst_invoice_generation, gst_compliance, automatic_tax_calculations, irn_automation and one_click_gstr_reports, which together automate IRN creation, tax calculation and GSTR‑1 filing for Indian businesses.",
+      "intent": "Transactional",
+      "product_fit_rationale": "Features like product_variant_management, product_pricing_management, and product_and_pricing_management let users create and price product variants, bundles, and multiple price lists directly within invoices, matching the needs expressed in these keywords.",
       "keywords": [
-        "gst e-invoicing implementation challenges smes",
-        "best practices for gst compliant invoicing india",
-        "implementing e-invoicing for indian small business",
-        "e-invoicing impact on tax compliance smes",
-        "gst e-invoicing security mechanisms token generation",
-        "e-invoicing compliance checklist for indian smes",
-        "steps to configure gst e-invoicing feature"
+        "product variant pricing management in invoicing",
+        "managing product variants in gst invoicing software",
+        "setting up product bundles and pricing in billing software",
+        "invoicing software with product variant support india"
       ]
     },
     {
-      "hub_topic": "Secure & Offline Invoicing Solutions",
-      "demand": "Medium",
+      "hub_topic": "GST‑Compliant Pricing Solutions",
+      "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "Supported by data_security_and_encryption, secure_data_storage, cloud_backup and gst_compliance, providing encrypted offline‑ready invoicing, secure workflow controls and compliance‑ready export formats.",
+      "product_fit_rationale": "InvoHydra provides gst_compliance, gst_invoice_generation, gst_requirement_management, and flexible_discount_models, ensuring that dynamic pricing, price‑list updates, and variant pricing remain fully GST‑compliant for Indian manufacturers.",
       "keywords": [
-        "secure invoicing workflow for indian smes",
-        "offline invoicing software gst compliance india",
-        "how to choose secure invoicing software india"
+        "real time pricing updates in gst billing system",
+        "dynamic pricing and gst compliance for small manufacturers",
+        "managing multiple price lists in gst invoicing",
+        "gst compliant dynamic pricing invoicing solution"
       ]
     }
   ],
