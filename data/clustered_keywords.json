@@ -1,45 +1,42 @@
 {
   "clusters": [
     {
-      "hub_topic": "Dynamic Pricing & Flexible Discount Management",
+      "hub_topic": "Delivery Challan & GST Compliance",
       "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra supports flexible_discount_models, product_pricing_management, and automated_tax_calculations, enabling tiered pricing, volume discounts, real‑time price adjustments, and rule‑based pricing automation—all essential for dynamic pricing use cases.",
+      "intent": "Informational",
+      "product_fit_rationale": "InvoHydra supports delivery challan creation, GST rule guidance, and automatic linking to invoices and e‑way bills via our delivery_challan, gst_compliance, and e_way_bill_generation features, enabling users to comply with Indian tax regulations seamlessly.",
       "keywords": [
-        "dynamic pricing software for manufacturers india",
-        "tiered pricing and volume discounts invoicing software",
-        "how to set up dynamic pricing in billing software",
-        "real time price adjustment invoicing for msme",
-        "best practices for dynamic pricing in manufacturing invoices",
-        "step by step guide tiered pricing billing india",
-        "dynamic pricing algorithms for indian manufacturers",
-        "how to configure volume discounts in invoicing software",
-        "pricing rules automation in invoicing platform india",
-        "dynamic pricing use cases for manufacturing invoices"
+        "how to link delivery challan invoice e-way bill",
+        "delivery challan under gst types and rules",
+        "proper delivery challan practices for gst compliance",
+        "delivery challan format benefits logistics",
+        "simplify goods dispatch with delivery challan feature",
+        "delivery challan to invoice conversion guide",
+        "link delivery challan invoice e-way bill checklist"
       ]
     },
     {
-      "hub_topic": "Product Variant and Bundle Pricing Management",
+      "hub_topic": "E‑Invoicing & E‑Way Bill Automation",
       "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Features like product_variant_management, product_pricing_management, and product_and_pricing_management let users create and price product variants, bundles, and multiple price lists directly within invoices, matching the needs expressed in these keywords.",
+      "intent": "Informational",
+      "product_fit_rationale": "Our platform offers e_invoicing_generation, e_way_bill_generation, irp_integration and api_access, allowing businesses to automate IRP validation, integrate e‑invoicing APIs, and ensure accurate GST reporting.",
       "keywords": [
-        "product variant pricing management in invoicing",
-        "managing product variants in gst invoicing software",
-        "setting up product bundles and pricing in billing software",
-        "invoicing software with product variant support india"
+        "demystifying e-invoice and e-waybill india",
+        "automate e-invoicing under gst irp validation",
+        "e-way bills made simple gst compliance guide",
+        "e-invoicing api integration streamline billing process",
+        "e-invoice e-waybill impact on gst accuracy",
+        "e-way bill rules process validity penalties 2026"
       ]
     },
     {
-      "hub_topic": "GST‑Compliant Pricing Solutions",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "InvoHydra provides gst_compliance, gst_invoice_generation, gst_requirement_management, and flexible_discount_models, ensuring that dynamic pricing, price‑list updates, and variant pricing remain fully GST‑compliant for Indian manufacturers.",
+      "hub_topic": "E‑Invoicing Platform Comparison",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "InvoHydra’s multi‑currency billing, automated tax calculations, and robust API access position it as a competitive multi‑country e‑invoicing solution, matching searchers looking for platform comparisons.",
       "keywords": [
-        "real time pricing updates in gst billing system",
-        "dynamic pricing and gst compliance for small manufacturers",
-        "managing multiple price lists in gst invoicing",
-        "gst compliant dynamic pricing invoicing solution"
+        "choosing multi-country e-invoicing provider",
+        "best e-invoicing platforms 2026 comparison"
       ]
     }
   ],

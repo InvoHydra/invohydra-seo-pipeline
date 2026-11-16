@@ -1,114 +1,44 @@
 {
   "surviving_keywords": [
-    "dynamic pricing software for manufacturers india",
-    "tiered pricing and volume discounts invoicing software",
-    "how to set up dynamic pricing in billing software",
-    "product variant pricing management in invoicing",
-    "real time price adjustment invoicing for msme",
-    "managing product variants in gst invoicing software",
-    "best practices for dynamic pricing in manufacturing invoices",
-    "step by step guide tiered pricing billing india",
-    "dynamic pricing algorithms for indian manufacturers",
-    "real time pricing updates in gst billing system",
-    "how to configure volume discounts in invoicing software",
-    "dynamic pricing and gst compliance for small manufacturers",
-    "pricing rules automation in invoicing platform india",
-    "managing multiple price lists in gst invoicing",
-    "dynamic pricing use cases for manufacturing invoices",
-    "setting up product bundles and pricing in billing software",
-    "gst compliant dynamic pricing invoicing solution",
-    "invoicing software with product variant support india"
+    "how to link delivery challan invoice e-way bill",
+    "delivery challan under gst types and rules",
+    "demystifying e-invoice and e-waybill india",
+    "automate e-invoicing under gst irp validation",
+    "e-way bills made simple gst compliance guide",
+    "link delivery challan invoice e-way bill checklist",
+    "e-invoicing api integration streamline billing process",
+    "proper delivery challan practices for gst compliance",
+    "e-invoice e-waybill impact on gst accuracy",
+    "choosing multi-country e-invoicing provider",
+    "best e-invoicing platforms 2026 comparison",
+    "delivery challan to invoice conversion guide",
+    "e-way bill rules process validity penalties 2026",
+    "delivery challan format benefits logistics",
+    "simplify goods dispatch with delivery challan feature"
   ],
   "passed": [
-    "dynamic pricing software for manufacturers india",
-    "tiered pricing and volume discounts invoicing software",
-    "how to set up dynamic pricing in billing software",
-    "product variant pricing management in invoicing",
-    "real time price adjustment invoicing for msme",
-    "managing product variants in gst invoicing software",
-    "best practices for dynamic pricing in manufacturing invoices",
-    "step by step guide tiered pricing billing india",
-    "dynamic pricing algorithms for indian manufacturers",
-    "real time pricing updates in gst billing system",
-    "how to configure volume discounts in invoicing software",
-    "dynamic pricing and gst compliance for small manufacturers",
-    "pricing rules automation in invoicing platform india",
-    "managing multiple price lists in gst invoicing",
-    "dynamic pricing use cases for manufacturing invoices",
-    "setting up product bundles and pricing in billing software"
+    "how to link delivery challan invoice e-way bill",
+    "delivery challan under gst types and rules",
+    "demystifying e-invoice and e-waybill india",
+    "automate e-invoicing under gst irp validation",
+    "e-way bills made simple gst compliance guide",
+    "link delivery challan invoice e-way bill checklist",
+    "e-invoicing api integration streamline billing process",
+    "proper delivery challan practices for gst compliance",
+    "e-invoice e-waybill impact on gst accuracy",
+    "choosing multi-country e-invoicing provider",
+    "best e-invoicing platforms 2026 comparison"
   ],
   "maybe": [
-    "gst compliant dynamic pricing invoicing solution",
-    "invoicing software with product variant support india"
+    "delivery challan to invoice conversion guide",
+    "e-way bill rules process validity penalties 2026",
+    "delivery challan format benefits logistics",
+    "simplify goods dispatch with delivery challan feature"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "dynamic pricing software for manufacturers india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "yieldigo.com",
-        "revenueanalytics.com",
-        "hypersonix.ai",
-        "technologycounter.com",
-        "priceshape.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "tiered pricing and volume discounts invoicing software",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "chargebee.com",
-        "tallysolutions.com",
-        "billingplatform.com",
-        "flexprice.io",
-        "openmeter.io"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to set up dynamic pricing in billing software",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "billingplatform.com",
-        "tallysolutions.com",
-        "salesforce.com",
-        "getlago.com",
-        "paddle.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "product variant pricing management in invoicing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "apps.odoo.com",
-        "chargebee.com",
-        "hyperbots.com",
-        "invoiceoffice.com",
-        "apps.shopify.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time price adjustment invoicing for msme",
+      "keyword": "how to link delivery challan invoice e-way bill",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -116,226 +46,245 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "pib.gov.in",
-        "invoicemart.com",
-        "zoho.com",
-        "gsthero.com",
-        "dealhub.io"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gst compliant dynamic pricing invoicing solution",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "refrens.com",
-        "tallysolutions.com",
-        "base.com",
-        "profitbooks.net",
-        "innoventrysoftware.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "managing product variants in gst invoicing software",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "busy.in",
-        "saniiro.com",
-        "ledgerx.biz",
-        "tallysolutions.com",
-        "vasy.ai"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "best practices for dynamic pricing in manufacturing invoices",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "paddle.com",
-        "flexprice.io",
-        "latentview.com",
-        "markt-pilot.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "step by step guide tiered pricing billing india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "billingplatform.com",
-        "kinde.com",
-        "flexprice.io",
-        "chargebee.com",
-        "mypos.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "dynamic pricing algorithms for indian manufacturers",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "griddynamics.com",
-        "indiacorplaw.in",
-        "ijltemas.in",
-        "flipkartcommercecloud.com",
-        "en.wikipedia.org"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "invoicing software with product variant support india",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "profitbooks.net"
-      ],
-      "top_5_domains": [
-        "zoho.com",
-        "sleekbill.in",
-        "hyperdrivesolutions.com",
-        "refrens.com",
-        "linkedin.com"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: profitbooks.net. Winnable with strong content."
-    },
-    {
-      "keyword": "real time pricing updates in gst billing system",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "gst.gov.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "khatabilling.com",
-        "refrens.com",
-        "optechsoft.com",
-        "retailwhizz.com",
-        "gstpad.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to configure volume discounts in invoicing software",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "flexprice.io",
-        "thomsonreuters.com",
-        "chargebee.com",
-        "webinone.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "dynamic pricing and gst compliance for small manufacturers",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zenodo.org",
-        "cashflo.io",
-        "tallysolutions.com",
-        "tijer.org",
-        "gst.karnataka.gov.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "pricing rules automation in invoicing platform india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "salesforce.com",
-        "billingplatform.com",
-        "flexprice.io",
-        "ignitionapp.com",
-        "pazy.io"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "managing multiple price lists in gst invoicing",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
         "youtube.com",
-        "gogstbill.com",
-        "scribd.com",
-        "blog.petpooja.com"
+        "docs.ewaybillgst.gov.in",
+        "gimbooks.com",
+        "themunim.com",
+        "docs.ewaybillgst.gov.in"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "dynamic pricing use cases for manufacturing invoices",
+      "keyword": "delivery challan to invoice conversion guide",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "tallysolutions.com",
+        "gimbooks.com",
+        "zoho.com",
+        "youtube.com",
+        "letstranzact.ai"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
+    },
+    {
+      "keyword": "e-way bill rules process validity penalties 2026",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "bajajfinserv.in"
+      ],
+      "top_5_domains": [
+        "docs.ewaybillgst.gov.in",
+        "juststart.co.in",
+        "tallysolutions.com",
+        "gimbooks.com",
+        "jpassociates.co.in"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
+    },
+    {
+      "keyword": "delivery challan under gst types and rules",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "taxguru.in"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "taxinformation.cbic.gov.in",
+        "refrens.com",
+        "taxguru.in",
+        "letstranzact.ai",
+        "youtube.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "demystifying e-invoice and e-waybill india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "linkedin.com",
+        "avalara.com",
+        "treflo.com",
+        "einvoice1.gst.gov.in",
+        "tallysolutions.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automate e-invoicing under gst irp validation",
+      "verdict": "PASS",
+      "score": 1,
+      "tier1_hits": [],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "einvoice1.gst.gov.in",
+        "symtrax.com",
+        "gsthero.com",
+        "logicerp.com",
+        "einvoice1.gst.gov.in"
+      ],
+      "reason": "Low authority presence (score=1). Winnable with quality content."
+    },
+    {
+      "keyword": "delivery challan format benefits logistics",
+      "verdict": "MAYBE",
+      "score": 4,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [
+        "vakilsearch.com"
+      ],
+      "top_5_domains": [
+        "vyaparapp.in",
+        "open.money",
+        "gimbooks.com",
+        "scribd.com",
+        "vakilsearch.com"
+      ],
+      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: vakilsearch.com. Winnable with strong content."
+    },
+    {
+      "keyword": "e-way bills made simple gst compliance guide",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "docs.ewaybillgst.gov.in",
+        "idtc-icai.s3.ap-southeast-1.amazonaws.com",
+        "webtel.in",
+        "tallysolutions.com",
+        "irismsme.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "link delivery challan invoice e-way bill checklist",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "salesforce.com",
-        "markt-pilot.com",
-        "latentview.com",
-        "billingplatform.com",
-        "simon-kucher.com"
+        "gimbooks.com",
+        "docs.ewaybillgst.gov.in",
+        "busy.in",
+        "themunim.com",
+        "docs.ewaybillgst.gov.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "setting up product bundles and pricing in billing software",
+      "keyword": "e-invoicing api integration streamline billing process",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "docs.work365apps.com",
-        "docs.zuora.com",
-        "salesforce.com",
-        "base.com",
-        "learn.microsoft.com"
+        "gstzen.in",
+        "dddinvoices.com",
+        "symtrax.com",
+        "b2brouter.net",
+        "instagram.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "proper delivery challan practices for gst compliance",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "delhivery.com",
+        "en.wikipedia.org",
+        "sciencedirect.com",
+        "deliveryhero.com",
+        "fda.gov"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "simplify goods dispatch with delivery challan feature",
+      "verdict": "MAYBE",
+      "score": 6,
+      "tier1_hits": [
+        "tallysolutions.com",
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "ledgers.cloud",
+        "sleekbill.in",
+        "taxinformation.cbic.gov.in",
+        "themunim.com",
+        "oneshellsolutions.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
+    },
+    {
+      "keyword": "e-invoice e-waybill impact on gst accuracy",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gstzen.in",
+        "gsthero.com",
+        "einvoice1.gst.gov.in",
+        "binarysemantics.com",
+        "tijer.org"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "choosing multi-country e-invoicing provider",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "melasoft.com",
+        "dddinvoices.com",
+        "comarch.com",
+        "cleartax.com",
+        "ecosio.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "best e-invoicing platforms 2026 comparison",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gartner.com",
+        "cleartax.com",
+        "dddinvoices.com",
+        "halsimplify.com",
+        "vatit.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }
