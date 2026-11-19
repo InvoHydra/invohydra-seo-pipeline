@@ -1,132 +1,54 @@
 {
   "surviving_keywords": [
-    "how to link delivery challan invoice e-way bill",
-    "delivery challan under gst types and rules",
-    "demystifying e-invoice and e-waybill india",
-    "automate e-invoicing under gst irp validation",
-    "e-way bills made simple gst compliance guide",
-    "link delivery challan invoice e-way bill checklist",
-    "e-invoicing api integration streamline billing process",
-    "proper delivery challan practices for gst compliance",
-    "e-invoice e-waybill impact on gst accuracy",
-    "choosing multi-country e-invoicing provider",
-    "best e-invoicing platforms 2026 comparison",
-    "delivery challan to invoice conversion guide",
-    "e-way bill rules process validity penalties 2026",
-    "delivery challan format benefits logistics",
-    "simplify goods dispatch with delivery challan feature"
+    "integrate payroll with gst invoicing india",
+    "hrms payroll integration with expense management india",
+    "employee expense management with gst billing software",
+    "how to connect payroll hrms to invoicing system",
+    "gst compliant expense tracking and payroll integration",
+    "api integration payroll hrms gst invoicing",
+    "best practices for payroll and expense integration india",
+    "automate employee expense approvals with gst invoicing",
+    "seamless payroll expense workflow with invoicing software",
+    "cloud hrms payroll expense integration guide india",
+    "employee travel expense integration with gst billing",
+    "ai receipt parsing for expense and gst invoicing",
+    "how to set up payroll expense integration india",
+    "compliance checklist for payroll expense gst invoicing",
+    "reduce duplicate data entry payroll hrms invoicing",
+    "end to end expense process with payroll gst billing",
+    "integrate hrms attendance with gst invoice generation",
+    "employee salary details flow to gst invoice engine",
+    "gstin validation for payroll expense invoices india",
+    "upi payout integration with gst invoicing"
   ],
   "passed": [
-    "how to link delivery challan invoice e-way bill",
-    "delivery challan under gst types and rules",
-    "demystifying e-invoice and e-waybill india",
-    "automate e-invoicing under gst irp validation",
-    "e-way bills made simple gst compliance guide",
-    "link delivery challan invoice e-way bill checklist",
-    "e-invoicing api integration streamline billing process",
-    "proper delivery challan practices for gst compliance",
-    "e-invoice e-waybill impact on gst accuracy",
-    "choosing multi-country e-invoicing provider",
-    "best e-invoicing platforms 2026 comparison"
+    "integrate payroll with gst invoicing india",
+    "hrms payroll integration with expense management india",
+    "employee expense management with gst billing software",
+    "how to connect payroll hrms to invoicing system",
+    "gst compliant expense tracking and payroll integration",
+    "api integration payroll hrms gst invoicing",
+    "best practices for payroll and expense integration india",
+    "automate employee expense approvals with gst invoicing",
+    "seamless payroll expense workflow with invoicing software",
+    "cloud hrms payroll expense integration guide india",
+    "employee travel expense integration with gst billing",
+    "ai receipt parsing for expense and gst invoicing",
+    "how to set up payroll expense integration india",
+    "compliance checklist for payroll expense gst invoicing",
+    "reduce duplicate data entry payroll hrms invoicing",
+    "end to end expense process with payroll gst billing",
+    "integrate hrms attendance with gst invoice generation",
+    "employee salary details flow to gst invoice engine"
   ],
   "maybe": [
-    "delivery challan to invoice conversion guide",
-    "e-way bill rules process validity penalties 2026",
-    "delivery challan format benefits logistics",
-    "simplify goods dispatch with delivery challan feature"
+    "gstin validation for payroll expense invoices india",
+    "upi payout integration with gst invoicing"
   ],
   "failed": [],
   "full_report": [
     {
-      "keyword": "how to link delivery challan invoice e-way bill",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "youtube.com",
-        "docs.ewaybillgst.gov.in",
-        "gimbooks.com",
-        "themunim.com",
-        "docs.ewaybillgst.gov.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "delivery challan to invoice conversion guide",
-      "verdict": "MAYBE",
-      "score": 6,
-      "tier1_hits": [
-        "tallysolutions.com",
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "gimbooks.com",
-        "zoho.com",
-        "youtube.com",
-        "letstranzact.ai"
-      ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
-    },
-    {
-      "keyword": "e-way bill rules process validity penalties 2026",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "bajajfinserv.in"
-      ],
-      "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "juststart.co.in",
-        "tallysolutions.com",
-        "gimbooks.com",
-        "jpassociates.co.in"
-      ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: bajajfinserv.in. Winnable with strong content."
-    },
-    {
-      "keyword": "delivery challan under gst types and rules",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "taxguru.in"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "taxinformation.cbic.gov.in",
-        "refrens.com",
-        "taxguru.in",
-        "letstranzact.ai",
-        "youtube.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "demystifying e-invoice and e-waybill india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "linkedin.com",
-        "avalara.com",
-        "treflo.com",
-        "einvoice1.gst.gov.in",
-        "tallysolutions.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "automate e-invoicing under gst irp validation",
+      "keyword": "integrate payroll with gst invoicing india",
       "verdict": "PASS",
       "score": 1,
       "tier1_hits": [],
@@ -134,115 +56,271 @@
         "indiafilings.com"
       ],
       "top_5_domains": [
-        "einvoice1.gst.gov.in",
-        "symtrax.com",
-        "gsthero.com",
-        "logicerp.com",
-        "einvoice1.gst.gov.in"
+        "invohydra.com",
+        "razorpay.com",
+        "indiafilings.com",
+        "pactsoft.in",
+        "accosis.com"
       ],
       "reason": "Low authority presence (score=1). Winnable with quality content."
     },
     {
-      "keyword": "delivery challan format benefits logistics",
-      "verdict": "MAYBE",
-      "score": 4,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [
-        "vakilsearch.com"
-      ],
+      "keyword": "hrms payroll integration with expense management india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
       "top_5_domains": [
-        "vyaparapp.in",
-        "open.money",
-        "gimbooks.com",
-        "scribd.com",
-        "vakilsearch.com"
+        "hrmantra.com",
+        "hrmssoftwareinindia.com",
+        "asanify.com",
+        "247hrm.com",
+        "hrone.cloud"
       ],
-      "reason": "Moderate competition (score=4). Tier 1 domains present: zoho.com | Tier 2 domains present: vakilsearch.com. Winnable with strong content."
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "e-way bills made simple gst compliance guide",
+      "keyword": "employee expense management with gst billing software",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "gogstbill.com",
+        "elitemindz.co",
+        "cashbook.in",
+        "gartner.com",
+        "easy-gst.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to connect payroll hrms to invoicing system",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "invohydra.com",
+        "webtel.in",
+        "blog.saginfotech.com",
+        "myndsolution.com",
+        "mhcognition.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "gst compliant expense tracking and payroll integration",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
-        "tallysolutions.com"
+        "zoho.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "docs.ewaybillgst.gov.in",
-        "idtc-icai.s3.ap-southeast-1.amazonaws.com",
-        "webtel.in",
-        "tallysolutions.com",
-        "irismsme.com"
+        "elitemindz.co",
+        "asanify.com",
+        "cashbook.in",
+        "keka.com",
+        "tallyvizag.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "link delivery challan invoice e-way bill checklist",
+      "keyword": "api integration payroll hrms gst invoicing",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "gimbooks.com",
-        "docs.ewaybillgst.gov.in",
-        "busy.in",
-        "themunim.com",
-        "docs.ewaybillgst.gov.in"
+        "invohydra.com",
+        "sgcms.com",
+        "einv-apisandbox.nic.in",
+        "tutorial.gst.gov.in",
+        "perione.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "e-invoicing api integration streamline billing process",
+      "keyword": "best practices for payroll and expense integration india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "gstzen.in",
-        "dddinvoices.com",
-        "symtrax.com",
-        "b2brouter.net",
-        "instagram.com"
+        "elitemindz.co",
+        "myndsolution.com",
+        "hrone.cloud",
+        "digisme.in",
+        "uknowva.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "proper delivery challan practices for gst compliance",
+      "keyword": "automate employee expense approvals with gst invoicing",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "delhivery.com",
-        "en.wikipedia.org",
-        "sciencedirect.com",
-        "deliveryhero.com",
-        "fda.gov"
+        "aiaccountant.com",
+        "cashbook.in",
+        "netsuite.com",
+        "blog.approvalmax.com",
+        "happay.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "simplify goods dispatch with delivery challan feature",
+      "keyword": "gstin validation for payroll expense invoices india",
+      "verdict": "MAYBE",
+      "score": 7,
+      "tier1_hits": [
+        "cleartax.in",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "indiafilings.com"
+      ],
+      "top_5_domains": [
+        "cleartax.in",
+        "einvoice1.gst.gov.in",
+        "invohydra.com",
+        "razorpay.com",
+        "tallysolutions.com"
+      ],
+      "reason": "Moderate competition (score=7). Tier 1 domains present: cleartax.in, tallysolutions.com | Tier 2 domains present: indiafilings.com. Winnable with strong content."
+    },
+    {
+      "keyword": "seamless payroll expense workflow with invoicing software",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "invohydra.com",
+        "tallyvizag.com",
+        "payfit.com",
+        "gartner.com",
+        "apps365.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cloud hrms payroll expense integration guide india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "hrmssoftwareinindia.com",
+        "elitemindz.co",
+        "hrmantra.com",
+        "trilliantsoftware.com",
+        "mhcognition.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "employee travel expense integration with gst billing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "travelplusapp.com",
+        "aiaccountant.com",
+        "cashbook.in",
+        "savvyhrms.com",
+        "tax2win.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "upi payout integration with gst invoicing",
       "verdict": "MAYBE",
       "score": 6,
       "tier1_hits": [
-        "tallysolutions.com",
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [
+        "techjockey.com",
+        "techjockey.com",
+        "profitbooks.net"
+      ],
+      "top_5_domains": [
+        "khatabilling.com",
+        "tiontech.in",
+        "zerobillbook.com",
+        "techjockey.com",
+        "techjockey.com"
+      ],
+      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: techjockey.com, techjockey.com, profitbooks.net. Winnable with strong content."
+    },
+    {
+      "keyword": "ai receipt parsing for expense and gst invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "receiptsai.com",
+        "sparkreceipt.com",
+        "reddit.com",
+        "reddit.com",
+        "replit.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to set up payroll expense integration india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
         "zoho.com"
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "ledgers.cloud",
-        "sleekbill.in",
-        "taxinformation.cbic.gov.in",
-        "themunim.com",
-        "oneshellsolutions.com"
+        "learning.sap.com",
+        "hyperbots.com",
+        "myndsolution.com",
+        "zoho.com",
+        "zimyo.com"
       ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com, zoho.com. Winnable with strong content."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "e-invoice e-waybill impact on gst accuracy",
+      "keyword": "compliance checklist for payroll expense gst invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "linkedin.com",
+        "opsmaven.com",
+        "blog.saginfotech.com",
+        "corientbs.com",
+        "sell.amazon.in"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "reduce duplicate data entry payroll hrms invoicing",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "invohydra.com",
+        "instagram.com",
+        "margbooks.com",
+        "weaddo.com",
+        "infithra.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "end to end expense process with payroll gst billing",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -250,41 +328,43 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "gstzen.in",
-        "gsthero.com",
-        "einvoice1.gst.gov.in",
-        "binarysemantics.com",
-        "tijer.org"
+        "elitemindz.co",
+        "aiaccountant.com",
+        "invohydra.com",
+        "cashbook.in",
+        "onefinops.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "choosing multi-country e-invoicing provider",
+      "keyword": "integrate hrms attendance with gst invoice generation",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
       "tier2_hits": [],
       "top_5_domains": [
-        "melasoft.com",
-        "dddinvoices.com",
-        "comarch.com",
-        "cleartax.com",
-        "ecosio.com"
+        "invohydra.com",
+        "skleup.com",
+        "invohydra.com",
+        "triostack.in",
+        "crmforce.in"
       ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "best e-invoicing platforms 2026 comparison",
+      "keyword": "employee salary details flow to gst invoice engine",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "gartner.com",
-        "cleartax.com",
-        "dddinvoices.com",
-        "halsimplify.com",
-        "vatit.com"
+        "invohydra.com",
+        "nextbill.io",
+        "flowwork.ai",
+        "cpulse.io",
+        "vetanflow.suktiai.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }

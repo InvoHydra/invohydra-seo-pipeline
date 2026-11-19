@@ -1,44 +1,68 @@
 {
   "clusters": [
     {
-      "hub_topic": "Delivery Challan & GST Compliance",
+      "hub_topic": "Payroll & GST Invoice Integration",
       "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "InvoHydra supports delivery challan creation, GST rule guidance, and automatic linking to invoices and e‑way bills via our delivery_challan, gst_compliance, and e_way_bill_generation features, enabling users to comply with Indian tax regulations seamlessly.",
+      "intent": "Transactional",
+      "product_fit_rationale": "Leverages hrms_payroll for payroll data, gst_invoice_generation for GST-compliant invoices, gstin_auto_fetch for automatic GSTIN validation, and api_access for seamless system integration.",
       "keywords": [
-        "how to link delivery challan invoice e-way bill",
-        "delivery challan under gst types and rules",
-        "proper delivery challan practices for gst compliance",
-        "delivery challan format benefits logistics",
-        "simplify goods dispatch with delivery challan feature",
-        "delivery challan to invoice conversion guide",
-        "link delivery challan invoice e-way bill checklist"
+        "integrate payroll with gst invoicing india",
+        "how to connect payroll hrms to invoicing system",
+        "api integration payroll hrms gst invoicing",
+        "how to set up payroll expense integration india",
+        "employee salary details flow to gst invoice engine",
+        "gstin validation for payroll expense invoices india"
       ]
     },
     {
-      "hub_topic": "E‑Invoicing & E‑Way Bill Automation",
+      "hub_topic": "Expense Tracking & GST Billing",
       "demand": "High",
-      "intent": "Informational",
-      "product_fit_rationale": "Our platform offers e_invoicing_generation, e_way_bill_generation, irp_integration and api_access, allowing businesses to automate IRP validation, integrate e‑invoicing APIs, and ensure accurate GST reporting.",
+      "intent": "Transactional",
+      "product_fit_rationale": "Utilizes expense_tracking, gst_invoice_generation, automatic_tax_calculations, and gst_compliance to manage employee expenses and generate GST‑compliant bills, with automation features for approvals and workflow.",
       "keywords": [
-        "demystifying e-invoice and e-waybill india",
-        "automate e-invoicing under gst irp validation",
-        "e-way bills made simple gst compliance guide",
-        "e-invoicing api integration streamline billing process",
-        "e-invoice e-waybill impact on gst accuracy",
-        "e-way bill rules process validity penalties 2026"
+        "employee expense management with gst billing software",
+        "gst compliant expense tracking and payroll integration",
+        "automate employee expense approvals with gst invoicing",
+        "seamless payroll expense workflow with invoicing software",
+        "employee travel expense integration with gst billing",
+        "end to end expense process with payroll gst billing"
       ]
     },
     {
-      "hub_topic": "E‑Invoicing Platform Comparison",
+      "hub_topic": "HRMS Attendance & GST Invoice Generation",
+      "demand": "Medium",
+      "intent": "Transactional",
+      "product_fit_rationale": "Combines attendance_management from the HRMS suite with gst_invoice_generation to automatically create invoices based on attendance records, ensuring accurate billing.",
+      "keywords": [
+        "integrate hrms attendance with gst invoice generation"
+      ]
+    },
+    {
+      "hub_topic": "Compliance & Best Practices",
       "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "InvoHydra’s multi‑currency billing, automated tax calculations, and robust API access position it as a competitive multi‑country e‑invoicing solution, matching searchers looking for platform comparisons.",
+      "product_fit_rationale": "Draws on gst_compliance, cloud_backup, api_access, and advanced_filters to provide guidance, checklists, and data‑entry optimization for payroll‑expense‑GST workflows.",
       "keywords": [
-        "choosing multi-country e-invoicing provider",
-        "best e-invoicing platforms 2026 comparison"
+        "best practices for payroll and expense integration india",
+        "compliance checklist for payroll expense gst invoicing",
+        "cloud hrms payroll expense integration guide india",
+        "reduce duplicate data entry payroll hrms invoicing"
+      ]
+    },
+    {
+      "hub_topic": "Receipt Scanning for Expense & GST Invoicing",
+      "demand": "Low",
+      "intent": "Informational",
+      "product_fit_rationale": "Uses barcode_scanning for receipt capture and expense_tracking to feed GST‑compliant invoices, aligning with supported scanning capabilities without AI‑specific processing.",
+      "keywords": [
+        "receipt scanning for expense and gst invoicing"
       ]
     }
   ],
-  "rejected_keywords": []
+  "rejected_keywords": [
+    {
+      "original": "upi payout integration with gst invoicing",
+      "reason": "UPI payout integration is not a supported feature in the product capability map."
+    }
+  ]
 }
