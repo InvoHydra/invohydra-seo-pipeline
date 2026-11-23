@@ -1,279 +1,156 @@
 {
   "surviving_keywords": [
-    "integrate payroll with gst invoicing india",
-    "hrms payroll integration with expense management india",
-    "employee expense management with gst billing software",
-    "how to connect payroll hrms to invoicing system",
-    "gst compliant expense tracking and payroll integration",
-    "api integration payroll hrms gst invoicing",
-    "best practices for payroll and expense integration india",
-    "automate employee expense approvals with gst invoicing",
-    "seamless payroll expense workflow with invoicing software",
-    "cloud hrms payroll expense integration guide india",
-    "employee travel expense integration with gst billing",
-    "ai receipt parsing for expense and gst invoicing",
-    "how to set up payroll expense integration india",
-    "compliance checklist for payroll expense gst invoicing",
-    "reduce duplicate data entry payroll hrms invoicing",
-    "end to end expense process with payroll gst billing",
-    "integrate hrms attendance with gst invoice generation",
-    "employee salary details flow to gst invoice engine",
-    "gstin validation for payroll expense invoices india",
-    "upi payout integration with gst invoicing"
+    "real time inventory monitoring benefits retail",
+    "smart billing solutions for retail inventory",
+    "how stock alerts improve retail efficiency",
+    "real time stock tracking for gst compliance",
+    "inventory management with automated reorder alerts",
+    "smart inventory management system features",
+    "real time inventory visibility reduce stockouts",
+    "barcode based billing and inventory control",
+    "automated procurement and gst invoicing integration",
+    "real time demand forecasting for retail stores",
+    "smart billing system for small business india",
+    "inventory alerts for low stock and expiry",
+    "real time inventory tracking for multi store retail",
+    "gst compliant smart billing and inventory software",
+    "how to set up real time inventory alerts",
+    "benefits of iot enabled inventory management india",
+    "real time inventory updates at point of sale",
+    "smart inventory management best practices retail"
   ],
   "passed": [
-    "integrate payroll with gst invoicing india",
-    "hrms payroll integration with expense management india",
-    "employee expense management with gst billing software",
-    "how to connect payroll hrms to invoicing system",
-    "gst compliant expense tracking and payroll integration",
-    "api integration payroll hrms gst invoicing",
-    "best practices for payroll and expense integration india",
-    "automate employee expense approvals with gst invoicing",
-    "seamless payroll expense workflow with invoicing software",
-    "cloud hrms payroll expense integration guide india",
-    "employee travel expense integration with gst billing",
-    "ai receipt parsing for expense and gst invoicing",
-    "how to set up payroll expense integration india",
-    "compliance checklist for payroll expense gst invoicing",
-    "reduce duplicate data entry payroll hrms invoicing",
-    "end to end expense process with payroll gst billing",
-    "integrate hrms attendance with gst invoice generation",
-    "employee salary details flow to gst invoice engine"
+    "real time inventory monitoring benefits retail",
+    "smart billing solutions for retail inventory",
+    "how stock alerts improve retail efficiency",
+    "real time stock tracking for gst compliance",
+    "inventory management with automated reorder alerts",
+    "smart inventory management system features",
+    "real time inventory visibility reduce stockouts",
+    "barcode based billing and inventory control",
+    "automated procurement and gst invoicing integration",
+    "real time demand forecasting for retail stores",
+    "smart billing system for small business india",
+    "inventory alerts for low stock and expiry",
+    "real time inventory tracking for multi store retail",
+    "gst compliant smart billing and inventory software",
+    "how to set up real time inventory alerts",
+    "benefits of iot enabled inventory management india",
+    "real time inventory updates at point of sale",
+    "smart inventory management best practices retail"
   ],
-  "maybe": [
-    "gstin validation for payroll expense invoices india",
-    "upi payout integration with gst invoicing"
-  ],
+  "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "integrate payroll with gst invoicing india",
-      "verdict": "PASS",
-      "score": 1,
-      "tier1_hits": [],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "invohydra.com",
-        "razorpay.com",
-        "indiafilings.com",
-        "pactsoft.in",
-        "accosis.com"
-      ],
-      "reason": "Low authority presence (score=1). Winnable with quality content."
-    },
-    {
-      "keyword": "hrms payroll integration with expense management india",
+      "keyword": "real time inventory monitoring benefits retail",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "hrmantra.com",
-        "hrmssoftwareinindia.com",
-        "asanify.com",
-        "247hrm.com",
-        "hrone.cloud"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "employee expense management with gst billing software",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "gogstbill.com",
-        "elitemindz.co",
-        "cashbook.in",
-        "gartner.com",
-        "easy-gst.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "how to connect payroll hrms to invoicing system",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "invohydra.com",
-        "webtel.in",
-        "blog.saginfotech.com",
-        "myndsolution.com",
-        "mhcognition.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "gst compliant expense tracking and payroll integration",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "elitemindz.co",
-        "asanify.com",
-        "cashbook.in",
-        "keka.com",
-        "tallyvizag.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "api integration payroll hrms gst invoicing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "invohydra.com",
-        "sgcms.com",
-        "einv-apisandbox.nic.in",
-        "tutorial.gst.gov.in",
-        "perione.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "best practices for payroll and expense integration india",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "elitemindz.co",
-        "myndsolution.com",
-        "hrone.cloud",
-        "digisme.in",
-        "uknowva.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "automate employee expense approvals with gst invoicing",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "aiaccountant.com",
-        "cashbook.in",
+        "onepint.ai",
+        "inventory-planner.com",
         "netsuite.com",
-        "blog.approvalmax.com",
-        "happay.com"
+        "rinf.tech",
+        "omniful.ai"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "gstin validation for payroll expense invoices india",
-      "verdict": "MAYBE",
-      "score": 7,
-      "tier1_hits": [
-        "cleartax.in",
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [
-        "indiafilings.com"
-      ],
-      "top_5_domains": [
-        "cleartax.in",
-        "einvoice1.gst.gov.in",
-        "invohydra.com",
-        "razorpay.com",
-        "tallysolutions.com"
-      ],
-      "reason": "Moderate competition (score=7). Tier 1 domains present: cleartax.in, tallysolutions.com | Tier 2 domains present: indiafilings.com. Winnable with strong content."
-    },
-    {
-      "keyword": "seamless payroll expense workflow with invoicing software",
+      "keyword": "smart billing solutions for retail inventory",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "invohydra.com",
-        "tallyvizag.com",
-        "payfit.com",
-        "gartner.com",
-        "apps365.com"
+        "mybillbook.in",
+        "vasy.ai",
+        "murmusoftwareinfotech.com",
+        "billingfast.com",
+        "tallyatcloud.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "cloud hrms payroll expense integration guide india",
+      "keyword": "how stock alerts improve retail efficiency",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "hrmssoftwareinindia.com",
-        "elitemindz.co",
-        "hrmantra.com",
-        "trilliantsoftware.com",
-        "mhcognition.com"
+        "finaleinventory.com",
+        "cin7.com",
+        "setubridgetech.medium.com",
+        "facebook.com",
+        "ososs.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "employee travel expense integration with gst billing",
+      "keyword": "real time stock tracking for gst compliance",
       "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "travelplusapp.com",
-        "aiaccountant.com",
-        "cashbook.in",
-        "savvyhrms.com",
-        "tax2win.in"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "upi payout integration with gst invoicing",
-      "verdict": "MAYBE",
-      "score": 6,
+      "score": 3,
       "tier1_hits": [
         "tallysolutions.com"
       ],
-      "tier2_hits": [
-        "techjockey.com",
-        "techjockey.com",
-        "profitbooks.net"
-      ],
+      "tier2_hits": [],
       "top_5_domains": [
+        "tallysolutions.com",
+        "base.com",
+        "busy.in",
         "khatabilling.com",
-        "tiontech.in",
-        "zerobillbook.com",
-        "techjockey.com",
-        "techjockey.com"
+        "facebook.com"
       ],
-      "reason": "Moderate competition (score=6). Tier 1 domains present: tallysolutions.com | Tier 2 domains present: techjockey.com, techjockey.com, profitbooks.net. Winnable with strong content."
+      "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "ai receipt parsing for expense and gst invoicing",
+      "keyword": "inventory management with automated reorder alerts",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "receiptsai.com",
-        "sparkreceipt.com",
-        "reddit.com",
-        "reddit.com",
-        "replit.com"
+        "clappia.com",
+        "researchgate.net",
+        "elementlogic.net",
+        "netsuite.com",
+        "youtube.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "how to set up payroll expense integration india",
+      "keyword": "smart inventory management system features",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "smart-inventory-manager.com",
+        "rfgen.com",
+        "netsuite.com",
+        "matiyas.com",
+        "scribd.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time inventory visibility reduce stockouts",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "netsuite.com",
+        "commercetools.com",
+        "b1bwise.com",
+        "y3.sg",
+        "omniful.ai"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "barcode based billing and inventory control",
       "verdict": "PASS",
       "score": 3,
       "tier1_hits": [
@@ -281,90 +158,169 @@
       ],
       "tier2_hits": [],
       "top_5_domains": [
-        "learning.sap.com",
-        "hyperbots.com",
-        "myndsolution.com",
+        "mybillbook.in",
+        "vyaparapp.in",
+        "macotech.in",
+        "technologycounter.com",
+        "businessbookplus.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "automated procurement and gst invoicing integration",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "symtrax.com",
+        "cygnet.one",
+        "tallysolutions.com",
+        "cogniscient.in",
+        "shivit.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "real time demand forecasting for retail stores",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "relexsolutions.com",
+        "repository.rit.edu",
+        "yieldigo.com",
+        "tblocks.com",
+        "straive.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "smart billing system for small business india",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "mybillbook.in",
+        "billingsoftwareindia.in",
+        "salesforce.com",
+        "youtube.com",
+        "zoho.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "inventory alerts for low stock and expiry",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "apps.odoo.com",
+        "n8n.io",
+        "baskit.in",
+        "busy.in",
+        "sumtracker.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "real time inventory tracking for multi store retail",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "zoho.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
         "zoho.com",
-        "zimyo.com"
+        "gofrugal.com",
+        "metaoption.com",
+        "vasy.ai",
+        "outputbooks.com"
       ],
       "reason": "Low authority presence (score=3). Winnable with quality content."
     },
     {
-      "keyword": "compliance checklist for payroll expense gst invoicing",
+      "keyword": "gst compliant smart billing and inventory software",
+      "verdict": "PASS",
+      "score": 3,
+      "tier1_hits": [
+        "tallysolutions.com"
+      ],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "invohydra.com",
+        "scribd.com",
+        "gstsof.com",
+        "slideshare.net",
+        "tallyatcloud.com"
+      ],
+      "reason": "Low authority presence (score=3). Winnable with quality content."
+    },
+    {
+      "keyword": "how to set up real time inventory alerts",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
+        "help.talech.com",
+        "procuzy.com",
         "linkedin.com",
-        "opsmaven.com",
-        "blog.saginfotech.com",
-        "corientbs.com",
-        "sell.amazon.in"
+        "erpsoftwareblog.com",
+        "trackersuite.ai"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "reduce duplicate data entry payroll hrms invoicing",
+      "keyword": "benefits of iot enabled inventory management india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "invohydra.com",
-        "instagram.com",
-        "margbooks.com",
-        "weaddo.com",
-        "infithra.com"
+        "aniche-solutions.com",
+        "letstrack.in",
+        "researchgate.net",
+        "awlindia.com",
+        "effectivesoft.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "end to end expense process with payroll gst billing",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "elitemindz.co",
-        "aiaccountant.com",
-        "invohydra.com",
-        "cashbook.in",
-        "onefinops.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "integrate hrms attendance with gst invoice generation",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "invohydra.com",
-        "skleup.com",
-        "invohydra.com",
-        "triostack.in",
-        "crmforce.in"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "employee salary details flow to gst invoice engine",
+      "keyword": "real time inventory updates at point of sale",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "invohydra.com",
-        "nextbill.io",
-        "flowwork.ai",
-        "cpulse.io",
-        "vetanflow.suktiai.in"
+        "irejournals.com",
+        "irjmets.com",
+        "entries.ai",
+        "researchgate.net",
+        "galaxy.maropost.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "smart inventory management best practices retail",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "finaleinventory.com",
+        "netsuite.com",
+        "impactanalytics.ai",
+        "cin7.com",
+        "oracle.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }

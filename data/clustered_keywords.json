@@ -1,68 +1,87 @@
 {
   "clusters": [
     {
-      "hub_topic": "Payroll & GST Invoice Integration",
+      "hub_topic": "Real-time inventory monitoring & GST compliance",
+      "demand": "High",
+      "intent": "Informational",
+      "product_fit_rationale": "Leverages inventory_management, real_time_sync, stock_alerts, and gst_compliance features to provide live stock visibility, low‑stock alerts and GST‑aligned tracking across multiple stores and POS terminals.",
+      "keywords": [
+        "real time inventory monitoring benefits retail",
+        "real time inventory visibility reduce stockouts",
+        "real time inventory tracking for multi store retail",
+        "real time inventory updates at point of sale",
+        "how to set up real time inventory alerts",
+        "real time stock tracking for gst compliance"
+      ]
+    },
+    {
+      "hub_topic": "Smart billing & inventory integration for retail",
       "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "Leverages hrms_payroll for payroll data, gst_invoice_generation for GST-compliant invoices, gstin_auto_fetch for automatic GSTIN validation, and api_access for seamless system integration.",
+      "product_fit_rationale": "Combines smart_billing_automation, automated_tax_calculations, gst_invoice_generation, gst_compliance and inventory_management to deliver an end‑to‑end billing solution that automatically calculates taxes, generates GST‑compliant invoices and syncs with inventory data.",
       "keywords": [
-        "integrate payroll with gst invoicing india",
-        "how to connect payroll hrms to invoicing system",
-        "api integration payroll hrms gst invoicing",
-        "how to set up payroll expense integration india",
-        "employee salary details flow to gst invoice engine",
-        "gstin validation for payroll expense invoices india"
+        "smart billing solutions for retail inventory",
+        "smart billing system for small business india",
+        "gst compliant smart billing and inventory software"
       ]
     },
     {
-      "hub_topic": "Expense Tracking & GST Billing",
-      "demand": "High",
-      "intent": "Transactional",
-      "product_fit_rationale": "Utilizes expense_tracking, gst_invoice_generation, automatic_tax_calculations, and gst_compliance to manage employee expenses and generate GST‑compliant bills, with automation features for approvals and workflow.",
-      "keywords": [
-        "employee expense management with gst billing software",
-        "gst compliant expense tracking and payroll integration",
-        "automate employee expense approvals with gst invoicing",
-        "seamless payroll expense workflow with invoicing software",
-        "employee travel expense integration with gst billing",
-        "end to end expense process with payroll gst billing"
-      ]
-    },
-    {
-      "hub_topic": "HRMS Attendance & GST Invoice Generation",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "Combines attendance_management from the HRMS suite with gst_invoice_generation to automatically create invoices based on attendance records, ensuring accurate billing.",
-      "keywords": [
-        "integrate hrms attendance with gst invoice generation"
-      ]
-    },
-    {
-      "hub_topic": "Compliance & Best Practices",
+      "hub_topic": "Stock alerts and low‑stock management",
       "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "Draws on gst_compliance, cloud_backup, api_access, and advanced_filters to provide guidance, checklists, and data‑entry optimization for payroll‑expense‑GST workflows.",
+      "product_fit_rationale": "Utilizes stock_alerts and inventory_management to trigger automated reorder/expiry notifications, helping retailers prevent stock‑outs and manage perishable items efficiently.",
       "keywords": [
-        "best practices for payroll and expense integration india",
-        "compliance checklist for payroll expense gst invoicing",
-        "cloud hrms payroll expense integration guide india",
-        "reduce duplicate data entry payroll hrms invoicing"
+        "how stock alerts improve retail efficiency",
+        "inventory alerts for low stock and expiry",
+        "inventory management with automated reorder alerts"
       ]
     },
     {
-      "hub_topic": "Receipt Scanning for Expense & GST Invoicing",
+      "hub_topic": "Barcode‑based billing and inventory control",
+      "demand": "Medium",
+      "intent": "Transactional",
+      "product_fit_rationale": "Employs barcode_scanning, pos_billing and inventory_management to enable fast barcode‑driven sales entry and real‑time inventory deduction at the point of sale.",
+      "keywords": [
+        "barcode based billing and inventory control"
+      ]
+    },
+    {
+      "hub_topic": "Automated procurement & GST invoicing integration",
+      "demand": "Medium",
+      "intent": "Transactional",
+      "product_fit_rationale": "Integrates automated procurement workflows with gst_invoice_generation and automated_tax_calculations, allowing seamless purchase order creation and GST‑compliant invoicing.",
+      "keywords": [
+        "automated procurement and gst invoicing integration"
+      ]
+    },
+    {
+      "hub_topic": "Real‑time demand forecasting for retail stores",
+      "demand": "Medium",
+      "intent": "Informational",
+      "product_fit_rationale": "Leverages smart_insights, reports_and_analytics and real_time_sync to analyze sales trends and forecast inventory needs across locations.",
+      "keywords": [
+        "real time demand forecasting for retail stores"
+      ]
+    },
+    {
+      "hub_topic": "IoT‑enabled inventory management benefits in India",
       "demand": "Low",
       "intent": "Informational",
-      "product_fit_rationale": "Uses barcode_scanning for receipt capture and expense_tracking to feed GST‑compliant invoices, aligning with supported scanning capabilities without AI‑specific processing.",
+      "product_fit_rationale": "Shows how inventory_management combined with real_time_sync and smart_insights can be enhanced by IoT devices for proactive stock monitoring, a capability supported by the platform's real‑time data engine.",
       "keywords": [
-        "receipt scanning for expense and gst invoicing"
+        "benefits of iot enabled inventory management india"
+      ]
+    },
+    {
+      "hub_topic": "Smart inventory management best practices & features",
+      "demand": "Low",
+      "intent": "Informational",
+      "product_fit_rationale": "Highlights inventory_management, smart_insights and reports_and_analytics features such as automated alerts, multi‑store sync and analytics dashboards that help retailers adopt best practices.",
+      "keywords": [
+        "smart inventory management best practices retail",
+        "smart inventory management system features"
       ]
     }
   ],
-  "rejected_keywords": [
-    {
-      "original": "upi payout integration with gst invoicing",
-      "reason": "UPI payout integration is not a supported feature in the product capability map."
-    }
-  ]
+  "rejected_keywords": []
 }
