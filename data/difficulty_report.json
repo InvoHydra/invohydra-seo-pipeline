@@ -1,326 +1,263 @@
 {
   "surviving_keywords": [
-    "real time inventory monitoring benefits retail",
-    "smart billing solutions for retail inventory",
-    "how stock alerts improve retail efficiency",
-    "real time stock tracking for gst compliance",
-    "inventory management with automated reorder alerts",
-    "smart inventory management system features",
-    "real time inventory visibility reduce stockouts",
-    "barcode based billing and inventory control",
-    "automated procurement and gst invoicing integration",
-    "real time demand forecasting for retail stores",
-    "smart billing system for small business india",
-    "inventory alerts for low stock and expiry",
-    "real time inventory tracking for multi store retail",
-    "gst compliant smart billing and inventory software",
-    "how to set up real time inventory alerts",
-    "benefits of iot enabled inventory management india",
-    "real time inventory updates at point of sale",
-    "smart inventory management best practices retail"
+    "how payment links accelerate cash flow for smes",
+    "multi payment acceptance strategies for indian smes",
+    "benefits of multiple payment methods for indian businesses",
+    "improve smes cash flow with b2b payment technology",
+    "payment link usage for international payments india",
+    "cash flow management using digital payment links",
+    "adopting faster payments for indian smes",
+    "strategies to boost smes cash flow with payment links",
+    "guide to multi payment acceptance india 2026",
+    "how to choose payment solution for small business india",
+    "impact of digital payments on smes financial performance",
+    "early payment platforms for indian msmes",
+    "using payment gateways to reduce transaction costs india",
+    "cash flow visibility through payment data integration",
+    "best practices for payment link sharing india"
   ],
   "passed": [
-    "real time inventory monitoring benefits retail",
-    "smart billing solutions for retail inventory",
-    "how stock alerts improve retail efficiency",
-    "real time stock tracking for gst compliance",
-    "inventory management with automated reorder alerts",
-    "smart inventory management system features",
-    "real time inventory visibility reduce stockouts",
-    "barcode based billing and inventory control",
-    "automated procurement and gst invoicing integration",
-    "real time demand forecasting for retail stores",
-    "smart billing system for small business india",
-    "inventory alerts for low stock and expiry",
-    "real time inventory tracking for multi store retail",
-    "gst compliant smart billing and inventory software",
-    "how to set up real time inventory alerts",
-    "benefits of iot enabled inventory management india",
-    "real time inventory updates at point of sale",
-    "smart inventory management best practices retail"
+    "how payment links accelerate cash flow for smes",
+    "multi payment acceptance strategies for indian smes",
+    "benefits of multiple payment methods for indian businesses",
+    "improve smes cash flow with b2b payment technology",
+    "payment link usage for international payments india",
+    "cash flow management using digital payment links",
+    "adopting faster payments for indian smes",
+    "strategies to boost smes cash flow with payment links",
+    "guide to multi payment acceptance india 2026",
+    "how to choose payment solution for small business india",
+    "impact of digital payments on smes financial performance",
+    "early payment platforms for indian msmes",
+    "using payment gateways to reduce transaction costs india",
+    "cash flow visibility through payment data integration",
+    "best practices for payment link sharing india"
   ],
   "maybe": [],
   "failed": [],
   "full_report": [
     {
-      "keyword": "real time inventory monitoring benefits retail",
+      "keyword": "how payment links accelerate cash flow for smes",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "onepint.ai",
-        "inventory-planner.com",
-        "netsuite.com",
-        "rinf.tech",
-        "omniful.ai"
+        "kanzum.com",
+        "north.com",
+        "ecommpay.com",
+        "shuttleglobal.com",
+        "transfermate.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "smart billing solutions for retail inventory",
+      "keyword": "multi payment acceptance strategies for indian smes",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "mybillbook.in",
-        "vasy.ai",
-        "murmusoftwareinfotech.com",
-        "billingfast.com",
-        "tallyatcloud.com"
+        "razorpay.com",
+        "innoviti.com",
+        "sprintnxt.in",
+        "rugr.com",
+        "easebuzz.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "how stock alerts improve retail efficiency",
+      "keyword": "benefits of multiple payment methods for indian businesses",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "finaleinventory.com",
-        "cin7.com",
-        "setubridgetech.medium.com",
-        "facebook.com",
-        "ososs.com"
+        "gocardless.com",
+        "monei.com",
+        "razorpay.com",
+        "easebuzz.in",
+        "payu.in"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real time stock tracking for gst compliance",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "tallysolutions.com",
-        "base.com",
-        "busy.in",
-        "khatabilling.com",
-        "facebook.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "inventory management with automated reorder alerts",
+      "keyword": "improve smes cash flow with b2b payment technology",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "clappia.com",
-        "researchgate.net",
-        "elementlogic.net",
-        "netsuite.com",
-        "youtube.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "smart inventory management system features",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "smart-inventory-manager.com",
-        "rfgen.com",
-        "netsuite.com",
-        "matiyas.com",
-        "scribd.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time inventory visibility reduce stockouts",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "netsuite.com",
-        "commercetools.com",
-        "b1bwise.com",
-        "y3.sg",
-        "omniful.ai"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "barcode based billing and inventory control",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "mybillbook.in",
-        "vyaparapp.in",
-        "macotech.in",
-        "technologycounter.com",
-        "businessbookplus.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "automated procurement and gst invoicing integration",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "symtrax.com",
-        "cygnet.one",
-        "tallysolutions.com",
-        "cogniscient.in",
-        "shivit.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "real time demand forecasting for retail stores",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "relexsolutions.com",
-        "repository.rit.edu",
-        "yieldigo.com",
-        "tblocks.com",
-        "straive.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "smart billing system for small business india",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "mybillbook.in",
-        "billingsoftwareindia.in",
-        "salesforce.com",
-        "youtube.com",
-        "zoho.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "inventory alerts for low stock and expiry",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "apps.odoo.com",
-        "n8n.io",
-        "baskit.in",
-        "busy.in",
-        "sumtracker.com"
-      ],
-      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
-    },
-    {
-      "keyword": "real time inventory tracking for multi store retail",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "zoho.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "zoho.com",
-        "gofrugal.com",
-        "metaoption.com",
-        "vasy.ai",
-        "outputbooks.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "gst compliant smart billing and inventory software",
-      "verdict": "PASS",
-      "score": 3,
-      "tier1_hits": [
-        "tallysolutions.com"
-      ],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "invohydra.com",
-        "scribd.com",
-        "gstsof.com",
-        "slideshare.net",
-        "tallyatcloud.com"
-      ],
-      "reason": "Low authority presence (score=3). Winnable with quality content."
-    },
-    {
-      "keyword": "how to set up real time inventory alerts",
-      "verdict": "PASS",
-      "score": 0,
-      "tier1_hits": [],
-      "tier2_hits": [],
-      "top_5_domains": [
-        "help.talech.com",
-        "procuzy.com",
+        "transfermate.com",
+        "glbank.com",
+        "thephoenix.ie",
         "linkedin.com",
-        "erpsoftwareblog.com",
-        "trackersuite.ai"
+        "centime.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "benefits of iot enabled inventory management india",
+      "keyword": "payment link usage for international payments india",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "aniche-solutions.com",
-        "letstrack.in",
-        "researchgate.net",
-        "awlindia.com",
-        "effectivesoft.com"
+        "razorpay.com",
+        "cashfree.com",
+        "payu.in",
+        "payoneer.com",
+        "ccavenue.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "real time inventory updates at point of sale",
+      "keyword": "cash flow management using digital payment links",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "irejournals.com",
-        "irjmets.com",
-        "entries.ai",
-        "researchgate.net",
-        "galaxy.maropost.com"
+        "biz.libretexts.org",
+        "melio.com",
+        "cashflows.com",
+        "payit123.com",
+        "researchgate.net"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     },
     {
-      "keyword": "smart inventory management best practices retail",
+      "keyword": "adopting faster payments for indian smes",
       "verdict": "PASS",
       "score": 0,
       "tier1_hits": [],
       "tier2_hits": [],
       "top_5_domains": [
-        "finaleinventory.com",
-        "netsuite.com",
-        "impactanalytics.ai",
-        "cin7.com",
-        "oracle.com"
+        "pwc.in",
+        "bis.org",
+        "facebook.com",
+        "ijemr.vandanapublications.com",
+        "blogs.worldbank.org"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "strategies to boost smes cash flow with payment links",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "stripe.com",
+        "globalpayments.com",
+        "melio.com",
+        "glbank.com",
+        "kanzum.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "guide to multi payment acceptance india 2026",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "razorpay.com",
+        "plutosone.com",
+        "toucanpay.in",
+        "ccavenue.com",
+        "gr4vy.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "how to choose payment solution for small business india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "razorpay.com",
+        "wise.com",
+        "stripe.com",
+        "payu.in",
+        "business.phonepe.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "impact of digital payments on smes financial performance",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "economics.ifrel.org",
+        "papers.ssrn.com",
+        "ijefm.co.in",
+        "ijfmr.com",
+        "researchgate.net"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "early payment platforms for indian msmes",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "razorpay.com",
+        "pay10.in",
+        "takkada.com",
+        "payoneer.com",
+        "instamojo.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "using payment gateways to reduce transaction costs india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "razorpay.com",
+        "reddit.com",
+        "ccavenue.com",
+        "wise.com",
+        "paymentsetu.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "cash flow visibility through payment data integration",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "stripe.com",
+        "erp.today",
+        "numeric.io",
+        "optimus.tech",
+        "serrala.com"
+      ],
+      "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
+    },
+    {
+      "keyword": "best practices for payment link sharing india",
+      "verdict": "PASS",
+      "score": 0,
+      "tier1_hits": [],
+      "tier2_hits": [],
+      "top_5_domains": [
+        "razorpay.com",
+        "payoneer.com",
+        "business.paytm.com",
+        "payu.in",
+        "knowledge.hubspot.com"
       ],
       "reason": "No major authority domains in top 10. High opportunity for InvoHydra."
     }

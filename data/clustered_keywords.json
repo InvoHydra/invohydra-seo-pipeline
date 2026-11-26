@@ -1,85 +1,42 @@
 {
   "clusters": [
     {
-      "hub_topic": "Real-time inventory monitoring & GST compliance",
+      "hub_topic": "Payment Links to Accelerate SME Cash Flow",
       "demand": "High",
       "intent": "Informational",
-      "product_fit_rationale": "Leverages inventory_management, real_time_sync, stock_alerts, and gst_compliance features to provide live stock visibility, low‑stock alerts and GST‑aligned tracking across multiple stores and POS terminals.",
+      "product_fit_rationale": "InvoHydra supports payment_link_sharing, real_time_payment_tracking, and automated_payment_reminders, enabling SMEs to generate and share payment links that speed up collections and improve cash‑flow visibility.",
       "keywords": [
-        "real time inventory monitoring benefits retail",
-        "real time inventory visibility reduce stockouts",
-        "real time inventory tracking for multi store retail",
-        "real time inventory updates at point of sale",
-        "how to set up real time inventory alerts",
-        "real time stock tracking for gst compliance"
+        "how payment links accelerate cash flow for smes",
+        "improve smes cash flow with b2b payment technology",
+        "cash flow management using digital payment links",
+        "strategies to boost smes cash flow with payment links",
+        "cash flow visibility through payment data integration"
       ]
     },
     {
-      "hub_topic": "Smart billing & inventory integration for retail",
+      "hub_topic": "Multi‑Payment Acceptance & Faster Payments for Indian SMEs",
       "demand": "High",
       "intent": "Transactional",
-      "product_fit_rationale": "Combines smart_billing_automation, automated_tax_calculations, gst_invoice_generation, gst_compliance and inventory_management to deliver an end‑to‑end billing solution that automatically calculates taxes, generates GST‑compliant invoices and syncs with inventory data.",
+      "product_fit_rationale": "InvoHydra offers multi_payment_methods, multi_payment_support, and razorpay_payment_integration, allowing Indian SMEs to accept diverse payment types, adopt faster payment rails, and reduce transaction costs.",
       "keywords": [
-        "smart billing solutions for retail inventory",
-        "smart billing system for small business india",
-        "gst compliant smart billing and inventory software"
+        "multi payment acceptance strategies for indian smes",
+        "benefits of multiple payment methods for indian businesses",
+        "adopting faster payments for indian smes",
+        "guide to multi payment acceptance india 2026",
+        "how to choose payment solution for small business india",
+        "using payment gateways to reduce transaction costs india"
       ]
     },
     {
-      "hub_topic": "Stock alerts and low‑stock management",
+      "hub_topic": "International Payments, Early Payment Platforms & Best Practices",
       "demand": "Medium",
       "intent": "Informational",
-      "product_fit_rationale": "Utilizes stock_alerts and inventory_management to trigger automated reorder/expiry notifications, helping retailers prevent stock‑outs and manage perishable items efficiently.",
+      "product_fit_rationale": "Features like payment_link_sharing, multi_currency_billing, and real_time_payment_tracking let SMEs handle cross‑border payment links, leverage early‑payment platforms, and follow best‑practice sharing guidelines.",
       "keywords": [
-        "how stock alerts improve retail efficiency",
-        "inventory alerts for low stock and expiry",
-        "inventory management with automated reorder alerts"
-      ]
-    },
-    {
-      "hub_topic": "Barcode‑based billing and inventory control",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "Employs barcode_scanning, pos_billing and inventory_management to enable fast barcode‑driven sales entry and real‑time inventory deduction at the point of sale.",
-      "keywords": [
-        "barcode based billing and inventory control"
-      ]
-    },
-    {
-      "hub_topic": "Automated procurement & GST invoicing integration",
-      "demand": "Medium",
-      "intent": "Transactional",
-      "product_fit_rationale": "Integrates automated procurement workflows with gst_invoice_generation and automated_tax_calculations, allowing seamless purchase order creation and GST‑compliant invoicing.",
-      "keywords": [
-        "automated procurement and gst invoicing integration"
-      ]
-    },
-    {
-      "hub_topic": "Real‑time demand forecasting for retail stores",
-      "demand": "Medium",
-      "intent": "Informational",
-      "product_fit_rationale": "Leverages smart_insights, reports_and_analytics and real_time_sync to analyze sales trends and forecast inventory needs across locations.",
-      "keywords": [
-        "real time demand forecasting for retail stores"
-      ]
-    },
-    {
-      "hub_topic": "IoT‑enabled inventory management benefits in India",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Shows how inventory_management combined with real_time_sync and smart_insights can be enhanced by IoT devices for proactive stock monitoring, a capability supported by the platform's real‑time data engine.",
-      "keywords": [
-        "benefits of iot enabled inventory management india"
-      ]
-    },
-    {
-      "hub_topic": "Smart inventory management best practices & features",
-      "demand": "Low",
-      "intent": "Informational",
-      "product_fit_rationale": "Highlights inventory_management, smart_insights and reports_and_analytics features such as automated alerts, multi‑store sync and analytics dashboards that help retailers adopt best practices.",
-      "keywords": [
-        "smart inventory management best practices retail",
-        "smart inventory management system features"
+        "payment link usage for international payments india",
+        "early payment platforms for indian msmes",
+        "impact of digital payments on smes financial performance",
+        "best practices for payment link sharing india"
       ]
     }
   ],
